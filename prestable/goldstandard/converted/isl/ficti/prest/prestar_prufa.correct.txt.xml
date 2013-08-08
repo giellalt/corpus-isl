@@ -1,7 +1,8 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="isl" id="no_id">
   <header>
     <title/>
-    <genre/>
+    <genre code="ficti"/>
     <author>
       <unknown/>
     </author>
@@ -19,8 +20,8 @@
   </header>
   <body>
     <p>Sunnudagur - hvíldardagur 28/05/2006</p>
-    <p>Ræddi viđ Hršbjart um innihald hvíldardagsins. Hann kom međ bráđskemmtilega tillögu, taka sér gyđinga til fyrirmyndar og gera ađeins žađ <errorort correct="nauđsynlegasta" errorinfo="adj,typo">nausynlegasta</errorort>, borđa, fara í göngutúr međ fjölskyldunni, spjalla saman, fara í kirkju, ekki af skyldurækni heldur vegna žess ađ žannig má tryggja, ađ hversdagurinn međ sínar tölvur, sjšnvörp, auglŧsingar, matarstúss, innkaup og vinnu trufli ekki žau samskipti sem mađur hefur viđ žau sem mađur elskar mest.</p>
-    <p>Hrši stakk upp á ađ nota laugardaginn til ađ trappa sig niđur af vinnuvikunni og elda tvöfaldan matarskammt. Hafa síđan kalt borđ á sunnudaginn, elda ekki eđa <errorort correct="leggjast" errorinfo="verb,typo">leggast</errorort> <errorsyn correct=" " errorinfo="adv,redun">ekki</errorsyn> í mikiđ stúss žá. Fyrir vinnufíkil eins og mig verđur erfiđast ađ hafa tölvuna lokađa á sunnudögum. En, žetta er gšđ hugmynd og ég læt hana koma til framkvæmda frá og međ núna.</p>
+    <p>Ræddi við Hróbjart um innihald hvíldardagsins. Hann kom með bráðskemmtilega tillögu, taka sér gyðinga til fyrirmyndar og gera aðeins það <errorort correct="nauðsynlegasta" errorinfo="adj,typo">nausynlegasta</errorort>, borða, fara í göngutúr með fjölskyldunni, spjalla saman, fara í kirkju, ekki af skyldurækni heldur vegna þess að þannig má tryggja, að hversdagurinn með sínar tölvur, sjónvörp, auglýsingar, matarstúss, innkaup og vinnu trufli ekki þau samskipti sem maður hefur við þau sem maður elskar mest.</p>
+    <p>Hrói stakk upp á að nota laugardaginn til að trappa sig niður af vinnuvikunni og elda tvöfaldan matarskammt. Hafa síðan kalt borð á sunnudaginn, elda ekki eða <errorort correct="leggjast" errorinfo="verb,typo">leggast</errorort> <errorsyn correct=" " errorinfo="adv,redun">ekki</errorsyn> í mikið stúss þá. Fyrir vinnufíkil eins og mig verður erfiðast að hafa tölvuna lokaða á sunnudögum. En, þetta er góð hugmynd og ég læt hana koma til framkvæmda frá og með núna.</p>
     <p>Sjáumst á morgun.</p>
   </body>
 </document>
