@@ -1,0 +1,25 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nno">Sunnudagur, 01. 05. 05.  Var klukkan tólf í Silfri Egils á Stöð 2.</p>
+    <p>Í fyrsta hluta ræddum við Steingrímur J. Sigfússon, Margrét Frímannsdóttir og Hjálmar Árnason um þinghaldið í vetur. Ég sagði hæst hafa borið tilraunir stjórnarandstöðu til að veikja trúverðugleika nýs forsætisráðherra, Halldórs Ásgrímssonar, og hefði stjórnarandstaðan ekki haft erindi sem erfiði.</p>
+    <p>Í öðrum hlutanum ræddi ég við Dag B. Eggertsson um skipulag í Vatnsmýrinni og áréttaði ég þar þá skoðun mína, að mér væri óskiljanlegt, hvers vegna Háskólinn í Reykjavík vildi dragast inn í deilur um þetta svæði og sagði, að auðvitað yrði að fara fram umhverfismat um framkvæmdina. Dagur var með barnaleg skot á mig í máli sínu og tel ég þau stafa af reynsluleysi hans í umræðum af þessum toga auk þess var sérkennilegt að hlusta á hann víkja sér undan spurningum Egils um það, hvað eiginlega hefði verið ákveðið varðandi <errorort correct="Vatnsmýrina" errorinfo="meta,stem,nt-tn">Vantsmýrina</errorort>.</p>
+    <p>Í þriðja hlutanum ræddi ég við þá Össur Skarphéðinsson og Ásgeir Friðgeirsson um væntanlegar þingkosningar í Bretlandi. Sagðist ég sama sinnis og The Economist, að Tony Blair ætti stuðning skilinn fyrir innrásina í Írak og álagningu skólagjalda í breskum háskólum.</p>
+    <p xml:lang="nno">Klukkan var um 13.00 þegar ég yfirgaf stólinn við hlið Egils Helgasonar.</p>
+  </body>
+</document>

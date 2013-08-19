@@ -1,0 +1,21 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nno">Þriðjudagur, 28. 03. 06.  Klukkan 09.00 hélt Evrópunefndin af stað til fundar við forystumenn EUROPOL í <errorort correct="höfuðstöðvum" errorinfo="typo,stem,0-1">höfuðstövum</errorort> hennar í Haag og vorum við þar fram undir hádegi þegar haldið var til EUROJUST sem einnig er í Haag. Við fræddumst um þessar stofnanir en héldum akandi til flugvallarins um klukkan 15.00 og síðan um London heim og var lent hér kl. 23.30.</p>
+  </body>
+</document>

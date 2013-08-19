@@ -1,0 +1,22 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Þriðjudagur, 03. 05. 05.  Var klukkan 11.30 í flugskýli Landhelgisgæslunnar á Reykjavíkurflugvelli og ritaði undir samning með Jóni Kristjánssyni heilbrigðis- og tryggingaráðherra um samstarf gæslunnar og Landspítala <errorort correct="Íslands - háskólasjúkrahúss" errorinfo="typo,stem,2-1;cmp,noun+noun,1-2">Ísllands-háskólasjúkrahúss</errorort> um lækna um borð í þyrlum gæslunnar.</p>
+    <p>Fór á borgarstjórnarfund klukkan 14.00 og tók þátt í umræðum um framtíð Vatnsmýrarinnar.</p>
+  </body>
+</document>

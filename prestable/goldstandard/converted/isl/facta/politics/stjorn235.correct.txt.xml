@@ -1,0 +1,30 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>föstudagur 31. mars 2006  Tveir umhverfisráðherrar á Þingvöllum Góður gestur og flokksbróðir frá Bretlandi, <errorlang correct="eng">Michael Meacher</errorlang>, fyrrverandi umhverfisráðherra einsog ég, kom til landsins í kvöld. Hann er einn af reyndustu þingmönnum Verkamannaflokksins, og var í fyrstu ríkisstjórn <errorlang correct="eng">Tony Blair</errorlang> frá 1997 til 2003. Þá stýrði hann umhverfismálum, heilbrigðismálum og fór einnig með <errorortreal correct="sveitarstjórnarmál" errorinfo="cmp,genpl-gensg">sveitastjórnarmál</errorortreal> - en í mörgum löndum <errormorphsyn correct="fylgja">fylgjast</errormorphsyn> þau umhverfismálunum.</p>
+    <p>Ég ætla að fara með honum á Þingvöll og sýna honum gersemi þjóðarinnar. <errorlang correct="eng">Meacher</errorlang> er mikill umhverfisverndarsinni, og er einmitt hingað kominn til að halda fyrirlestur um erfðabreytt matvæli. Hann er gagnrýninn á hversu óvarlega menn fara í framleiðslu á þeim.</p>
+    <p>Fyrir áratug eða svo kom hingað <errorlang correct="eng">Denis Healy</errorlang>, einn af merkustu stjórnmálamönnum Breta á síðustu öld. Þá fór doktor Árný með honum á Þingvöll að skýra út fyrir honum landrekið og jarðfræði Þingvallasvæðisins. Nú er dr. Árný á leið til <errorlang correct="eng">Oxford</errorlang> og kemst ekki með okkur.</p>
+    <p>Mér finnst alltaf jafngaman að tilviljunum lífsins. <errorlang correct="eng">Healy</errorlang> varð varaformaður Verkamannaflokksins en <errorlang correct="eng">Meacher</errorlang> tapaði naumlega kosningu í embættið fyrir <errorlang correct="eng">Roy Hattersley</errorlang> 1983. Helstu tengsl mín og doktors Árnýjar við minn gamla flokk hafa því seinni árin verið að sýna Þingvelli kandídötum til varaformennsku í breska Verkó!</p>
+    <p><errorlang correct="eng">Meacher</errorlang>, einsog ég, var í vinstri armi flokksins á átakaárunum frá 1980 -1983. Ég var auðvitað bara óbreyttur félagi en reif kjaft á fundum í háskóladeildinni í Austur-Anglíu. Seinna varð ég félagi í Verkamannaflokknum í lítilli hafnarborg, og var einn af fáum sem ekki tilheyrði villta vinstrinu í <errorlang correct="eng">Militant Tendency</errorlang>. Þetta var á árunum þegar <errorlang correct="foreign,eng">trotskíistarnir</errorlang> óðu uppi í flokknum - og alltaf var ég samt svolítið veikur fyrir þeim!</p>
+    <p xml:lang="nno"><errorlang correct="eng">Meacher</errorlang> var einmitt fulltrúi vinstri armsins þegar hann tapaði á móti <errorlang correct="eng">Roy Hattersley</errorlang> árið 1983. Ég fylgdist ákaflega vel með átökunum í Verkamannaflokknum á þessum árum, og <errorlang correct="eng">Meacher</errorlang> var einn rökfimasti herforingi <errorlang correct="eng">Tony Benn</errorlang> sem gerði þá harða hríð að forystunni.</p>
+    <p><errorlang correct="eng">Meacher</errorlang> er á seinni árum eftirsóttur fyrirlesari um heilbrigðis- og umhverfismál, en báðum málaflokkunum stjórnaði hann í fyrstu ríkisstjórn <errorlang correct="eng">Tony Blair</errorlang> <errorort correct="eins og" errorinfo="cmp,adj+conj,1-2">einsog</errorort> fyrr segir. Hann hefur látið erfðabreytt matvæli og loftslagsmál mjög til sín taka í breska þinginu og er sannkölluð fróðleiksnáma um hvorutveggja.</p>
+    <p>Þingmaðurinn hefur <errorsyn correct="0">á</errorsyn> jafnframt verið mjög gagnrýninn á margt sem <errorlang correct="eng">Tony Blair</errorlang> hefur tekið sér fyrir hendur, og hélt uppi óvæginni gagnrýni á innrásina í Írak. Sagan sýnir hversu rétt hann hafði fyrir sér, og <errorlang correct="eng">Blair</errorlang> rangt - enda verða þau mistök illu heilli pólitískur bautasteinn hans.</p>
+    <p>Íraksstríðið kann sömuleiðis að verða hluti af pólitískri grafskrift stjórnmálamanna hér á landi - enda var konan sem Geir komst ekki með heim af ballinu að lýsa yfir í dag að Bandaríkjamenn hefðu gert margvísleg mistök með innrásinni.</p>
+    <p xml:lang="nno">Ég hlakka til að sýna <errorlang correct="eng">Meacher</errorlang> hvar elsta þingið var stofnað og segja honum af urriðanum í Öxará!</p>
+  </body>
+</document>

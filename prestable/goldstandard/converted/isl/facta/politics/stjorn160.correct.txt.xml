@@ -1,0 +1,26 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Fimmtudagur, 04. 03. 04.  Klukkan 10.30 hófst umræða utan dagskrár á alþingi um sérsveit lögreglunnar að frumkvæði Ögmundar <errorlex correct=",">Jónassonar.</errorlex> formanns þingflokks vinstri/<errorortreal correct="Vinstri grænna" errorinfo="cap,stem,v-V;cmp,slash,1-2">grænna</errorortreal>. Ég skýrði sjónarmið mín í ræðu og hlustaði síðan á málflutning annarra, áður en ég átti lokaorðin eins og venja er í slíkum umræðum.</p>
+    <p xml:lang="dan">Framganga Helga Hjörvars, þingmanns Samfylkingarinnar, kom mér sérstaklega á óvart, vegna þess hve ræða hans var innihaldslaus og ómerkileg.</p>
+    <p>Klukkan 14.00 fór ég á fund í borgarstjórn Reykjavíkur. Þar bar lögreglumál einnig á góma með vísan til þess, hve vel hefur til tekist með hverfalöggæslu í Grafarvoginum og verkefnið Hringurinn þar. Fór svo að Guðlaugur Þór Þórðarson, borgarfulltrúi okkar sjálfstæðismanna, bar fram tillögu, þar sem fagnað var ákvörðun um að fjölga almennum lögreglumönnum í Reykjavík um 10 og hvatt til enn frekari aðgerða til að efla hina góðu hverfalöggæslu. Var <errorort correct="tillagan" errorinfo="meta,stem,gana-agan">tillgana</errorort> samþykkt með 13 samhljóða atkvæðum af 15 í borgarstjórninni, eftir að R-listanum gafst fimm mínútna fundarhlé til að taka afstöðu til málsins.</p>
+    <p>Helgi Hjörvar er varaborgarfulltrúi og sat fyrri hluta borgarstjórnarfundarins. Fjarvera <errormorphsyn correct="hans">hann</errormorphsyn> leiddi til þess, að unnt var að ræða á málefnalegum forsendum um löggæslu og lögreglu og komast að skynsamlegri niðurstöðu.</p>
+    <p>Ræddi um klukkan 15.30 í síma úr ráðhúsinu við Hallgrím Thorsteinsson á Útvarpi Sögu en hann var með Einar Karl Haraldsson í hljóðstofu hjá sér. Skiptumst við <errorlex correct="á">að</errorlex> skoðunum um sérsveitina.</p>
+    <p xml:lang="nno">Klukkan 19.30 var ég í Kastljósinu með Ögmundi Jónassyni og ræddi um sérsveitar- og lögreglumál við þá Sigmar og Kristján.</p>
+  </body>
+</document>

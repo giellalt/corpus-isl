@@ -1,0 +1,24 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p xml:lang="smj">þriðjudagur, maí 25, 2004</p>
+    <p xml:lang="nno">Tvífarar</p>
+    <p xml:lang="nno">Er ég ein um að finnast <errorlang correct="eng">Michael Douglas</errorlang> og <errorlang correct="eng">Martin Sheen</errorlang> vera alveg eins?</p>
+    <p>Ég er <errorort correct="enn þá" errorinfo="cmp,adv+adv,1-2">ennþá</errorort> aum í fingrinum síðan ég heftaði sjálfa mig.</p>
+  </body>
+</document>

@@ -1,0 +1,21 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nno">Sunnudagur, 27. 03. 05.  Veðrið var svo gott í Fljótshlíðinni að við gátum snætt <errorort correct="morgunverðinn" errorinfo="con,suff,n-nn">morgunverðin</errorort> úti. Fórum í messu klukkan 14.00 í Ásólfsskálakirkju, þar sem séra Halldór Gunnarsson í Holti predikaði. Eftir að hafa þegið kirkjukaffi í Holti fór séra Halldór með okkur í Stóra Dal og sýndi okkur kirkjuna þar.</p>
+  </body>
+</document>

@@ -1,0 +1,21 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p xml:lang="dan">Miðvikudagur, 17. 03. 04.  Fór í Laugarásbíó klukkan 20.00 á forsýningu á <errorlang correct="eng">Passion</errorlang>, <errorort correct="píslargöngu" errorinfo="typo,stem,0-1">píslaröngu</errorort> Krists, eftir <errorlang correct="eng">Mel Gibson</errorlang>. Þótti mikið til myndarinnar koma.</p>
+  </body>
+</document>

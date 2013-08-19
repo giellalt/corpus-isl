@@ -1,0 +1,26 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Fimmtudagur, 25. 08. 05.  Í samráði við mig hefur Margeir St. Ingólfsson hjá Hugsmiðjunni breytt útliti vefsíðunnar og hleypt henni á vefinn í nýjum búningi í dag. Með breytingunni verður dagbókin meira áberandi en áður og kann ég að fara að nota hana til að segja frá fleiru en því, sem á daga mína drífur. * Flaug klukkan 07.45 til Ísafjarðar, þar sem þingflokkur sjálfstæðismanna hittist.</p>
+    <p>Fórum til <errorort correct="Bolungarvíkur" errorinfo="meta,stem,gun-ung">Bolgunarvíkur</errorort> og snæddum morgunverð með bæjarfulltrúum sjálfstæðismanna.</p>
+    <p>Heimsóttum sjúkrahúsið á Ísafirði, fyrirtækið 3Xstál, þróunarsetrið og háskólasetrið.</p>
+    <p>Snæddum hádegisverð með bæjarfulltrúum Sjálfstæðisflokksins á Ísafirði.</p>
+    <p>Funduðum á hótelinu og var rætt um fjárlagafrumvarp komandi árs eins og venja er á sumarfundum þingflokksins. Til að unnt sé að leggja frumvarpið fram í upphafi þings, þurfa þingflokkar ríkisstjórnarinnar að veita henni grænt ljós til þess um þetta leyti árs.</p>
+    <p xml:lang="nno">Ég hélt heim með vél klukkan 18. 20.</p>
+  </body>
+</document>

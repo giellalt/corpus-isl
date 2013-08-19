@@ -1,0 +1,21 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Miðvikudagur 23.10.2002  Klukkan 17.00 var fundur í borgarstjórnarflokki sjálfstæðismanna, þar sem við <errorort correct="lögðum" errorinfo="meta,stem,ðg-gð">löðgum</errorort> á ráðin um afstöðu til mála og ræddum stefnumál okkar.</p>
+  </body>
+</document>

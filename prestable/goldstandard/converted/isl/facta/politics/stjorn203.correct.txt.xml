@@ -1,0 +1,21 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Þriðjudagur 31. 12. 02 - gamlársdagur  Fór klukkan 14.45 í Skjáeinn en settist ekki fyrr en um 15.30 í þáttinn Silfur Egils - var þar fyrst með Stefáni Jóni Hafstein og Degi B. Eggertssyni, síðan bættist Guðni <errorort correct="Ágústsson" errorinfo="typo,stem,0-1">Ágútsson</errorort> í hópinn, skömmu síðar véku þeir Dagur og Stefán Jón fyrir Steingrími J. Sigfússyni og Össuri Skarphéðinssyni. Lauk þættinum um 16.30.</p>
+  </body>
+</document>

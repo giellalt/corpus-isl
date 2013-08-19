@@ -1,0 +1,26 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>http://visir.is/djupid-faer-glimrandi-doma-/article/2012120919678 Kvikmyndin Djúpið í leikstjórn Baltasar Kormáks fær afbragðs dóma í erlendum fjölmiðlum. Baltasar er meðal annars sagður ná fram áhrifamiklum og raunhæfum senum úti á sjó sem minna á bestu verk leikstjóranna James Cameron og Wolfgang Petersen.</p>
+    <p>Djúpið var frumsýnd á kvikmyndahátíðinni í Toronto síðastliðið föstudagskvöld og fékk hún strax góð viðbrögð en eins og fréttastofa greindi frá á laugardag höfðu Bandaríkjamenn strax sýnt áhuga á að endurgera myndina.</p>
+    <p>Handrit <errorort correct="kvikmyndarinnar" errorinfo="typo,stem,0-1">kvimyndarinnar</errorort> byggir á atburði sem varð árið 1984 en þá sökk skipið Hellisey austur af Heimaey. Fjórir af fimm skipverjum drukknuðu en einum þeirra, <errormorphsyn correct="Guðlaugi Friðþórssyni">Guðlaugur Friðþórsson</errormorphsyn>, tókst að synda sex kílómetra og ná til lands.</p>
+    <p>Sagan er átakamikil og segir í dómi Hollywood Reporter að senur í fyrrihluta myndarinnar sem gerast úti á sjó séu mjög áhrifamiklar og raunhæfar og minni á bestu verk James Cameron, leikstjóra Titanic og Avatar og Wolfgang Petersen, sem meðal annars leikstýrði the Perfect Storm og Das Boot. Gagnrýnandi Hollywood Reporter telur hins vegar myndina missa kraft í seinni hlutanum þar sem Guðlaugur eða Gulli, sem leikinn er af Ólafi Darra Ólafssyni, er kominn í land og þarf að takast á við afleiðingar þess að vera á lífi. Þá segir í dómnum að mynd- og hljóðvinnslu myndarinnar sé framúrskarandi og styðji vel við stórbrotna <errorortreal correct="atburðarásina" errorinfo="cmp,suff,gensg-genpl">atburðarrásina</errorortreal>.</p>
+    <p>New York Times segir í umfjöllun sinni um kvikmyndahátíðina í Toronto að tugir mynda á hátíðinni séu <errormorphsyn correct="byggðir">byggðar</errormorphsyn> á raunverulegum atburðum og er þar sérstaklega minnst á sögu Guðlaugs og talað um að ískaldur sjórinn, hvassir steinarnir og óendanlegt svartnætti vofi yfir manninum í sögu um tilveru hans og tómleika.</p>
+    <p>Þá er myndin lofuð í hástert á heimasíðu Screen Daily en þar segir meðal annars að glæsilegt sjónarspil og draugaleg hljóð miskunnarlausrar náttúrunnar ásamt hrífandi söguþræði ætti að lokka til sín marga áhorfendur.</p>
+  </body>
+</document>

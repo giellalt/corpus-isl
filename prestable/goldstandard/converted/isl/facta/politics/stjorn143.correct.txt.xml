@@ -1,0 +1,26 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nno">Laugardagur, 31. 07. 04.  Klukkan 12.30 hélt ég af stað í Skálholt með feðginunum <errorlang correct="eng">Kenneth</errorlang> og <errorlang correct="eng">Helen East</errorlang>, en við <errorlang correct="eng">Kenneth</errorlang> höfum þekkst síðan hann var sendiherra Breta hér á landi í síðasta þorskastríðinu,  þar til hann hætti 60 ára árið 1981. Hann var hér sendiherra, þegar stjórnmálasambandinu við Breta var slitið árið 1976 en kom síðan aftur. Ég tók einu sinni viðtal um það efni við hann fyrir sjónvarpið.</p>
+    <p>Klukkan 14.00 hlustaði ég á fyrirlestur Helgu Ingólfsdóttur, listræns stjórnanda sumartónleikanna í <errorort correct="Skálholti" errorinfo="meta,stem,tl-lt">Skálhotli</errorort>, þar sem hún fór yfir 30 ára sögu tónleikanna.</p>
+    <p>Klukkan 15.00 hlustuðum við á Bach-sveitina flytja ítalska tónlist í Skálholtskirkju.</p>
+    <p>Klukkan 16.00 hlustuðum við á Skálholtskvartettinn flytja þrjá kvartetta í kirkjunni.</p>
+    <p>Rut lék bæði í sveitinni og í kvartettinum.</p>
+    <p>Eftir kvöldverð í Skálholti héldum við áfram austur í <errorort correct="Fljótshlíð" errorinfo="typo,stem,1-0">Fljótsthlíð</errorort> en um helgina ætla ég að sýna þessum ensku vinum mínum Suðurland, hvernig sem viðrar.</p>
+  </body>
+</document>

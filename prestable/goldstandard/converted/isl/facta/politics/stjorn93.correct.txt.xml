@@ -1,0 +1,23 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Laugardagur, 10. 09. 05.  Fórum úr Fljótshlíðinni <errorort correct="í" errorinfo="vow,stem,a-á">i</errorort> kvöldverðarhóf í Aratungu og síðan þaðan aftur austur.</p>
+    <p>Sá síðan mynd í sjónvarpinu um Hamborgarhópinn, það er þá, sem réðust á Bandaríkin 11/9 2001 í nafni <errorort correct="íslam" errorinfo="vow,stem,a-á">islam</errorort>.</p>
+    <p>Árni M. Mathiesen lýsti yfir stuðningi við Þorgerði Katrínu Gunnardsdóttur í varaformannskjöri. Hún verður þó ekki sjálfkjörin, því að Kristján Þór <errorlex correct=",">Júlíusson.</errorlex> bæjarstjóri á Akureyri, hefur einnig <errorsyn correct="lýst yfir">lýst</errorsyn> framboði sínu.</p>
+  </body>
+</document>

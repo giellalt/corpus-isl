@@ -1,0 +1,27 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p xml:lang="kal">09 apríl, 2006</p>
+    <p xml:lang="eng">Mér leiðist</p>
+    <p>Er að vinna núna.. komin í smá <errorsyn correct="helgardjobb...">helgar djobb</errorsyn> aðallega felst vinnan í því að vera til staðar ef eitthvað kemur upp á... og það er ekkert að koma upp á.</p>
+    <p>Sem er bara fínt vegna þess að ég mundi örugglega bara <errorlex correct="foreign,eng">panika</errorlex> ef eitthvað myndi koma <errorort correct="upp á" errorinfo="cmp,adv+pp,1-2">uppá</errorort>.</p>
+    <p>En ég hef lítið að gera.. fékk mér bók til að lesa.. en tekst ekkert að ná einbeitningunni. Veit eiginlega ekki hvað ég á að gera af mér..</p>
+    <p xml:lang="sme">Mér leiðist bara...</p>
+    <p>Síðan hef ég ekkert til að skrifa um hérna.. jæja.. sumir dagar eru bara ekkert sérstakir.. maður verður bara að sætta sig við það. #</p>
+  </body>
+</document>

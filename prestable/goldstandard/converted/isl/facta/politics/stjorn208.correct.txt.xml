@@ -1,0 +1,22 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Fimmtudagur 5.12.02  Var um <errorort correct="morguninn" errorinfo="con,stem,n-nn">morgunin</errorort> á Stöð 2 í þættinum Ísland í bítið með Ingibjörgu Sólrúnu Gísladóttur, þar sem við ræddum um fjárhagsáætlun Reykjavíkurborgar en hún var til umræðu á borgarstjórnarfundi síðdegis þennan sama dag.</p>
+    <p>Það hefur verið mjög gagnlegt fyrir mig undanfarnar vikur að sitja fundi í borgarráði og fara yfir starfsáætlanir einstakra stofnana og sviða borgarinnar. Hefur komið mér á óvart, hve veikur grunnur er undir mörgu og hve pólitísk stefnumörkun og forysta virðist veik, enda fer fjárhagsáætlun 2002 meira en 2 <errormorphsyn correct="milljarða">milljarði</errormorphsyn> króna fram úr áætlun og stefnir í óvissu á næsta ári.</p>
+  </body>
+</document>

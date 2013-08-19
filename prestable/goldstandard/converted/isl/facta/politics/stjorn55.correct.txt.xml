@@ -1,0 +1,24 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Miðvikudagur, 14. 12. 05.  Var klukkan 12.00 á efri hæð í Sólon Íslandus á fundi hjá Landsambandi sjálfstæðiskvenna og Tikin.is undir stjórn Ástu Möller til að ræða þann kafla í bók Guðna Th. Jóhannessonar Völundarhús valdsins, sem snýst um stjórnarmyndun Gunnars Thoroddsens 8. febrúar 1980.</p>
+    <p>Mitt <errorort correct="sjónarmið" errorinfo="typo,stem,m-n">sjómarmið</errorort> vegna bókarinnar ætla ég að ræða nánar síðar. Þarna sagði ég, að allir leikendur í bókinni væru menn, sem ég þekkti á einn eða annan veg. Ég hefði ekki gert mér grein fyrir, að Kristján Eldjárn hefði skráð samtöl vegna stjórnarmyndunar á þann veg, sem hann gerði. Ég hefði rætt við hann í trúnaði. Hann hefði rétt eftir mér.</p>
+    <p>Þorsteinn Pálsson, sem var í pallborði ásamt mér, og ræddi málið, eftir að Guðni hafði hafið fundinn, sagði mikla einföldun að tala um sigurvegara í stjórnmálum eins og í knattspyrnuleik, Geir gæti talist sigurvegari, ef litið væri til málefna, þótt Gunnar væri talinn hafa sigrað við stjórnarmyndun 8. febrúar 1980.</p>
+    <p xml:lang="nno">Síðdegis var fundur í Evrópunefnd.</p>
+  </body>
+</document>

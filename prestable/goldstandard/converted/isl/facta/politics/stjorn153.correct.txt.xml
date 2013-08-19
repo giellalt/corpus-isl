@@ -1,0 +1,22 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Þriðjudagur 08. 06. 04  Ríkisstjórnin kom saman til fundar á venjulegum tíma klukkan 09.30. Var þetta fyrsti fundur hennar, eftir að Ólafur Ragnar hafði tilkynnt <errorort correct="synjunina" errorinfo="typo,suff,0-2">synjuna</errorort> á fjölmiðlalögunum.  Lagt var á ráðin um að þing kæmi saman 5. júlí og <errorort correct="atkvæðagreiðsla" errorinfo="typo,stem,6-0">atkvæðagreiðagreiðsla</errorort> færi fram fyrsta eða annan sunnudag í ágúst. Jafnframt var ákveðið hvaða fjórir lögfræðingar ættu að sitja í nefnd, sem semdi tillögur að lagafrumvarpi um atkvæðagreiðsluna.</p>
+    <p>Um kvöldið fórum við Rut í Iðnó, þar sem Illugi Gunnarsson, aðstoðarmaður forsætisráðherra, efndi til útgáfuteitis í tilefni af því, að hann var að gefa út hljómdisk með eigin píanóleik.</p>
+  </body>
+</document>

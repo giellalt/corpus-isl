@@ -1,0 +1,21 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Þriðjudagur, 08. 03. 05.  Dóms- og kirkjumálaráðuneytið efndi til málþings um <errorort correct="almannavarnir" errorinfo="typo,stem,1-0">almannarvarnir</errorort>, sem haldið var á hótel Sögu. Um 100 manns sóttu það frá 11.00 til 16.00. Ég flutti setningarræðu og samantekt í lokin.</p>
+  </body>
+</document>

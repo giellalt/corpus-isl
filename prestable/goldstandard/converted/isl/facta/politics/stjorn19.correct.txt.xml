@@ -1,0 +1,24 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Mánudagur, 17. 04. 06.  Íslendingum má í léttu rúmi liggja, þótt <errorlang correct="eng">Donald Rumsfeld</errorlang> verði látinn fjúka sem varnarmálaráðherra Bandaríkjanna. Við höfum líklega ekki átt þar neinn hauk í horni. <errorlang correct="eng">Rumsfeld</errorlang> sætir vaxandi gagnrýni málsmetandi hershöfðingja fyrir þvermóðsku og hroka, auk þess sem  þeir telja hann hafa sýnt litla fyrirhyggju vegna eftirleiks innrásarinnar í Írak. <errorlang correct="eng">Henry Kissinger</errorlang> lýsir  <errorlang correct="eng">Rumsfeld</errorlang> í endurminningum sínum sem snillingi í því að halda sínu í stöðugri valdabaráttu innan bandaríska stjórnkerfisins. Nú reynir enn einu sinni á þennan hæfileika hans.</p>
+    <p><errorlang correct="eng">Rumsfeld</errorlang> kýs að tala niður til hershöfðingjanna, sem gagnrýna hann og lætur eins og þeir séu bitrir eftirlaunamenn að draga að sér athygli. Þegar <errorlang correct="eng">Condoleezza Rice</errorlang>, utanríkisráðherra Bandaríkjanna, sagði nýlega á blaðamannafundi í Bretlandi, að ýmislegt hefði vissulega farið úrskeiðis í Írak eftir innrásina, svaraði <errorlang correct="eng">Rumsfeld</errorlang> henni frekar kaldhæðnislega.</p>
+    <p><errorlang correct="eng">Rumsfeld</errorlang> hefur fylgt þeirri stefnu bæði vegna hernaðarins í Afganistan og Írak, að <errorort correct="hernaðaraðgerðin" errorinfo="typo,stem,0-2">hernaðaðgerðin</errorort> eigi að ráða því, hverjir séu kallaðir til þátttöku í henni, en þátttakendurnir eigi ekki að ráða því, hvort gripið sé til aðgerðarinnar. Einstefna af þessu tagi er ekki til þess fallin að laða fram samstarfsvilja annarra.</p>
+    <p><errorlang correct="eng">George W. Bush</errorlang> forseti sá ástæðu til þess í páskaleyfi sínu í <errorlang correct="eng">Camp David</errorlang> að ræða við blaðamenn til að lýsa fullum stuðningi við <errorlang correct="eng">Rumsfeld</errorlang> vegna gagnrýni hershöfðingjanna. Bandaríkjaforseti leggur ekki slíka lykkju á leið sína, nema hann telji mikið í húfi.</p>
+  </body>
+</document>

@@ -1,0 +1,24 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p xml:lang="smj">fimmtudagur, júní 26, 2003</p>
+    <p xml:lang="nno">Harry Potter...</p>
+    <p>...er víst komin út en ég hef ekki útvegað mér eintak enn sökum vinnu og uppsölu. Ég hlakka til að kíkja í hana og er viss um að hún ætti ekki að valda mér vonbrigðum. <errorort correct="Hins vegar" errorinfo="cmp,dem+adv,1-2">Hinsvegar</errorort> hef ég vissar áhyggjur af sjálfri mér, mér datt allt í einu í hug að kannski ég hafi tekið upp á því ómeðvitað og gegn eigin vilja að "þroskast upp úr"Harry Potter eða eitthvað. Það er svo langt síðan ég sökkti mér í hann síðast, kannski kann ég ekki lengur að njóta þess. Annars er þetta bara fluga sem ég fékk í höfuðið, get vonandi tekið af allan vafa sem fyrst. Á morgun jafnvel.</p>
+    <p>Beygingarmynd dagsins: Ég vildi að það væri ekki til neinn sjór í alheiminum #</p>
+  </body>
+</document>

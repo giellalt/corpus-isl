@@ -1,0 +1,22 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Laugardagur, 14. 05. 05.  Fór í heyskap fyrsta sinn á þessu vori, sló og hirti. Veðrið var einstaklega bjart og fallegt. Tugir manna virtust vera í golfi á vellinum á Hellishólum og var þetta í fyrsta sinn, sem ég sé svo marga þar.</p>
+    <p>Kom inn í sjónvarpsdagskrána undir lok beinnar útsendingar frá setningu listahátíðar og var þá forseti Íslands í viðtali við Kristján Kristjánsson og vildi forseti ekki fallast á þá skilgreiningu Kristjáns á hljómsveitinni Trabant, að hún væri fulltrúi lágmenningar, taldi <errorort correct="forseti" errorinfo="typo,stem,0-1">foseti</errorort> hana þvert á móti hirðhljómsveit Habsburgara auk þess sem á honum mátti skilja, að þarna í Hafnarhúsinu væri rjóminn af menningarelítu Evrópu ef ekki heimsins alls saman kominn - hvorki meira né minna.</p>
+  </body>
+</document>

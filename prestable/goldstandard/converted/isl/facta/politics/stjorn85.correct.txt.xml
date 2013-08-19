@@ -1,0 +1,25 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p xml:lang="dan">Miðvikudagur, 28. 09. 05.</p>
+    <p>Var með viðtöl fyrir hádegi eins og venjulegt er. Davíð Oddsson sagði í Kastljósi í gærkvöldi, að sér hefðu þótt viðtalstímarnir sem borgarstjóri hvað erfiðastir í stjórnmálastarfi sínu, þegar hann hitti allt að 50 manns í tveimur viðtalstímum í viku. Sérstaklega hefði verið erfitt, þegar ekki var unnt að veita viðmælandanum neina úrlausn, en oft hefði það verið lokaúrræði fólks í vanda að óska eftir að leggja hann fyrir borgarstjórann.</p>
+    <p>Ég get tekið undir með Davíð, að oft tekur á, að geta ekki brugðist við vanda þeirra, sem koma með erindi sín. Það eru allt annars konar mál, sem menn bera undir dómsmálaráðherra í slíkum viðtalstímum en undir menntamálaráðherra, en miklu fleiri óskuðu eftir að hitta mig sem menntamálaráðherra. Vandinn þar var að láta ekki of langan biðlista myndast, það er auðvelt að koma í veg fyrir slíkt í dómsmálaráðuneytinu.</p>
+    <p>Breski Verkamannaflokkurinn heldur árlegt flokksþing sitt um þessar mundir. Sky-sjónvarpsstöðin var með það sem aðalfrétt af þinginu í dag, að 82 ára gömlum manni hefði verið vísað úr fundarsalnum fyrir að hafa kallaði <errorort correct="fram í" errorinfo="con,stem,2-1;cmp,adv+pp,1-2">frammí</errorort>, þegar Jack Straw utanríkisráðherra var að ræða um ástandið í Írak - sýndar voru myndir, þegar gamla manninum er vísað út og vígalegir öryggisverðir handtaka ungan mann, sem var hlið hins gamla. <errorort correct="Fréttamaður" errorinfo="typo,stem,0-1">Féttamaður</errorort> Sky sagði þetta versta PR-mál fyrir Verkamannaflokkinn í mörg ár.</p>
+    <p>Frá því í fyrsta fréttatíma í morgun og fram eftir öllum degi og raunar fram á kvöld sagði fréttastofa hljóðvarps ríkisins okkur frá því, að stjórnarformaður Baugs, staddur í London, íhugaði að krefjast rannsóknar á meintu samsæri gegn fyrirtækinu. Sem betur fer er það óvenjulegt, að fyrsta frétt sé, að einhver sé að íhuga eitthvað, því að þætti slíkt almennt fréttnæmt, kæmist lítið annað að í fréttatímum.</p>
+  </body>
+</document>

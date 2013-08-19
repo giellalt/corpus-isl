@@ -1,0 +1,27 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>þriðjudagur 23. maí 2006  Pólitískar njósnir og Morgunblaðið Ritstjóri Morgunblaðsins kippir sér ekki upp þó upplýst sé að stjórnvöld hér á landi hafi stundað pólitískar njósnir gegn andstæðingum sínum - jafnvel þingmönnum. Ritstjórnargrein hans í blaðinu í dag ber þess merki að <errorort correct="upplýsingarnar" errorinfo="typo,suff,0-1">upplýsinganar</errorort> koma honum síður en svo á óvart. Það er <errorort correct="eins og" errorinfo="cmp,adj+conj,1-2">einsog</errorort> ritstjórinn undrist að njósnirnar skuli ekki hafa verið meiri!</p>
+    <p>Ritstjórinn rifjar upp ólöglegar njósnir Sovétmanna og setur í framhaldinu fram þessa ótrúlega spurningu: "Máttu þeir einir beita símahlerunum á Íslandi?"</p>
+    <p>Þetta er háskalega nálægt því að segja að þar sem erlend stórveldi brutu landslög með símahlerunum þá sé verjanlegt að íslensk stjórnvöld brjóti stjórnarskrá og hleri heimilissíma pólitískra andstæðinga sinna á Alþingi. Röksemdafærsla af þessu tagi er fjarstæðukennd, svo ekki sé fastar að orði kveðið.</p>
+    <p>Ritstjórinn víkur einnig að því viðhorfi Guðna Th. Jóhannessonar, sagnfræðings, að <errorsyn correct="þó að">þó</errorsyn> símahleranir hafi hugsanlega verið verjanlegar í einhverjum tilvikum kunni annað að gilda um símahleranir vegna landhelgisdeilunnar 1961. Um þetta segir í ritstjórnargreininni:</p>
+    <p>"Á <errorortreal correct="það" errorinfo="typo,stem,0-1">að</errorortreal> verður hins vegar að líta að í öllum landhelgisdeilum Íslendinga og Breta reyndu sósíalistar og aðrir vinstri menn að nota landhelgisdeiluna til þess að ná fram þeim markmiðum að varnarsamningnum yrði sagt upp og Ísland segði sig úr Atlantshafsbandalaginu."</p>
+    <p>En er ekki skoðanafrelsi einn af burðarásum íslenska lýðræðisins? Er það ekki stjórnarskrárvarinn réttur allra Íslendinga - sósíalista <errorort correct="eins og" errorinfo="cmp,adj+conj,1-2">einsog</errorort> annarra - að berjast með öllum löglegum ráðum fyrir því að ná fram skoðun sinni? Um það snúast stjórnmál. Þetta er grundvallaratriði í stjórnskipan okkar. Ég er hlynntur aðild að Atlantshafsbandalaginu en guð forði mér frá því að leggjast með einhverjum hætti gegn rétti annarra til að berjast fyrir andstæðri skoðun.</p>
+    <p>Í stjórnarskránni er í þessum efnum veitt sérstök vernd þeim Íslendingum sem þjóðin kýs sem málsvara sína á þjóðþingið. Sú skoðun sem birtist í leiðara Morgunblaðsins er algerlega ný fyrir mér. Áhrifamesti fjölmiðill landsins þarf að skýra hana betur.</p>
+  </body>
+</document>

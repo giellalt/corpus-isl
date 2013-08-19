@@ -1,0 +1,22 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nno">http://visir.is/othekkjanleg-tyra-banks/article/2012120919060 America’s Next Top Model sjónvarpsstjarnan Tyra Banks, 38 ára, var nánast óþekkjanleg þegar hún skokkaði um götur New York snemma í morgun. Tyra var með derhúfu á höfðinu eins og sjá má í <errorort correct="myndasafni" errorinfo="typo,suff,1-0">myndsasafni</errorort>.</p>
+    <p>Ef myndir sem teknar voru á tískuvikunni í New York eru bornar saman við þær sem teknar voru af henni í morgun er munurinn mikill.</p>
+  </body>
+</document>

@@ -1,0 +1,24 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p xml:lang="sme">fimmtudagur, október 31, 2002</p>
+    <p>Fyrirlesturinn okkar Margrétar vakti mikla lukku. Pakkaleikur með Barbie-Hallgerði og sjálfboðaliði sem sat uppi á borði með hárkollu mæltust svo vel fyrir að Kristín slumpaði á okkur 9,5 í einkunn. Þar með hafa allar íslenskueinkunnir mínar í vetur verið í níunni, újé. (<errorort correct="Hins vegar" errorinfo="cmp,dem+adv,1-2">Hinsvegar</errorort> var ég að enda við að skila auðu stærðfræðiprófi.)</p>
+    <p>Doktor Haukur setti út á ritstíl minn um daginn. Hann kvartaði sáran yfir þeim vana mínum að skammstafa allt sem <errorort correct="hugsast" errorinfo="con,stem,x-gs">huxast</errorort> getur. Kannski hefur hann e-ð til síns máls. Skammstafanafyllerí mitt byrjaði í skriflegum námsglósum en læddist lymskulega yfir á lyklaborðið. (feit stuðlun) Nú gæti ég tekið upp á því að taka gagnrýni hauksins til greina og hætt þessum ósóma. Haukur verður þó að gera sér grein fyrir hversu örlagaríkur þessi vani hefur verið mér, en fyrsta samtal okkar Önna var einmitt um téðar skammstafanir, á tölvustofunni í fyrravetur.</p>
+    <p xml:lang="nno">Er til annað orð yfir "samheiti"? #</p>
+  </body>
+</document>

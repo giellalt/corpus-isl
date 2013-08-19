@@ -1,0 +1,30 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p xml:lang="dan">mánudagur, október 28, 2002</p>
+    <p>Mér er ómögulegt að skilja hvernig móðir mín, sem ég elska og dái, met mikils og virði, getur misskilið svona margt svona herfilega. Má vera að ég æsi mig um of í samtölum við hana, en ég gleymi mér í ákafanum. Aldrei get ég minnst á kunningja mína sem stunda þetta eða hitt áhugamálið án þess að heyra strax:</p>
+    <p>"Hvers vegna vilt þú ekki æfa dans? Dans er svo frábær og <errorsyn correct="0">blablabla</errorsyn> þú bara veist ekki <errorort correct="blablabla... Hvernig" errorinfo="cmp,noun,adv,1-2">blablabla...Hvernig</errorort> væri að þú færir til Þýskalands á málanámskeið? Af hverju gerist þú ekki skiptinemi? Af hverju vildir þú aldrei byrja í frjálsum?"</p>
+    <p><errorort correct="o.s.frv." errorinfo="abp,1-3">osfrv.</errorort> <errorort correct="o.s.frv." errorinfo="abp,1-3">osfrv.</errorort>(Fyrirgefðu Haukur getur þú lesið úr þessu?)</p>
+    <p>Hún gleymir að <errorort correct="samtalið" errorinfo="typo,suff,1-0;vow,suff,a-i">samtalaði</errorort> hófst þegar ég sagðist gjarnan vilja dansa eins vel og Kristín María, sakar mig um að hafa e-ð á móti dansi. Ástæðan f.<errorort correct="f. því" errorinfo="cmp,pp+dem,1-2">því</errorort> að ég er ekki sérlega spennt f.<errorort correct="f. þýskunámskeiði" errorinfo="cmp,pp+noun,1-2">þýskunámskeiði</errorort> er annars vegar peningar og <errorort correct="hins vegar" errorinfo="cmp,dem+adv,1-2">hinsvegar</errorort> staðreyndin að ég er að læra spænsku, frönsku og latínu. Ekki þýsku. Planið var reyndar alltaf að gerast skiptinemi, en hlutirnir breytast. Systkini mín fá nákvæmlega sama spurningafjöld. Kannski er ég svona leiðinleg, þau virðast ekki kippa sér upp við það. En ég reyni að koma þeirri hugmynd minni á framfæri að þar sem þau 2 eru samtals í fótbolta, handbolta, hestum, kór, gítar-og klarinettnámi auk <errorort correct="lúðrasveitar" errorinfo="infl">lúðrarsveitar</errorort> og nemendaráðs, <errorsyn correct="þá sé kannski">er þá kannski</errorsyn> <errorsyn correct="0">ekki</errorsyn> skynsamlegra að þau nái upp sæmilegri færni í því <errorsyn correct="0">frekar</errorsyn> en að stunda allt hitt sem býðst líka samsíða og verða aldrei góð í neinu. Tíminn er ekki nægur til að gera allt.</p>
+    <p>Auðvitað er ég þakklát f.þá umhyggju og....ákefð....sem mamma sýnir í uppeldinu. En samtöl eins og við áttum núna áðan pirra mig samt ögn. Það byrjaði á því að ég sagði henni frá <errorortreal correct="Frökkunum" errorinfo="cap,stem,f-F">frökkunum</errorortreal> sem komu í skiptiprógrammi í skólann, leiddist út í "ásakanir": "<errorortreal correct="cap,stem,a-A">af</errorortreal> hverju tókst þú ekki þátt í þessu? Þú hefðir haft svo gaman af því. Langar þig ekkert til Frakklands? ÞÚ VILT ALDREI GERA NEITT!!"  <errorortreal correct="Og" errorinfo="cap,stem,o-O">og</errorortreal> endaði á því að mamma fór enn einu sinni að lofa Verslunarskólann. Hefur virkilega farið fram hjá henni þessi 17 ár að eitt helsta áhugamál mitt er að ferðast? Þegar ég ákvað að taka ekki þátt í Frakklandsferðinni var það aðallega af fjárhagsástæðum. Mamma blés á þá afsökun. En mitt viðhorf er að þar sem ég er t.d. núna að borga bílprófið mitt og hef varla efni á því sé ekki skynsamlegast að ana út í meiri peningaspanderingar. Ég kæri mig ekki um að lifa <errorort correct="fyrir fram" errorinfo="cmp,pp+adv,1-2">fyrirfram</errorort> og sitja svo í súpunni. <errorsyn correct="Þó að">Þó</errorsyn> mig langi til að gera ótalmargt. Og muni án efa framkvæma margt af því.</p>
+    <p>Kannski er ég bara leiðinleg. # Mar grætur ekki gamla góða föðurlandið, það fær að njóta sín í dag.</p>
+    <p xml:lang="nno">Ö. var voðalegt beibí í nótt. Á meðan ég plöggaði <errorort correct="mýsnar" errorinfo="infl">músurnar</errorort> í tölvunni lá hann (stór, loðinn og umkomulaus) <errorsyn correct="í rúminu">rúminu</errorsyn> og vældi: "Mér er kaaaaalt."Þá átti ég að breiða yfir hann og nudda til hita. Um miðja nótt vaknaði ég svo með hann í hálsakotinu, lítinn <errorlex correct="inni">inn</errorlex> í sér eftir slæma martröð.</p>
+    <p>Mogginn hefur <errorlex correct="hafið">startað</errorlex> <errorort correct="auglýsingaherferð" errorinfo="meta,stem,lg-gl">aulgýsingaherferð</errorort> þar sem fallegt fólk les blaðið og nýtur augnabliksins. Það sem ergir mig er að öll sitja þau í afskaplega óþægilegum stellingum, sem koma vel út á mynd. Minnir mig á gömlu, góðu pósuna þar sem fágaðar stúlkur í síðkjólum sitja undir eplatré með bók í hönd. Ég hef reynt að lesa í þeirri stellingu, það tekur mjög á bakið, mjaðmirnar og handleggina. En er fallegt á myndrænan hátt.</p>
+    <p xml:lang="kal">#</p>
+  </body>
+</document>

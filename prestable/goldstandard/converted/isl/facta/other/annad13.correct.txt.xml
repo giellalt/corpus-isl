@@ -1,0 +1,24 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p xml:lang="smj">sunnudagur, júní 22, 2003</p>
+    <p>Laugardagur til lukku.</p>
+    <p>Ég vann til miðnættis. Fór að sofa. Vaknaði. Vann í 14 tíma. Kíkti í partý. Þar voru margir sem ég ekki þekki og nokkrir sem ég er málkunnug. Þaðan skutlaði ég Jóa í partý sem hann vissi ekki hvar var. Það var á Seltjarnarnesi. Ég var á leið í Mosfellsbæ. Við vorum næstum bensínlaus. Við stoppuðum á þremur <errorort correct="bensínstöðvum" errorinfo="typo,stem,1-0">beðnsínstöðvum</errorort> áður en við gátum sett á bílinn. Við fundum húsið. Ég fór heim að sofa. Vaknaði 5 tímum seinna og fór í vinnuna þar sem gömul kona sagðist þrá mig eins og karlmaður.</p>
+    <p xml:lang="swe">Beygingarmynd dagsins: Ergelsisins #</p>
+  </body>
+</document>

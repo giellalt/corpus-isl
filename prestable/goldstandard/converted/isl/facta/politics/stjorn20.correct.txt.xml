@@ -1,0 +1,24 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Föstudagur, 14. 04. 06.  Fórum í gönguferð um nokkra garða í Dublin áður en við tókum <errorlang correct="eng">Dart-lest</errorlang> út til <errorlang correct="eng">Howth</errorlang>, sem er höfði norður af borginni - orðið <errorlang correct="eng">Howth</errorlang> gæti raunar verið umskrift á orðinu höfði en við hann eru tvær eyjar: <errorlang correct="eng">Lambeye</errorlang> og <errorlang correct="eng">Ireland's eye</errorlang> - en augljóst er, að nöfnin eru norræn frá tímum víkinganna: Lambey og Írlandsey.</p>
+    <p>Veitingastaðir eru margir lokaðir í dag en þeir, sem eru opnir mega ekki selja áfengi - til að minnast krossfestingarinnar. Nokkrar verslanir eru opnar en flestar virðast lokaðar - að minnsta kosti utan ferðamannastaða.</p>
+    <p>Við vorum í <errorlang correct="eng">Christ Church</errorlang> dómkirkjunni klukkan 15.30 en þá hófst það, sem á ensku er nefnt: 15.30 <errorlang correct="eng">Choral Evensong and Proclamation of the Cross</errorlang>. Kórinn söng og prestar lásu úr ritningunni og fóru með bænir auk þess að bera kross inn kirkjugólfið að altarinu, þar sem þeir lögðu hann. Var <errorort correct="stundin" errorinfo="con,suff,nn-n">stundinn</errorort> hátíðleg og söngurinn frábær en sagt er að kórinn eigi rætur aftur til ársins 1493.</p>
+    <p>Víða má sjá merki um sýningar og viðburði, sem tengjast 100 ára afmæli <errorlang correct="eng">Samuels Becketts</errorlang>. Við urðum að láta okkur nægja að sjá myndir af honum í gegnum glugga á ljósmyndasafninu, því að það er lokað yfir hátíðarnar.</p>
+  </body>
+</document>

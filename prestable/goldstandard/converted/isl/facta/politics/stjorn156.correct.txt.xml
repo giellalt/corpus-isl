@@ -1,0 +1,21 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Fimmtudagur, 15. 04. 04.  Heimsótti í hádeginu <errorort correct="heilsugæslustöð" errorinfo="typo,stem,0-1">heilsgæslustöð</errorort> Hlíðanna við Drápuhlíð og fræddist um starfsemi hennar. Var klukkan 14.00 í þætti Ingva Hrafns Jónssonar á útvarpi Sögu og ræddum við einkum jafnréttismál. Fór klukkan 16.00 í Öskju, hið nýja náttúrufræðahús Háskóla Íslands, þegar það var formlega opnað.</p>
+  </body>
+</document>

@@ -1,0 +1,23 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nno">http://visir.is/veigar-pall-maettur-i-fallbarattuna-med-stabaek/article/2012120829946 Veigar Páll Gunnarsson var í dag kynntur með formlegum hætti sem leikmaður norska úrvalsdeildarliðsins Stabæk. Veigar gerði starfslokasamning við Vålerenga en þar lék hann aðeins 23 leiki og skoraði 3 mörk. Veigar þekkir vel til hjá Stabæk en þar skoraði hann 79 mörk í 175 leikjum.</p>
+    <p>Stabæk er sem stendur í neðsta sæti norsku úrvalsdeildarinnar en liðið hefur glímt við erfiða fjárhagsstöðu á undanförnum misserum. „Ég vonast til þess að geta <errormorphsyn correct="hjálpað" errorinfo="x">hjálpa</errormorphsyn> liðinu, og mér hefur alltaf liðið vel hjá Stabæk," sagði Veigar við fjölmiðlamenn í dag. „Hlutirnir gengu ekki upp hjá mér hjá Vålerenga," sagði Veigar en hann átti eftir 1 ½ ár af samningi sínum við Vålerenga sem keypti hann frá Stabæk í umdeildri sölu sem er til rannsóknar hjá norsku lögreglunni.</p>
+    <p>Staða Stabæk í deildinni er ekki góð. Liðið er með 10 stig <errorort correct="eftir" errorinfo="typo,stem,0-1">efti</errorort> 19 leiki, og er 7 stigum á eftir Sandnes Ulf sem er í þriðja neðsta sæti með 17 stig. Fredrikstad er í <errorsyn correct="næstneðsta" errorinfo="x">næst neðsta</errorsyn> sæti með 15 stig.</p>
+  </body>
+</document>

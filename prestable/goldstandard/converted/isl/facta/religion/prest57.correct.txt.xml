@@ -1,0 +1,32 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>10/01/2005 # Guðsþjónustur í fangelsum um jólin</p>
+    <p>Jólaguðsþjónustur 24. desember 2004</p>
+    <p xml:lang="dan">Réttargeðdeildin að Sogni kl. 14.</p>
+    <p xml:lang="dan">Jörg Sondermann við orgelið og félagar úr kór Hveragerðiskirkju syngja.</p>
+    <p xml:lang="dan">Litla-Hraun kl. 16</p>
+    <p>Haukur Gíslason við píanóið og fjórir félagar úr kirkjukór Selfosskirkju syngja.</p>
+    <p xml:lang="dan">Hegningarhúsið við Skólavörðustíg kl. 18</p>
+    <p xml:lang="nno">Ármann H. Gunnarsson syngur og leikur á klassískan gítar.</p>
+    <p xml:lang="dan">Kópavogsfangelsið, kl. 19.15</p>
+    <p xml:lang="nno">Ármann H. Gunnarsson syngur og leikur á klassískan gítar.</p>
+    <p>Helgistund á Kvíabryggju í umsjón sóknarprestsins í Grundarfirði og Lionsmanna</p>
+    <p>Á aðfangadagskvöld fer <errorort correct="fangaprestur" errorinfo="typo,stem,1-0">fangarprestur</errorort> og formaður Verndar á jólafagnað samtakanna og Hjálpræðishersins.</p>
+  </body>
+</document>

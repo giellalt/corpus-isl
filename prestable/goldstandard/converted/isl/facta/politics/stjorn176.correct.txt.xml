@@ -1,0 +1,21 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nno">Föstudagur, 12. 09. 03  Flaug síðdegis frá Keflavík til <errorlang correct="eng">Baltimore</errorlang> og ók þaðan til <errorlang correct="eng">Leesburg</errorlang> í <errorort correct="Virginíu" errorinfo="typo,stem,2-1">Virginæiu</errorort> á ársfund IISS.</p>
+  </body>
+</document>

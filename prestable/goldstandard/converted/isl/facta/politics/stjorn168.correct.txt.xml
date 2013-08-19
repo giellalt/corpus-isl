@@ -1,0 +1,22 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Mánudagur, 19. 01. 04  Fór í heimsókn til Guðmundar Sophussonar, sýslumanns í Hafnarfirði klukkan 13.00, skoðaði lögreglustöð og <errorort correct="skrifstofur" errorinfo="meta,stem,ir-ri">skirfstofur</errorort> auk þess sem við rituðum undir árangursstjórnunarsamning. Einnig litum við inn í lögreglustöð embættisins í Garðabæ.</p>
+    <p>Úr Garðabæ fórum við í Kópavog og heimsóttum Þorleif Pálsson sýslumann og lögreglu þar auk þess að rita undir árangursstjórnunarsamning.</p>
+  </body>
+</document>

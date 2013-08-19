@@ -1,0 +1,21 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>&lt;http://www.visir.is/vatikanid-hafnar-asokunum-irska-forsaetisradherrans-/article/2011110909710&gt;  Vatíkanið hafnar algjörlega fullyrðingum írska forsætisráðherrans, Enda Kenny, um að Vatíkanið hafi reynt að koma í veg fyrir tilraunir írskra biskupa til þess að afhjúpa kynferðisbrotamál innan kirkjunnar. Í svokallaðri <errorsyn correct="Cloyne-skýrslu" errorinfo="x">Cloyne skýrslu</errorsyn> sem kom út fyrir nokkru er fullyrt að kynferðisleg misnotkun í Cork í Írlandi <errormorphsyn correct="hafi" errorinfo="x">hefði</errormorphsyn> verið þögguð niður. Í ræðu sinni í írska þinginu í júlí sagði Kenny svo að kirkjan tæki orðspor sitt <errorort correct="fram yfir" errorinfo="cmp,adv+pp,1-2">framyfir</errorort> hagsmuni þolenda kynferðisofbeldisins. Vatíkanið segir að skömm sé af umræddum kynferðisbrotum en ásakanir Kennys séu algerlega órökstuddar.</p>
+  </body>
+</document>

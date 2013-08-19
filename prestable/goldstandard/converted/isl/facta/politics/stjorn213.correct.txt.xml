@@ -1,0 +1,21 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Mánudagur 7.10.2002  Fórum klukkan 09.00 í fastanefnd Íslands. Sóttum aðgangskort að fundarsölum SÞ. Sóttum fræðslufund um starf íslensku fastanefndarinnar. Kynntum okkur húsakynni og <errorort correct="staðhætti" errorinfo="infl">staðháttu</errorort> í höfuðstöðvum SÞ. Sótti fundi á allsherjarþinginu og í afvopnunarnefndinni.</p>
+  </body>
+</document>

@@ -1,0 +1,21 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Laugardagur 9.11.2002  Opnaði prófkjörsskrifstofu mína að Sætúni 8 klukkan 16.00 og var ánægður með hve margir litu þar inn. Hafsteinn Þór Hauksson laganemi er kosningastjóri minn en auk þess annast Hrafn Þórisson mágur minn um rekstur skrifstofunnar. Pjetur <errorort correct="Stefánsson" errorinfo="vow,stem,á-a">Stéfánsson</errorort> myndlistarmaður lánaði mér málverk og einnig setti ég þar upp vatnslitamynd, sem Karólína Lárusdóttir gerði í tilefni fyrsta prófkjörs míns 1990 og heitir Ýtt úr vör. Myndin sýnir nokkra stuðningsmenn mína ýta mér á flot.</p>
+  </body>
+</document>

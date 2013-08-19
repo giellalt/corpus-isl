@@ -1,0 +1,22 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Sunnudagur, 18. 09. 05.  Var í réttunum í Fljótshlíðinni frá 10 til 12. Það rigndi dálítið og þoka lá yfir fjöllunum. Þannig veður hefði verið grábölvað í leitunum í gær.</p>
+    <p>Var að velta því fyrir mér, þegar ég hlustaði í dag á langa frétt í hljóðvarpi ríkisins um launagreiðslur og fundarsetur bankaráðsmanna Seðlabanka Íslands, hvort ný fréttastefna hefði komið með nýjum fréttastjóra. Fréttin sjálf, framsetning og flutningur var á þann veg, að illa samrýmdist því, sem maður er vanur úr þessari átt. Hið sama þótti mér á föstudag, þegar sagt var frá lendingu fjögurra Harrier <errorort correct="orrustuþotna" errorinfo="typo,stem,0-1">orrustþotna</errorort> á Reykjavíkurflugvelli. Þá var engu líkara en leitast væri við að gera ferðir þeirra eitthvað tortryggilegar eða að minnsta kosti hefðu flugmennirnir sýnt af sér of mikla varkárni miðað við ferðir farþegaþotna.</p>
+  </body>
+</document>

@@ -1,0 +1,27 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Miðvikudagur 07. 07. 04  Héldum af stað frá hótelinu klukkan 08.30 út á flugvöll, þar sem við tókum flugvél til borgarinnar <errorlang correct="kin">Qingdao</errorlang> við Kyrrahafsströndina um 800 km frá Peking. Þar var tekið á móti okkur af fulltrúum héraðsstjórnarinnar. dómsmálaráðuneytisins og bæjarstjórnarinnar. Þarna búa tæplega átta milljónir manna á 10 þúsund <errorort correct="hekturum" errorinfo="infl">hektörum</errorort> lands. Flugvöllurinn er nýr og vegakerfið einnig.</p>
+    <p>Eftir að við höfðum komið okkur fyrir á hótelinu var farið með okkur í kynnisferð í Tsingdao-bjórverksmiðjuna, sem Þjóðverjar stofnuðu fyrir 100 árum en þeir réðu  borginni um nokkurra áratugaskeið og í gamla hluta hennar er eins og að vera í gamalli þýskri borg. Þetta brugghús er nú hið stærsta í Kína og selur meðal annars framleiðslu sína til Íslands.</p>
+    <p>Við fórum síðan að styttunni Fiðluleikaranum eftir Gerði Gunnarsdóttur myndhöggvara en þessi stytta er í tónlistargarði borgarinnar og var afhjúpuð við hátíðlega athöfn haustið 2001, þegar minnst var 30 ára afmælis stjórnmálasambands Kína og Íslands.</p>
+    <p>Þá áttum við fund með aðstoðarborgarstjóra <errorlang correct="kin">Qingdao</errorlang> og snæddum kvöldverð í boði hennar.</p>
+    <p xml:lang="nno">Loks hittum við Hans Braga Bernhardsson, sem veitir skrifstofu SH í <errorlang correct="kin">Qingdao</errorlang> forstöðu en hún var nú í vor.</p>
+    <p>Borgin hefur síðustu 12 ár breyst úr því að vera sveitaþorp umhverfis gamla þýska <errorort correct="bæjarkjarnann" errorinfo="con,stem,n-nn">bæjarkjarnan</errorort> í nýtískulega borg og siglingakeppni ólympíuleikanna á að fara hér fram árið 2008.</p>
+    <p>Ég hef uppfært dagbókina á hverjum degi á meðan ég hef verið opinber gestur kínverskra yfirvalda, engu að síður sé ég í vefútgáfu Fréttablaðsins, að það hefur ekki getað fengið upplýsingar um það í dómsmálaráðuneytinu, hvað ég sé að gera í Kína! Ég hef ekki fengið þessa fyrirspurn frá blaðinu, en þessi fréttaflutningur þess er aðeins enn til marks um hina sérkennilegu blaðamennsku, sem þarna tíðkast og einkennist af eltingarleik við eitthvað, sem ekkert er. Þetta á líklega að vera framlag blaðsins til baráttu þess gegn nýjum fjölmiðlalögum.</p>
+  </body>
+</document>

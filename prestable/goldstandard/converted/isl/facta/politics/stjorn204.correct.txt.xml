@@ -1,0 +1,22 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Mánudagur 30. 12. 02  Klukkan 15.00 hittist borgarstjórnarflokkur sjálfstæðismanna á fundi í ráðhúsinu. Hafði hann verið <errormorphsyn correct="ákveðinn">ákveðin</errormorphsyn> fyrir jól til að fara yfir stöðu mála í ljósi þess, sem gerðist 18. desember. Gekk það eftir, að niðurstaða var fengin í þá óvissu um <errorort correct="borgarstjóraembættið" errorinfo="meta,stem,ro-or">brogarstjóraembættið</errorort>, sem þá skapaðist, því að daginn áður 29. desember lá ljóst fyrir, að Ingibjörg Sólrún Gísladóttir mundi hætta sem borgarstjóri.</p>
+    <p>Við ræddum málið og fórum yfir nýja stöðu innan borgarstjórnar, sem að okkar mati hefur leitt til þess, að R-listinn er úr sögunni. Er við því að búast, að flokkadrættir verið meiri innan borgarstjórnar en áður hefur verið.</p>
+  </body>
+</document>

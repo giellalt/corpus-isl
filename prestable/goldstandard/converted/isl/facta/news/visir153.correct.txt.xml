@@ -1,0 +1,23 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>http://visir.is/justin-timberlake-steggjadur/article/2012120929423 Herlegheitin byrjuðu í Las Vegas á fimmtudaginn þar sem Justin og vinir hans, alls 25 talsins, fengu sér kvöldverð á ítalska veitingastaðnum Wynn Las Vegas &amp; Encore Resort's Sinatra.</p>
+    <p>Eftir matinn fóru þeir á næturklúbbinn Surrender þar sem Justin skemmti sér konunglega. Hann sötraði <errorort correct="tekíla" errorinfo="for">tequila</errorort> allt kvöldið og hélt sér í fötunum þó að margir vinir hans hafi skellt sér í sundföt og stokkið í sundlaugina á klúbbnum.</p>
+    <p>Daginn eftir flaug <errorort correct="hersingin" errorinfo="con,suff,nn-n">hersinginn</errorort> til Cabo í Mexíkó og gisti á El Dorado Golf &amp; Beach Club. Á laugardaginn fóru þeir í golfi og síðan að djamma eins og enginn væri morgundagurinn. Ágætis steggjun!</p>
+  </body>
+</document>

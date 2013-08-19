@@ -1,0 +1,24 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nno">Sunnudagur - hvíldardagur 28/05/2006</p>
+    <p>Ræddi við Hróbjart um innihald hvíldardagsins. Hann kom með bráðskemmtilega tillögu, taka sér gyðinga til fyrirmyndar og gera aðeins það <errorort correct="nauðsynlegasta" errorinfo="typo,stem,0-1">nausynlegasta</errorort>, borða, fara í göngutúr með fjölskyldunni, spjalla saman, fara í kirkju, ekki af skyldurækni heldur vegna þess að þannig má tryggja, að hversdagurinn með sínar tölvur, sjónvörp, auglýsingar, matarstúss, innkaup og vinnu trufli ekki þau samskipti sem maður hefur við þau sem maður elskar mest.</p>
+    <p>Hrói stakk upp á að nota laugardaginn til að trappa sig niður af vinnuvikunni og elda tvöfaldan matarskammt. Hafa síðan kalt borð á sunnudaginn, elda ekki eða <errorort correct="leggjast" errorinfo="typo,stem,0-1">leggast</errorort> ekki í mikið stúss þá. Fyrir vinnufíkil eins og mig verður erfiðast að hafa tölvuna lokaða á sunnudögum. En, þetta er góð hugmynd og ég læt hana koma til framkvæmda frá og með núna.</p>
+    <p xml:lang="dan">Sjáumst á morgun.</p>
+  </body>
+</document>

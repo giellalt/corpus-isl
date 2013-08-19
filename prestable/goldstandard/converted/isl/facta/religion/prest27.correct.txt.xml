@@ -1,0 +1,22 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nno">Stíflaðar athugasemdir 27/06</p>
+    <p>Ég ákvað að loka fyrir frekari athugasemdir enda voru menn farnir að ræða allt aðra hluti en efni færslunnar gaf tilefni til. Af einhverjum ástæðum hefur þetta ekki komið fram á síðunni og biðst ég <errorort correct="velvirðingar" errorinfo="typo,stem,0-1">velviringar</errorort> ef fólk hefur skrifað eitthvað til viðbótar orðum Óla Gneista þess efnis að Vantrúarmenn væru á besta aldri og ágætlega menntaðir. Þetta kemur hins vegar skýrar fram í lok hins umræðuhalans.</p>
+  </body>
+</document>

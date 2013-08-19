@@ -1,0 +1,26 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Laugardagur 10. 12. 05.  Heyrðist að Baldur Þórhallsson í Háskóla Íslands væri eitthvað að jagast í mér í <errorort correct="útvarpinu" errorinfo="meta,stem,ra-ar">útvrapinu</errorort> út af ummælum mínum í Morgunblaðinu vegna álits umboðsmanns alþingis um Falun gong. Baldur ætti að lesa pistil minn frá 9. júní 2002 um þetta mál.</p>
+    <p>Sé að Boris Johnson er að láta af ritstjórn The Spectator eftir sex og hálft ár þar samhliða þingmennsku, nú tekur hann að sér að fara með æðri menntun í nýju skuggaráðuneyti Davids Camerons. Johnson hefur aukið veg vikuritsins og segir það aldrei hafa verið útbreiddara en nú, prentað í 70.000 eintökum. Conrad Black réð Johnson á sínum tíma en nú er Black ekki lengur eigandi og situr undir ákæru í Bandaríkjunum.</p>
+    <p xml:lang="eng">Í <errorlang correct="eng">The Spectator</errorlang> 3. desember birtist þessi texti í ramma á bls. 21.</p>
+    <p>„Í <errorlang correct="eng">Politics</errorlang> dálki okkar 24. september skrifaði Andy McSmith: „Sagt er að <errorlang correct="eng">Conor Cruise O'Brien</errorlang> heitinn hafi síðustu ár ævi sinnar skammast sín fyrir að koma frá ómerkilegu landi eins og Írlandi.“</p>
+    <p>Dr. <errorlang correct="eng">Conor Cruise O'Brian</errorlang> er á lífi og hreykinn af því að vera írskur. <errorlang correct="eng">The Spectator</errorlang> biður <errorlang correct="eng">Conor Cruise O'Brian</errorlang> afsökunar á að hafa móðgað hann með þeirri ósönnu fullyrðingu, að hann skammaðist sín fyrir að koma frá Írlandi.“</p>
+    <p>Fórum síðdegis í Hallgrímskirkju og hlustuðum á einsöngvara, <errorlang correct="lat">Schola Cantorum</errorlang> og alþjóðlega barokksveit flytja þrjá fyrstu kaflana í Jólaóratoríu Bachs undir stjórn Harðar Áskelssonar.</p>
+  </body>
+</document>

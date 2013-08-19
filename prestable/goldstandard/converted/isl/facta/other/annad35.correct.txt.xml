@@ -1,0 +1,25 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p xml:lang="kal">15 mars, 2006</p>
+    <p xml:lang="fin">Breytt aðstaða</p>
+    <p>Jæja fyrir 3 mánuðum síðan var ég 94,7 kg. Á leið til Tékklands og sagði við sjálfan mig "alveg sama hvað kemur fyrir þá mun líða 6 mánuðir þangað til að ég hugsa að flytja til Íslands aftur". Ég var <errorort correct="tiltölulega" errorinfo="typo,stem,r-l">tiltörulega</errorort> bjartsýnn á framtíðina.</p>
+    <p xml:lang="fin">Núna...</p>
+    <p>Ég er 89,5 kg. <errormorphsyn correct="Kominn">Komin</errormorphsyn> til Íslands aftur - örlögin hafa tekið ærlega í taumana. Byrjaður að vinna í vinnu sem mér hefði aldrei dottið að fara í... örugglega einn rólegasti vinnustaður sem ég hef kynnst. En líst vel á vinnuna. Þrátt fyrir <errormorphsyn correct="alla">allar</errormorphsyn> þessa atburði sem mætti líkja við að fimm beljakar <errormorphsyn correct="hefðu">hafi</errormorphsyn> gengið í <errormorphsyn correct="skrokk">skrokkinn</errormorphsyn> á mér og skilið mig eftir í blóði, ælandi öllum innyflum út.. þá líður mér bara ágætlega. Pabbi á batavegi og margir mjög góðir hlutir sjást við sjóndeildarhringinn. Ef eitthvað þá er ég bjartsýnni núna en ég var. Þannig að mér líður svo sem ekkert illa... mætti losna við þetta djöfulsins hor sem er að drepa mig lifandi. #</p>
+  </body>
+</document>

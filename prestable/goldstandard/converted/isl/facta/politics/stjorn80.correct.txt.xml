@@ -1,0 +1,29 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Föstudagur, 14. 10. 05.  Ég er að lesa endurminningabókina <errorort correct="eftir" errorinfo="typo,stem,0-1">efti</errorort> <errorlang correct="eng">Bon Dylan</errorlang>, sem heitir <errorlang correct="eng">Chronicle I</errorlang> og gefur nafnið til kynna, að hann eigi eftir að skrifa fleiri bækur um eigið líf, þótt bókin sé ekki ævisaga í þess orðs merkingu. <errorlang correct="eng">Bob Dylan</errorlang> er þremur árum eldri en ég og á sjöunda áratugnum sló hann í gegn og varð <errorort correct="eins konar" errorinfo="cmp,dem+adv,1-2">einskonar</errorort> tákngervingur mótmælahreyfinga, sem nú eru kenndar við '68-kynslóðina og Víetnamstríðið. Í bókinni, sem er mikils metin víða um heim, segir <errorlang correct="eng">Bob Dylan</errorlang>, að hann hafi aldrei litið á sjálfan sig sem málsvara neins eða átrúnaðargoð. Hann hafi í raun verið á flótta með sig og fjölskylduna undan eigin frægð og þegar fólk krafðist þess, að hann yrði tákngervingur andstöðunnar við stjórnvöld. Ég er sammála þeim, sem telja bókina meðal hinna bestu á útgáfuári hennar.</p>
+    <p>Mér kemur afstaða <errorlang correct="eng">Bobs Dylans</errorlang> í hug, þegar ég les ýmislegt af því, sem Baugsmiðlarnir hafa verið að skrifa vegna landsfundar okkar sjálfstæðismanna. Skrifin eru spegill sálar þess, sem skrifar, en ekki hins, sem les og kemur oft af fjöllum. <errorlang correct="eng">Bob Dylan</errorlang> skildi ekki, hvers vegna verið var að reyna að gera hann að málsvara, án þess að hann teldi sig hafa unnið til þess. Hið sama á við okkur, skotspæni Baugsmiðlaeineltis. Við undrumst, að það eigi rétt á sér, hvort sem reynt er að þagga niður í okkur eða hindra að við vinnum þau verk, sem okkur ber.</p>
+    <p>Öll þessi skrif Baugsmiðlanna eru dæmigerð fyrir þá, sem hafa rekist á sker og bjargast laskaðir af högginu.</p>
+    <p>Landsfundurinn gekk vel í dag. Ég hlustaði á hluta umræðna um stjórnmálaályktunina en þar var mikið rætt  um framtíð Reykjavíkurflugvallar. Kjartan Gunnarsson, framkvæmdastjóri flokksins, flutti góða ræðu um flokksstarfið. Hann upplýsti meðal <errormorphsyn correct="annars,">annar</errormorphsyn> að þrátt fyrir viðgerð á Valhöll yrði flokkurinn skuldlaus um næstu áramót.</p>
+    <p>Davíð bað fundarmenn að rísa úr sætum og klappa fyrir Kjartani og 25 ára framkvæmdastjórn hans. Gekk það eftir með glæsibrag.</p>
+    <p>Í hádeginu hittust sjálfstæðismenn í Reykjavík og þótti mér vænt um, að þar hvatti Sigurður Kári Kristjánsson alþingismaður til þess, að menn gerðust áskrifendur að tímaritinu Þjóðmálum og tek ég undir áskorun hans</p>
+    <p xml:lang="nno">Klukkan 14. 15 hófst spurningatími ráðherra og stóð hann til tæplega 17.00.</p>
+    <p xml:lang="nno">Ég var klukkan rúmlega 18.00 í flugskýli Landhelgisgæslu Íslands til að fagna 50 ára afmæli flugdeildar hennar. Var vel að þeim fagnaði staðið og sérstaklega merkilegt að sjá myndband  með sögu fluggæslunnar. Megi þeim vel vegna um ókomin ár!</p>
+    <p>Síðan leit ég inn í glæsilegt hóf, sem Gísli Marteinn Baldursson hélt fyrir landsfundarfulltrúa úr Reykjavík til að fagna fundinum og minna á framboð sitt í prófkjöri til borgarstjórnar.</p>
+  </body>
+</document>

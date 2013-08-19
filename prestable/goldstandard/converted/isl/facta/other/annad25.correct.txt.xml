@@ -1,0 +1,23 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p xml:lang="sme">fimmtudagur, október 10, 2002</p>
+    <p>Andvökunætur eru <errorort correct="miður skemmtilegar" errorinfo="cmp,adv+adj,1-2;typo,stem,0-1">miðurkemmtilegar</errorort>. Þær má <errorort correct="hins vegar" errorinfo="cmp,dem+adv,1-2">hinsvegar</errorort> bæta upp m/ánægjulegum morgunstundum.</p>
+    <p>Mér þykir sársaukafullt að sjá hvernig Sigga Jó lætur nemendur sína hafa sig að fífli. Það er erfitt að bera mikla virðingu f.þessari konu sem kennara, sérstaklega þegar kennslustundirnar leysast upp í fíflagang á hennar kostnað, sem hún ekki fattar. Konugreyið. Ég held hún sofi m/nátthúfu m/löngu skotti. #</p>
+  </body>
+</document>

@@ -1,0 +1,25 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nno">Fimmtudagur, 26. 02. 04.  Héldum klukkan 08.30 frá hótel Héraði að Kárahnjúkum í fylgd Helga Jenssonar, fulltrúa sýslumanns á Seyðisfirði, og Vals Magnússonar lögreglufulltrúa við embættið. Vorum komnir um klukkan 10.00 á virkjunarsvæðið, en á leiðinni var gott veður, þótt á köflum væri dimmt vegna skafrennings. Það blés <errorort correct="dálítið" errorinfo="vow,stem,a-á;vow,stem,á-a">dálitíð</errorort> á Kárahnjúkum en var bjart yfir og 12 stiga frost.</p>
+    <p>Hittum forsystumenn Impregilo á fundi, Þeir gerðu okkur grein fyrir framkvæmdunum og fóru yfir ýmis mál. Síðan héldum við niður á stíflusvæðið, þar sem Jöklu hefur verið veitt í hjáleiðslugöng og menn hafa hafist handa við undirstöður stíflunnar miklu.</p>
+    <p>Snæddum hádegisverð í hinu mikla <errorort correct="mötuneyti" errorinfo="vow,stem,á-a">mötuneytí</errorort>, sem þjónar starfsmönnum Impregilo og fórum síðan í stöðvar Landsvirkjunar á svæðinu og hittum fulltrúa fyrirtækisins og auk þess trúnaðarmann starfsmanna.</p>
+    <p>Héldum frá <errorort correct="Kárahnjúkum" errorinfo="typo,stem,0-1">Kárahjúkum</errorort> um klukkan 13.00 og heimsóttum í bakaleiðinni hjónin að Skriðuklaustri, sem halda staðnum vel í glæsileika sínum og fengum höfðinglegar móttökur.</p>
+    <p xml:lang="nno">Tókum vél frá Egilsstöðum klukkan 16.10 og var hún á áætlun.</p>
+  </body>
+</document>

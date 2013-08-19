@@ -1,0 +1,22 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Þriðjudagur 10. 05. 05.  Flaug norður til Akureyrar og efndi þar til blaðamannafundar í lögreglustöðinni klukkan 14.30 með Haraldi Johannessen <errorort correct="ríkislögreglustjóra" errorinfo="vow,stem,a-á">rikislögreglustjóra</errorort> og Birni Jósepi Arnviðarsyni til að kynna breytingar á skipan sérsveitar lögreglunnar á Akureyri og fjölgun almennra lögreglumanna þar um fjóra.</p>
+    <p>Um kvöldið voru eldhúsdagsumræður á alþingi.</p>
+  </body>
+</document>

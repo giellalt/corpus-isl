@@ -1,0 +1,25 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Þriðjudagur, 20. 12. 05.  Annað hefti tímaritsins Þjóðmála kom út í gær og er í dag dreift til áskrifenda. Ég vil enn og aftur hvetja til áskriftar að þessu fjölbreytta tímariti. Auðvelt er að gera það í gegnum vefsíðu Andríkis - árgjaldið fyrir fjögur hefti er aðeins 3500 krónur.</p>
+    <p>Borgarstjórn samþykkti einum rómi á fundi sínum í dag tillögu R-listans um bann við <errorort correct="dauðarefsingum" errorinfo="meta,stem,að-ða">dauaðrefsingum</errorort>. Árni Þór Sigurðsson vinstri/<errorortreal correct="Vinstri grænum" errorinfo="cap,stem,v-V;cmp,slash,1-2">grænum</errorortreal> flutti framsögu fyrir tillögunni. Enginn annar kvaddi sér hljóðs og var tillagan síðan samþykkt einum rómi. Flutningur R-listans á þessari tillögu er til marks um, að enn geta menn komið sér saman um tillögur í borgarstjórn í nafni listans, þótt hann sé dauður.</p>
+    <p xml:lang="nno">Sagt var frá því í kvöldfréttum hljóðvarps ríkisins, að við Hjördís Björk Hákonardóttir dómstjóri á Selfossi, hefðum náð samkomulagi um námsleyfi hennar í eitt ár, en að því loknu getur hún snúið að nýju til fyrri starfa eða samið um starfslok.</p>
+    <p xml:lang="nno">Er góð sátt milli okkar um þetta og tókst hún á fundi, sem við héldum 17. nóvember s.<errorort correct="sl." errorinfo="abp,2-1">l.</errorort> en Hjördís hvarf frá störfum dómstjóra 15. desember og hefur Hjörtur Aðalsteinsson verið settur í hennar stað.</p>
+    <p>Á sínum tíma lýsti ég mig vanhæfan til að skipa dómara í hæstarétt, þar sem Hjördís var meðal umsækjanda, vegna þess að þetta mál var óleyst, en það má rekja til umsóknar hennar um dómarastarf í hæstarétti og álits <errorort correct="kærunefndar" errorinfo="meta,stem,ur-ru">kæurnefndar</errorort> jafnfréttismála í framhaldi af því.</p>
+  </body>
+</document>

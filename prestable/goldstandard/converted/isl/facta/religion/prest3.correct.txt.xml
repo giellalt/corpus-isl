@@ -1,0 +1,24 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p xml:lang="fin">Maðurinn Jesús 26/05/2006</p>
+    <p>og Guðs sonurinn Kristur hafa lengi tekist á í kristinni trú. Nú síðast í verkinu DaVinci lykillinn, þar sem haldið er fram að Jesús hafi gifst og átt börn með Maríu Magdalenu. Gamlar, rabbínskar heimildir halda því m.a. fram að Jesús hafi verið hórgetinn. Í ágætu svari á trúmálavef kirkjunnar, segir Magnús Erlingsson, sóknarprestur á Ísafirði:</p>
+    <p>Í Níkeujátningunni eru tekin saman þau helstu trúarsannindi, sem kristnir menn hafa játast undir. Þar segir skýrum orðum að Jesús sé sannur Guð og maður. Jesús er Drottinn vegna þess að Guð birtist í honum, var í honum. Og hann er líka maður eins og ég og þú. Það merkir að barnið Jesú var eins og önnur börn; saug brjóst móður sinnar, grét og skríkti. Guðspjöllin draga upp mjög <errorort correct="trúverðuga" errorinfo="typo,suff,1-0">trúverðugua</errorort> mynd af manninum Jesú, sem bæði gat fundið til, reiðst og elskað. Ef einhver heldur því fram að óhugsandi sé að Jesús hefði getað orðið ástfanginn þá er sá hinn sami ósammála Níkeujátningunni.</p>
+    <p>Ég bæti við þessi orð hans, að hafi Jesús verið, eins og andstæðingar frumkristninnar héldu sumir fram, hórgetinn, þá er það fagnaðarerindi. Venjulegur maður á jaðri samfélags varð sættir Guðs og manns. Uppskrúfaðar fullyrðingar um ástand móður hans skipta þá engu máli heldur það að Guð er frjáls til að velja hvern þann sem hann vill til þess að nálgast okkur.</p>
+  </body>
+</document>

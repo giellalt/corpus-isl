@@ -1,0 +1,25 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nno">http://www.visir.is/sabella--messi-er-hamingjusamur/article/2012120908982 Þó svo að Cristiano Ronaldo segist vera óhamingjusamur hjá Real Madrid er Lionel Messi í skýjunum, bæði með <errorort correct="félagsliði" errorinfo="meta,stem,sg-gs">félasgliði</errorort> sínu og landsliði.</p>
+    <p>Messi hefur unnið allt sem hægt er að vinna með félagsliði sínu og nú loksins er honum farið að ganga vel með landsliðinu líka.</p>
+    <p>Hann skoraði eitt mark í 3-1 sigri Argentínu á Paragvæ um helgina en það var glæsilegt mark - beint úr aukaspyrnu. Hann hefur nú skorað tíu mörk í síðustu sex landsleikjum.</p>
+    <p>„Messi er hamingjusamur," sagði landsliðsþjálfarinn Alejandro Seballa. „Hann er upp á sitt allra besta og sýnir það á vellinum. Þegar honum líður svona vel er vel mögulegt að hann eigi eftir að veita okkur margar fleiri ánægjustundir."</p>
+    <p xml:lang="nno">Sjálfur var Messi búinn að lýsa því hversu ánægður hann er nú í landsliðinu. „Það er ótrúlegt að fá svona jákvæð viðbrögð frá stuðningsmönnunum," sagði Messi.</p>
+  </body>
+</document>

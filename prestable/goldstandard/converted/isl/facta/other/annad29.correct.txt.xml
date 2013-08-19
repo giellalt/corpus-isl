@@ -1,0 +1,30 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p xml:lang="dan">þriðjudagur, október 01, 2002</p>
+    <p>Súrmjólk í morgunmat og súrmjólk í kvöldmat. Mamma kom heim og æpti: "Hvers vegna færðu þér ekki grjónagraut eða e-ð?" Ég æpti "því það er ekki til mjólk" hún æpti "já ég skrepp bara og kaupi mjólk, þetta er enginn kvöldmatur" ég æpti "en ég er að fara að vinna eftir 10 mín." Og síðan féllumst við í faðma.</p>
+    <p>Bjarni <errorlex correct="foreign,eng">bjútí</errorlex> kenndi mér ensku í dag. Synd hvernig <errorlex correct="viðurnefni"><errorort correct="viðurnöfn" errorinfo="typo,stem,1-0">virðurnöfn</errorort></errorlex> eru á undanhaldi á Íslandi. Ef þau væru enn við lýði í daglegu lífi héti ég pottþétt xxx Metall.</p>
+    <p xml:lang="nno">Farin að vinna. Komið endilega í bíó til mín.</p>
+    <p><errorlang correct="gisl">Mjer</errorlang> leiðist. Læra. Ohhh. Þetta reddaðist samt allt. Nema jakkinn minn, ég er yfirhafnarlaus í <errorlex correct="hitabeltisskúrinni.">hitabeltisskúrnum</errorlex> Ég ætla að reyna að gerast æ þunglyndari til að komast inn á "skyldu-listann" hans Sigga Arent Niðurdrepandi blogg ku vera líklegt til vinsælda <errorort correct="sbr. Lovísa" errorinfo="cmp,abbr+noun,1-2">sbr.Lovísa</errorort> <errorlex correct="bekkjarsystir Sigga">siggabekkjarsystir</errorlex>.</p>
+    <p>Bókhlaðan er <errorlang correct="eng">off</errorlang> sökum yfirhafnarleysis, legg ekki í rigningargöngutúr upp eftir. Þá er það Íþaka.</p>
+    <p>Það gengur allt á afturfótunum hjá mér. Ég þarf nauðsynlega að skila pabba myndavélinni, sem er enn heima hjá Konna í <errorortreal correct="Hlíðunum" errorinfo="cap,stem,h-H">hlíðunum</errorortreal>. (Strákarnir eru enn að vinna í uppsetningunni, mér líður ekki vel á sálinni) Blaðið fer í prentun í dag svo ég þarf að finna skanna til afnota e-s staðar, hvar svo sem þar verður. Það eina sem mér dettur í hug er að skrópa og fara niður í vinnu til pabba, sem mun þá væntanlega krefjast myndavélarinnar, sem ég ekki hef.</p>
+    <p>Kíkti í heimsókn í <errorort correct="stofuna" errorinfo="con,suff,nn-n">stofunna</errorort> hennar Steinunnar áðan. Þar voru nokkrar manneskjur sem ég hef aldrei nokkurn tíma séð áður svo ég muni, og eru þó <errorortreal correct="m. mér" errorinfo="cmp,slash,1-2">m/mér</errorortreal> í skóla á <errorort correct="3. ári" errorinfo="cmp,num+noun,1-2">3.ári</errorort>. Steinunn er enn að jafna sig eftir helgina, en hún tók þá skyndiákvörðun á fimmtudaginn að fljúga til Noregs á föstudag í tilefni af afmæli Söndru vinkonu. (Hún býr <errorlang correct="dan">senst</errorlang> í <errorort correct="Ósló" errorinfo="vow,stem,a-á">Osló</errorort>) Mikið væri ég til í svona helgarflipp, ég bara tími því ekki. <errorlex correct="spara.">Sparasparaspara</errorlex> Annað mál ef ég byggi t.d. í Noregi, en kærasti Söndru bauð henni til útlanda í tilefni af afmælinu. Þau fóru út á flugvöll og tóku bara næstu vél sem hljómaði spennandi, enduðu á Kípur. Eftir því sem ég best veit kostaði flugið 16.þús. ísl.kr.  Það er ljúft. Helvítis Ísland að vera svona langt frá öllu.</p>
+    <p>Held það sé bókhlaðan í dag. Reyna að bjarga því sem bjargað verður f.komandi latínustíl.</p>
+    <p xml:lang="kal">#</p>
+  </body>
+</document>

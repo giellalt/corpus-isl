@@ -1,0 +1,25 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Laugardagur, 13. 05. 06.  Flaug frá Helsinki kl. 12.30 til Stokkhólms og þaðan með <errorlang correct="eng">Icelandair</errorlang> á áætlun klukkan 14.10 en lent var 15. 15 á Keflavíkurflugvelli - hafði þá farið í sex flugferðir síðan ég hélt utan á fimmtudag.</p>
+    <p>Ég keypti mér frönsk blöð á flugvöllunum til að kynna mér stöðuna í <errorlang correct="eng">Clearstream-málinu</errorlang>. Það sýnist versna fyrir þá <errorlang correct="fra">Jacques Chirac</errorlang> forseta og <errorlang correct="fra">Dominique de Villepin</errorlang> forsætisráðherra eftir því sem meiri upplýsingar berast um afskipti þeirra. Upplýsingarnar bera þess merki, séu þær sannar, að þeir hafi beint rannsókninni að <errorlang correct="fra">Nicolas Sarkozy</errorlang> innanríkisráðherra og líklegum forsetaframbjóðanda á næsta ári. <errorlang correct="fra">Sarkozy</errorlang> er sagður hafa velt fyrir sér að segja af sér <errorort correct="ráðherraembætti" errorinfo="typo,stem,0-1">ráðherrembætti</errorort> en í dag bárust fréttir um, að hann ætlaði að sitja áfram.</p>
+    <p>Fréttir í ljósvakamiðlunum hér heima bera þess merki, að hiti sé að færast í kosningabaráttuna til sveitarstjórna. Ég fagna því, hve sjálfstæðismenn hér í Reykjavík og annars staðar halda vel á málum.</p>
+    <p>Mér barst tölvupóstur úr Fljótshlíðinni, sem ég las á <errorlang correct="sve">Arlanda</errorlang> flugvelli við Stokkhólm, þar sagði, að gimbrin mín væri borin og nú ætti ég svartan, hyrndan hrút.</p>
+    <p>Séra Toshiki Toma, prestur innflytjenda, sem ég nefndi hér á síðunni 6. maí sendi mér tölvubréf í dag og segir, að það hafi verið kæruleysi hjá sér að titla sig sem prest, þegar hann var að finna að stefnu Samfylkingarinnar gagnvart innflytjendum, enda væri hann orðinn vinsuti/<errorort correct="vinstri grænn" errorinfo="cmp,slash,1-2;typo,stem,ut-tr">grænn</errorort>. Ábending mín um þetta efni hafi verið rétt.</p>
+  </body>
+</document>

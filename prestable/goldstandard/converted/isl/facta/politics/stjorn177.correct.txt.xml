@@ -1,0 +1,23 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Mánudagur, 08. 09. 03.  Klukkan 10.15 hitti ég <errorlang correct="kin">Luo Gan</errorlang> einn af níu  mönnum í stjórnmálaráði kínverska kommúnistaflokksins, en hann fer með yfirstjórn dóms- og lögreglumála í Kína. Var fundur okkar í 45 mínútur og fór fram í Þjóðmenningarhúsinu.</p>
+    <p xml:lang="nno">Klukkan 12.00 var ég gestgjafi <errorlang correct="kin">Luo Gans</errorlang> í hádegisverði í Þjóðmenningarhúsinu. Áður en við settumst að borðum sýndi ég honum handritin. Lauk <errorort correct="hádegisverðinum" errorinfo="meta,stem,si-is">hádegsiverðinum</errorort> um klukkan 13.00 og þá ákváðu öryggisverðir hans, að <errorlang correct="kin">Luo Gan</errorlang> skyldi fara út um bakdyr Þjóðmenningarhússins, þar sem nokkur hópur manna hafði komið saman til að mótmæla en einnig Kínverjar á Íslandi til að fagna. Sást í sjónvarpi, að til einhverra stympinga kom milli Sigurðar A. Magnússonar, sem stóð með spjald á vegum <errorlang correct="eng">Amnesty</errorlang>, og Kínverja með rauðan fána.</p>
+    <p xml:lang="dan">Klukkan 19.30 var ég í Kastljósi sjónvarpsins hjá Kristjáni Kristjánssyni og svaraði spurningum vegna <errorlang correct="kin">Luo Gans</errorlang> og skipunar Ólafs Barkar Þorvaldssonar í hæstarétt.</p>
+  </body>
+</document>

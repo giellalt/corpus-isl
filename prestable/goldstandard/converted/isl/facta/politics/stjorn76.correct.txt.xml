@@ -1,0 +1,25 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Fimmtudagur, 20. 10. 05.  Var meðal líkmanna í jarðarför Más Jóhannsssonar, fv. skrifstofustjóra Sjálfstæðisflokksins, sem var jarðsunginn frá Dómkirkjunni kl. 11.00.</p>
+    <p>Klukkan 14.00 var umræða utan dagskrár um <errorort correct="saksóknara" errorinfo="typo,stem,0-1">sakóknara</errorort> og fleira og flutti ég þar ræðu. Enginn þingmanna sagði mig vanhæfan til að skipa saksóknara í Baugsmálinu, en sumir töldu heppilegast fyrir málið og best fyrir mig, að ég segði mig frá málinu. Ég sagði það ekki kost í stöðunni, nema lög <errorort correct="heimiluðu" errorinfo="typo,stem,u-i">heimuluðu</errorort> mér það. Ég gæti ekki valið mér mál til meðferðar eins og rétti af matseðli eða rúsínur úr tebollu. Þakkaði ég þingmönnum umhyggjuna.</p>
+    <p>Að lokinni þessari umræðu flutti ég ræðu fyrir frumvarpi til laga um breytingar á Schengen-lögum.</p>
+    <p xml:lang="nno">Klukkan 16.00 var ég í Háskólanum í Reykjavík, þar sem haldið var málþing um dómstólavæðingu í samvinnu dóms- og kirkjumálaráðuneytisins og lagadeildar skólans undir stjórn Þórdísar Ingadóttur, LLM, sem er sérfræðingur við <errorort correct="lagadeildina" errorinfo="typo,stem,f-d">lagafeildina</errorort>. Dr. <errorlang correct="dan">Mads Bryde Andersen</errorlang>, prófessor við Kaupmannahafnarháskóla, flutti framsögu og Ragnhildur Helgadóttir, lektor við lagadeildina, sagði álit sitt á framsöguræðunni. Síðan voru almennar umræður og þar tóku til máls Ragnar Aðalsteinsson hrl., Eiríkur Tómasson prófessor og Þór Vilhjálmsson, prófessor og fv. dómari.</p>
+    <p>Ég flutti ávarp í upphafi málþingsins og sagði til þess stofnað til að ræða það, sem á erlendum málum væri kallað <errorlang correct="dan">judikalisering</errorlang> og snerist um mörkin á milli dómsvalds og löggjafarvalds og hvort dómstólar væru að fara of langt inn á svið löggjafans, en <errorlang correct="dan">Mads Bryde Andersen</errorlang> telur að þannig sé málum háttað að því er mannréttindadómstólinn í Strassborg varðar.</p>
+  </body>
+</document>

@@ -1,0 +1,24 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nno">http://visir.is/arsenal-ad-fa-tvo-sterka-landslidsmenn/article/2012120809804 Forráðamenn Arsenal vinna hörðum höndum þessa stundina ¥(x|að því) að ganga frá kaupum á Santi Cazorla frá Malaga og lánssamningi við Nuri Sahin frá Real Madrid. Ljóst er að þessir tveir sterku leikmenn væru mikill liðstyrkur fyrir lið Arsene Wenger.</p>
+    <p>Cazorla er 27 ára vængmaður og meðlimur í Evrópumeistaraliði Spánverja en Sahin er 23 ára miðjumaður sem spilaði lítið á sínu fyrsta ári með Real Madrid. Sahin sem er tyrkneskur landsliðsmaður var <errorort correct="hins vegar" errorinfo="cmp,dem+adv,1-2">hinsvegar</errorort> allt í öllu hjá þýska liðinu Dortmund tímabilin á undan en gerði sex ára samning við Real fyrir aðeins einu ári síðan.</p>
+    <p>BBC hefur eftir heimildarmönnum sínum hjá Arsenal að vonir standi til þess að ganga frá þessum samningum áður en tímabilið hefst en Wenger hefur þegar styrkt liðið með mönnum eins og Lukas Podolski frá Köln og Olivier Giroud frá Montpellier.</p>
+    <p>Stóra <errormorphsyn correct="spurningin" errorinfo="x">spurning</errormorphsyn> er eftir sem áður um framtíðarplön fyrirliðans Robin van Persie sem hefur gefið það út að hann ætli ekki að skrifa undir nýjan samning en núverandi samningur Hollendingsins rennur út næsta sumar.</p>
+  </body>
+</document>

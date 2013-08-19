@@ -1,0 +1,23 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Föstudagur, 18. 11. 05.  Á fundi ríkisstjórnarinnar lagði ég fram frumvarp til breytinga á alm. hegningarlögum í því skyni að þyngja viðbrögð og viðurlög við heimilisofbeldi. Hefur lengi verið rætt um nauðsyn endurskoðunar vegna slíkra brota og vann <errorort correct="refsiréttarnefnd" errorinfo="typo,stem,4-0">refsiréttiréttarnefnd</errorort> undir formennsku Róberts Spanó þessar tillögur að minni ósk.</p>
+    <p>Alfreð Þorsteinsson, borgarfulltrúi Framsóknarflokksins, til margra áratuga tilkynnti í dag, að hann yrði ekki í framboði oftar og mundi helga sig formennsku í verkefnisstjórn vegna byggingar hátæknisjúkrahúss. Alfreð hefur verið burðarás í R-listanum og hann átti í fullu tré við Ingibjörgu Sólrúnu Gísladóttur sem borgarstjóra og setti hennar oftar en einu sinni stólinn fyrir dyrnar.</p>
+    <p>Orkuveita Reykjavíkur hefur orðið ríki í ríkinu innan Reykjavíkurborgar undir stjórn Alfreðs og væri gengið fram á þann veg gagnvart ríkisstjórn og alþingi við stjórn fyrirtækis í þágu ríkisins og Alfreð hefur gert gagnvart borgarráði og borgarstjórn við stjórn orkuveitunnar, mundi aldeilis hvína í stjórnarsinnum og stjórnarandstöðu. Alfreð hefur hins vegar haldið R-listanum og fulltrúum Akurnesinga í greip sinni í stjórn orkuveitunnar og ekki hikað við að beita bolabrögðum gagnvart sjálfstæðismönnum.</p>
+  </body>
+</document>

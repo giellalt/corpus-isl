@@ -1,0 +1,21 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Fimmtudagur 10. 01. 03  Við Rut ákváðum að vera nokkra daga að Kvoslæk í Fljótshlíðinni. Er <errorort correct="veðurlagið" errorinfo="typo,stem,1-0">veðurlagðið</errorort> einstakt og segja bændur hér, að tún hafi frekar grænkað en hitt síðustu daga. Kýr voru utan dyra hér fyrir vestan okkur.</p>
+  </body>
+</document>

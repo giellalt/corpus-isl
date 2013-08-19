@@ -1,0 +1,24 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nob">http://visir.is/andy-johnson-fra-ut-timabilid---krossbandid-slitid/article/2012120919126 Andy Johnson, framherji Queens Park Rangers, verður væntanlega ekki meira með liðinu á tímabilinu eftir að í ljós kom að hann sleit krossband í jafnteflinu á móti Chelsea í ensku úrvalsdeildinni um helgina.</p>
+    <p xml:lang="dan">Johnson er á sínu fyrsta tímabili með Queens Park Rangers eftir að hafa verið með lausan samning hjá Fulham í sumar. Johnson meiddist í fyrri hálfleik og var skipt <errorort correct="út af" errorinfo="cmp,pp+pp,1-2">útaf</errorort> á 33. mínútu.</p>
+    <p>Queens Park Rangers tilkynnti það á heimasíðu sinni í dag að Andy Johnson <errormorphsyn correct="hefði">hafi</errormorphsyn> slitið krossband í leiknum og að hann <errormorphsyn correct="yrði">verði</errormorphsyn> líklega frá meirihluta tímabilsins.</p>
+    <p>Varnarmaðurinn Fabio da Silva meiddist einnig í fyrri hálfleik og verður frá í nokkrar vikur <errorlex correct="og">en</errorlex> Mark Hughes þurfti því að gera tvær breytingar fyrir hlé.</p>
+  </body>
+</document>

@@ -1,0 +1,22 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Föstudagur, 21. 03. 03  Klukkan 17.00 var haldinn fundur í utanríkismálanefnd til að ræða um málefni Íraks og innrásina þangað, þar sem stjórnarandstaðan taldi skorta samráð við sig.</p>
+    <p xml:lang="dan">Eftir fundinn renndi ég inn í Árbæ, þar sem <errorort correct="sjálfstæðisfélagið" errorinfo="con,stem,com">sjáfstæðisfélagið</errorort> var með árlegt vorhóf sitt.</p>
+  </body>
+</document>

@@ -1,0 +1,22 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Laugardagur 01. 02. 03  Borgarstjórnarflokkurinn fundaði  í Hótel Geysi fram til klukkan 15.00 og <errormorphsyn correct="hélt">héldum</errormorphsyn> síðan heim að nýju. Í hádegishléi hafði ég tök á að skoða Geysisstofu í fylgd Más Sigurðssonar, sem hefur byggt upp ferðaþjónustu þarna af miklum stórhug og er líklega hvergi betri aðstaða til að taka á móti stórum hópum gesta utan Reykjavíkur en einmitt þarna. Okkur hafði verið sagt, að þess mætti vænta, að Geysir gysi um klukkan 13.00 og fylgdi Már mér að honum um klukkan 12.45 og rétt fyrir 13.00 kom smágusa eða gos upp úr hvernum. Lætur hann frá sér heyra fjórum sinnum á sólarhring.</p>
+    <p>Þegar við vorum að leggja af stað heim, barst okkur fréttin um að geimskutlan Kólumbía hefði <errorort correct="farist" errorinfo="typo,suff,0-1">faris</errorort> í háloftunum yfir <errorlang correct="eng">Texas</errorlang>, þegar hún var í aðflugi til jarðar eftir 15 daga ferð í geimnum með sjö manna áhöfn, þar af einn Ísraela.</p>
+  </body>
+</document>

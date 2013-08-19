@@ -1,0 +1,22 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Mánudagur 18. 04. 05.  Klukkan 10.30 hófst 11. ráðstefna Sameinuðu þjóðanna gegn glæpastarfi og um refsirétt í ráðstefnuhöllinni í Bangkok.</p>
+    <p>Klukkan 15.00 flutti <errorort correct="krónprins" errorinfo="typo,stem,0-1">krónpris</errorort> <errorort correct="Taílands" errorinfo="vow,stem,æ-aí">Tælands</errorort>, Maha Vajiralongkorn ræðu á hátíðar-setningarfundi ráðstefnunnar fyrir hönd konungs <errorort correct="Taílands" errorinfo="vow,stem,æ-aí">Tælands</errorort>, en hann er Bhumibol Adulyadej. Með krónprinsinum var dóttir hans, Bajrakitiyabha prinsessa.</p>
+  </body>
+</document>

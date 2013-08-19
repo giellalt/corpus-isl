@@ -1,0 +1,24 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Laugardagur, 24. 07. 04.  Sagt var frá því í fréttum, að kvöldið áður hefði lögreglan á Akureyri handtekið mann, sem ætlaði að brjótast inn í hús við Aðalstræti með stóran veiðiriffil og gera upp við íbúa þar. Lögreglan brást vel og skipulega við þessari ógn og voru sérsveitarmenn ríkislögreglustjóra á Akureyri kallaðir á vettvang auk þess sem sérsveitarmenn í Reykjavík voru í viðbragðsstöðu.</p>
+    <p>Þetta atvik minnir enn á, hve brýnt er að lögreglan sé undir það búin að takast á við hættulegri verkefni en <errorort correct="áður" errorinfo="typo,stem,1-0">áðiur</errorort>. Fyrr á þessu ári, þótti ekki öllum einsýnt, að nauðsynlegt væri að breyta skipulagi á yfirstjórn sérsveitar lögreglunnar til að sveitin væri ávallt til taks og sveigjanlegri en áður. Því síður virtist skilningur á því hjá mörgum, að nauðsynlegt væri að efla sérsveitina og fjölga í henni.</p>
+    <p>Í blaði Landssambands lögreglumanna, Lögreglumanninum, 1/2004, er stutt grein eftir Óskar Þór Guðmundsson og Steinar Gunnarsson, varðstjóra við embætti sýslumannsins á Eskifirði, í Neskaupstað og Fáskrúðsfirði. Þeir segjast ósammála mér um að nægilegt sé að styrkja sérsveit lögreglunnar eina til að takast á við harðnandi glæpastarfsemi og segja „ við teljum að tími sé kominn til að við förum að opna augun fyrir því að það er hin almenna lögregla sem verður að styrkja til að takast á við vopnaða menn.“ Í upphafi greinar sinnar segja þeir félagar, að lögreglan á Íslandi sé sennilega sú eina í Evrópu, sem ekki beri vopn við skyldustörf sín dags daglega,</p>
+    <p>Á síðasta þingi var <errorort correct="samþykkt" errorinfo="typo,stem,e-a">semþykkt</errorort> breyting á lögum, sem veitir lögreglu vitnavernd. Þá voru lögreglunni einnig veittar auknar <errorort correct="heimildir" errorinfo="typo,der,1-0">heimilidir</errorort> til símahlerana eins og mikið var rætt. Heimildirnar, sem þar fengust eru jafnvel víðtækari en lagt var upp með frumvarpinu, sem ég flutti, þótt það sætti gagnrýni fyrir að ganga of nærri friðhelgi manna.</p>
+  </body>
+</document>

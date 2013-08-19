@@ -1,0 +1,21 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Miðvikudagur, 26. 04. 06.  Fundir í París frá kl. 09. 30 til 19.15 með: Yfirmanni lögreglusveitar gegn skipulagðri glæpastarfsemi, yfirmönnum öryggislögreglunnar DST, <errorlang correct="fra">Brice Hortefeux</errorlang>, <errorort correct="varainnanríkisráðherra" errorinfo="typo,stem,0-1">varainnaríkisráðherra</errorort>, yfirmönnum útlendingaeftirlits (OFORA) og yfirmanni landamæralögreglunnar.</p>
+  </body>
+</document>

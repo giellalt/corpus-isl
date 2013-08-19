@@ -1,0 +1,23 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Mánudagur, 09. 02. 04  Fór rúmlega 09.00 í heimsókn til Slysavarnafélagsins Landsbjargar, fyrst um höfuðstöðvarnar í Skógarhlíð, síðan til Hjálparsveitar skáta, þá út á <errorortreal correct="Seltjarnarnes" errorinfo="cmp,genpl-gensg">Seltjarnanes</errorortreal> til slysavarnadeildar kvenna auk þess að kynnast sjó- og rústabjörgunardeildum hjá <errorort correct="björgunarsveitinni" errorinfo="meta,stem,nu-un">björgnuarsveitinni</errorort> Ársæli, loks niður á höfn um borð í björgunarskipið Ásgrím S. <errorort correct="Björnsson" errorinfo="typo,stem,2-1">Björnssonn</errorort> og sigldi með því út á ytri höfn.</p>
+    <p xml:lang="nno">Fórum á milli staða í björgunarsveitarjeppa.</p>
+    <p>Var þetta mjög fróðleg og skemmtileg ferð og traustvekjandi að kynnast því, hve vel er að þessum störfum staðið og við góðar aðstæður.</p>
+  </body>
+</document>

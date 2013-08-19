@@ -1,0 +1,25 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Þriðjudagur, 13. 09. 05.  Flaug klukkan 13.30 með Icelandair til Kaupmannahafnar og var kominn <errorort correct="þangað um" errorinfo="cmp,adv+pp,1-2">þangaðum</errorort> klukkan 18.30 að dönskum tíma. Fór inn í borgina í mildu og góðu veðri en held áfram á morgun til Litháens á dómsmálaráðherrafund Eystrasaltslandanna.</p>
+    <p>Á fundinum verður örugglega enginn dómsmálaráðherra frá Noregi, því að ríkisstjórn Bondeviks féll í kosningunum í gær og við tekur vinstri/<errorort correct="vinstri græn" errorinfo="cmp,slash,1-2">græn</errorort> ríkisstjórn undir forystu Verkamannaflokksins. Hvað hafa margir Eiríkir Bergmann spáð því, að nú myndi Ísland lenda í vanda, af því að Noregur ætlaði í Evrópusambandið? Þeir spádómar eru ekki réttir frekar en annað, sem úr þessari átt kemur. Ný vinstri stjórn í Noregi verður einfaldlega ekki með ESB-aðild á dagskrá.</p>
+    <p>Verkamannaflokkurinn vann ekki neinn stórsigur í þessum kosningum, hann náði aftur til sín fylgi, sem hann tapaði í afhroðinu síðast. Framfaraflokkurinn er hinn stóri sigurvegari kosninganna og Carl I. Hagen, formaður hans, sagði á kosninganóttina, að á 21. öldinni myndi flokkur sinn gegna sama hlutverki í norskum stjórnmálum og Verkamannaflokkurinn á 20. öldinni.</p>
+    <p>Fyrir okkur Íslendinga er skrýtið, að unnt sé að halda stjórnmálaafli á borð við Framfaraflokkinn árum saman utan ríkisstjórnar og umgangast hann eins og holdsveikan í þinginu. Skyldi það ýta svona undir fylgi flokksins, að hann hefur aldrei þurft að axla neina ábyrgð? Hann er að því leyti líkur Samfylkingunni hjá okkur, hún hefur aldrei staðið undir neinni pólitískri ábyrgð, þótt hún sé að vísu talin samkvæmishæf í stjórnmálalífinu.</p>
+    <p>Nú gerist það eins og jafnan ef <errorort correct="vinstrisinnum" errorinfo="typo,stem,0-1">vinstrsinnum</errorort> vegnar vel í kosningum einhvers staðar í Evrópu, að skoðanabræður þeirra á Íslandi leggjast í pælingar um, að eitthvað svipað geti gerst hér. Í stjórnmálum gildir hins <errorort correct="vegar að" errorinfo="cmp,adv+infp,1-2">vegarað</errorort> fagna eigin sigri frekar en annarra,  og til lítils er <errorlex correct="að">eða</errorlex> gera sigur annarra að sínum.</p>
+  </body>
+</document>

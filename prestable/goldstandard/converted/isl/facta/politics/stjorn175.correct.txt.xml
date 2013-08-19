@@ -1,0 +1,21 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Fimmtudagur, 25. 09. 03.  Klukkan 13.15 var ég í Lögregluskólanum við Krókháls og fór þar í <errorort correct="skoðunarferð" errorinfo="typo,stem,0-1">skoðunaferð</errorort>, hitti skólastjóra, kennara og nemendur og ræddi um skólastarfið og framtíð þess til klukkan tæplega 16.00.</p>
+  </body>
+</document>

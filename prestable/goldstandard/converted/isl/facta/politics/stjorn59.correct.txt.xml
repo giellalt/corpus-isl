@@ -1,0 +1,25 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+  </header>
+  <body>
+    <p>Föstudagur, 02. 12. 05.  Fundaði í Brussel fyrir hádegi meðal annars um aðild ESB að stjórn <errorort correct="hættuástands" errorinfo="typo,suff,2-0">hættuástandans</errorort> (crisis management) víða um heim, en hlutur ESB í þessu efni hefur vaxið hratt á skömmum tíma og nú eru fulltrúar þess við störf á 10 hættusvæðum um heim allan.</p>
+    <p xml:lang="dan">Ritaði undir aðildarsamning Íslands að evrópsku réttaraðstoðinni (Eurojust) með Michael Kennedy formanni ráðs Eurojust.</p>
+    <p xml:lang="nno">Átti fund með norska dómsmálaráðherranum um sameiginleg viðfangsefni.</p>
+    <p>Flaug frá Brussel til Kaupmannahafnar kl. 17.10 og síðan heim frá Kaupmannahöfn klukkan 20.10 lenti um þremur tímum síðar.</p>
+    <p>Sá að hæstiréttur hefur komist að niðurstöðu vegna kæru um það hvort Sigurður Tómas Magnússon sé bær til að flytja allt Baugsmálið sem ríkissaksóknari. Málið er að nýju komið í hendur héraðsdómsins.</p>
+  </body>
+</document>
