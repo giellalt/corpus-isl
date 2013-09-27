@@ -16,7 +16,7 @@
     <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>
   <body>
-    <p>http://visir.is/johanna-haettir---tilhugsunin-er-god-/article/2012120928965 Jóhanna Sigurðardóttir, forsætisráðherra, sem hefur helgað sig stjórnmálum helming ævi sinnar, ætlar að hætta í stjórnmálum að loknu þessu kjörtímabili. Þorbjörn Þórðarson ræddi við Jóhönnu á sjötta tímanum í dag.</p>
+    <p><errorlang correct="url">http://visir.is/johanna-haettir---tilhugsunin-er-god-/article/2012120928965</errorlang> Jóhanna Sigurðardóttir, forsætisráðherra, sem hefur helgað sig stjórnmálum helming ævi sinnar, ætlar að hætta í stjórnmálum að loknu þessu kjörtímabili. Þorbjörn Þórðarson ræddi við Jóhönnu á sjötta tímanum í dag.</p>
     <p>Jóhanna Sigurðardóttir forsætisráðherra hefur setið á Alþingi frá árinu 1978. Að loknu þessu kjörtímabili hefur hún því verið þingmaður í 35 ár.</p>
     <p>Eitt af mestu afrekum Jóhönnu í stjórnmálum er að hafa orðið forsætisráðherra fyrstu hreinu félagshyggju- og jafnaðarmannastjórnarinnar á lýðveldistímanum eftir kosningar vorið 2009.</p>
     <p>Jóhanna <errorsyn correct="segir í">segir</errorsyn> bréfi sem hún sendi flokksmönnum í dag að allt hafi sinn tíma, líka hennar tími sem sé orðinn langur og <errorortreal correct="viðburðaríkur" errorinfo="cmp,gensg-genpl">viðburðarríkur</errorortreal>. Að loknu þessu kjörtímabili hafi hún því ákveðið að láta af <errorort correct="þátttöku" errorinfo="typo,stem,2-3">þáttöku</errorort> í stjórnmálum.</p>

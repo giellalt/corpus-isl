@@ -16,7 +16,7 @@
     <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>
   <body>
-    <p>http://visir.is/syrlensku-bornin-ormagna-/article/2012120909474 Börn sem flýja heimkynni sín í Sýrlandi eru örmagna þegar þau koma í flóttamannabúðir í nágrannaríkjum. Þetta segir barnaverndarfulltrúi UNICEF í Jórdaníu. Samtökin hafa blásið til neyðarsöfnunar fyrir þessi stríðshrjáðu börn.</p>
+    <p><errorlang correct="url">http://visir.is/syrlensku-bornin-ormagna-/article/2012120909474</errorlang> Börn sem flýja heimkynni sín í Sýrlandi eru örmagna þegar þau koma í flóttamannabúðir í nágrannaríkjum. Þetta segir barnaverndarfulltrúi UNICEF í Jórdaníu. Samtökin hafa blásið til neyðarsöfnunar fyrir þessi stríðshrjáðu börn.</p>
     <p>Mikill straumur flóttafólks liggur nú frá Sýrlandi og á hverjum degi leita þúsundir barna og fjölskyldur þeirra skjóls í nágrannaríkjunum. Aðstæður í flóttamannabúðum þar eru algjörlega óbærilegar að sögn Sigríðar Víðis Jónsdóttur, upplýsingafulltrúa UNICEF á Íslandi.</p>
     <p>„Helmingur flóttafólksins <errormorphsyn correct="er" errorinfo="x">eru</errormorphsyn> börn og eins og staðan er núna þá eru yfir 200 þúsund manns búnir að flýja Sýrland, farnir yfir til nágrannaríkjanna. Að auki eru milljón manna á vergangi innanlands í Sýrlandi. Og aftur þá er helmingurinn af þessu fólki börn," segir Sigríður.</p>
     <p>Söfnunarfénu verður varið í að lina þjáningar barnanna og gera aðstæður þeirra bærilegri.</p>

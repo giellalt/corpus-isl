@@ -16,7 +16,7 @@
     <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>
   <body>
-    <p>http://visir.is/segist-ekki-hafa-haft-hugmynd-um-ad-hann-vaeri-ad-fremja-logbrot-/article/2012120929469 „Ég hafði ekki hugmynd um að þetta væri ólöglegt. Ég var bara unglingur á þessum tíma." Þetta sagði Jón Ólafur Róbertsson í <errorort correct="vitnisburði" errorinfo="cmp,suff,nom-gensg">vitniburði</errorort> sínum í Héraðsdómi Reykjaness í dag.</p>
+    <p><errorlang correct="url">http://visir.is/segist-ekki-hafa-haft-hugmynd-um-ad-hann-vaeri-ad-fremja-logbrot-/article/2012120929469</errorlang> „Ég hafði ekki hugmynd um að þetta væri ólöglegt. Ég var bara unglingur á þessum tíma." Þetta sagði Jón Ólafur Róbertsson í <errorort correct="vitnisburði" errorinfo="cmp,suff,nom-gensg">vitniburði</errorort> sínum í Héraðsdómi Reykjaness í dag.</p>
     <p>Jón er einn af fimm sakborningum í máli sérstaks saksóknara en það tekur til stórfelldra fjársvika og blekkinga árið 2008. Tugmilljónir voru sviknar út úr Íbúðalánasjóði og öðrum fyrirtækjum, en sakborningar tengdust vélhjólasamtökunum Fáfni og Hells Angels.</p>
     <p>Jón hefur neitað sök. „Ég hafði ekki hugmynd um að þetta væri bannað. Ég lánaði Jens Tryggva Jenssyni reikningana mína. Það voru um það bil þrettán milljónir sem voru lagðar inn á mig.</p>
     <p>„Þeir voru að braska eitthvað sem ég vissi ekkert um. Ég spurði lítið, ég var ungur á þessum tíma og ég leitaði ekki skýringa hjá Jens Tryggva."</p>

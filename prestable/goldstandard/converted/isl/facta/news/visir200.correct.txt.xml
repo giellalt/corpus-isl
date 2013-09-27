@@ -16,7 +16,7 @@
     <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>
   <body>
-    <p>http://visir.is/ragnheidur-vill-2.-saetid-i-sudvestukjordaemi/article/2012120928865 Ragnheiður vill 2. sætið í <errorort correct="Suðvesturkjördæmi" errorinfo="typo,stem,0-1">Suðvestukjördæmi</errorort> Ragnheiður Ríkharðsdóttir hefur ákveðið að gefa kost á sér á í 2 sæti á lista Sjálfstæðisflokksins í Suðvesturkjördæmi fyrir næstu þingkosningar.</p>
+    <p><errorlang correct="url">http://visir.is/ragnheidur-vill-2.-saetid-i-sudvestukjordaemi/article/2012120928865</errorlang> Ragnheiður vill 2. sætið í <errorort correct="Suðvesturkjördæmi" errorinfo="typo,stem,0-1">Suðvestukjördæmi</errorort> Ragnheiður Ríkharðsdóttir hefur ákveðið að gefa kost á sér á í 2 sæti á lista Sjálfstæðisflokksins í Suðvesturkjördæmi fyrir næstu þingkosningar.</p>
     <p>Ragnheiður var oddviti sjálfstæðismanna í bæjarstjórn Mosfellsbæjar frá 2002 – 2007 og jafnframt bæjarstjóri. Ragnheiður hefur setið á þingi fyrir Sjálfstæðisflokkinn frá árinu 2007.</p>
   </body>
 </document>

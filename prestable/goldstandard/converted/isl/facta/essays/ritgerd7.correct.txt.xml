@@ -1,17 +1,20 @@
 <!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="isl" id="no_id">
   <header>
-    <title/>
+    <title>Mynda menn sér skoðanir út frá eiginhagsmunum?</title>
     <genre code="facta"/>
     <author>
       <unknown/>
     </author>
+    <year>2005</year>
+    <place>Reykjavik</place>
+    <wordcount>981</wordcount>
     <availability>
-      <license type="standard"/>
+      <free/>
     </availability>
-    <multilingual/>
+    <origFileName>ritgerd7.correct.txt</origFileName>
     <metadata>
-      <uncomplete/>
+      <complete/>
     </metadata>
     <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>

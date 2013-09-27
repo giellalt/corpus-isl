@@ -16,7 +16,7 @@
     <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>
   <body>
-    <p xml:lang="fin">http://visir.is/vill-ad-framkvaemdastjori-ihugi-afsogn/article/2012120929010 Höskuldur Þór Þórhallsson, þingmaður Framsóknarflokksins, vill að Hrólfur Ölvisson, framkvæmdastjóri flokksins, íhugi uppsögn.</p>
+    <p xml:lang="fin"><errorlang correct="url">http://visir.is/vill-ad-framkvaemdastjori-ihugi-afsogn/article/2012120929010</errorlang> Höskuldur Þór Þórhallsson, þingmaður Framsóknarflokksins, vill að Hrólfur Ölvisson, framkvæmdastjóri flokksins, íhugi uppsögn.</p>
     <p>Þetta kemur fram í tilkynningu sem Höskuldur sendi fjölmiðlum nú rétt fyrir hádegisfréttir.</p>
     <p>Höskuldur segir að gerð hafi verið tilraun til að hanna <errorortreal correct="atburðarás" errorinfo="cmp,gensg-genpl">atburðarrás</errorortreal> í tengslum við framboðsmál Framsóknar í Norðausturkjördæmi sem eigi sér ekki stoð í raunveruleikanum.</p>
     <p>Svo virðist sem einungis fámennur hópur hafi haft vitneskju um fyrirætlanir Sigmundar Davíðs Gunnlaugssonar, formanns flokksins.</p>

@@ -16,7 +16,7 @@
     <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>
   <body>
-    <p>http://www.visir.is/ben--og--jerry%C2%B4s-hofdar-mal-gegn-klammyndaframleidendum/article/2012120909378 Bandaríski ísframleiðandinn Ben &amp; Jerry´s hefur höfðað mál gegn klámmyndaframleiðendum í Bandaríkjunum.</p>
+    <p><errorlang correct="url">http://www.visir.is/ben--og--jerry%C2%B4s-hofdar-mal-gegn-klammyndaframleidendum/article/2012120909378</errorlang> Bandaríski ísframleiðandinn Ben &amp; Jerry´s hefur höfðað mál gegn klámmyndaframleiðendum í Bandaríkjunum.</p>
     <p>Ísframleiðandinn telur að klámframleiðendurnir hafi farið illa með nöfnin á ýmsum þekktum ístegundum sínum með því að afbaka nöfnin í heitum á nokkrum klámmyndum.</p>
     <p>Ístegundirnar sem hér um ræðir eru m.a. Boston Cream Pie, Chocolate Fudge Brownie og Peanut Butter Cup.</p>
     <p xml:lang="ger">Heitin á klámmyndum þeim sem hér um ræðir eru <errorort correct="hins vegar" errorinfo="cmp,dem+adv,1-2">hinsvegar</errorort> Boston Cream Thighs, Chocolate Fudge Babes og Peanut Butter D-Cups.</p>

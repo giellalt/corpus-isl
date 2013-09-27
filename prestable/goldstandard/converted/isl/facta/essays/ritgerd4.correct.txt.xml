@@ -1,17 +1,20 @@
 <!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="isl" id="no_id">
   <header>
-    <title/>
+    <title>Er ungt fólk auðveld bráð óprútinna auglýsenda?</title>
     <genre code="facta"/>
     <author>
       <unknown/>
     </author>
+    <year>2005</year>
+    <place>Reykjavik</place>
+    <wordcount>763</wordcount>
     <availability>
-      <license type="standard"/>
+      <free/>
     </availability>
-    <multilingual/>
+    <origFileName>ritgerd4.correct.txt</origFileName>
     <metadata>
-      <uncomplete/>
+      <complete/>
     </metadata>
     <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>

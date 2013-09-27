@@ -1,17 +1,20 @@
 <!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="isl" id="no_id">
   <header>
-    <title/>
+    <title>... maðurinn finnur það sem hann leitar að, og sá sem trúir á draug finnur draug.</title>
     <genre code="facta"/>
     <author>
       <unknown/>
     </author>
+    <year>2005</year>
+    <place>Reykjavik</place>
+    <wordcount>958</wordcount>
     <availability>
-      <license type="standard"/>
+      <free/>
     </availability>
-    <multilingual/>
+    <origFileName>ritgerd8.correct.txt</origFileName>
     <metadata>
-      <uncomplete/>
+      <complete/>
     </metadata>
     <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>

@@ -16,7 +16,7 @@
     <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>
   <body>
-    <p>http://visir.is/jatadi-mordid-i-tulsa/article/2012120928805 Andri Ólafsson skrifar: Maðurinn sem grunaður er um að hafa skotið Kristján Hinrik Thorson í Bandaríkjunum í byrjun mánaðarins til bana viðurkenndi fyrir vini sínum skömmu eftir atburðinn að hafa skotið Hinrik.</p>
+    <p><errorlang correct="url">http://visir.is/jatadi-mordid-i-tulsa/article/2012120928805</errorlang> Andri Ólafsson skrifar: Maðurinn sem grunaður er um að hafa skotið Kristján Hinrik Thorson í Bandaríkjunum í byrjun mánaðarins til bana viðurkenndi fyrir vini sínum skömmu eftir atburðinn að hafa skotið Hinrik.</p>
     <p>Hinn grunaði í málinu heitir Jermaine Jackson en hann hafði undir höndum 22kalibera <errorort correct="skammbyssu" errorinfo="con,stem,1-2">skambyssu</errorort> af sömu gerð og notuð var í skotárásinni.</p>
     <p>Á meðal þess sem kemur fram í gögnum lögreglu er að Jackson hafi rétt fyrir árásina gengið upp að bílstjórahlið bílsins sem Kristján Hinrik var í og öskrað á bílstjórann að hann hafi næstum því keyrt á hann. Því næst hafi hann tekið upp <errorort correct="skammbyssu" errorinfo="con,stem,1-2">skambyssu</errorort> og skotið alls 10 sinnum inn í bílinn með þeim afleiðingum að bæði bílstjórinn og Kristján Hinrik létust.</p>
     <p xml:lang="dan">Jackson hljóp því næst af vettvangi.</p>

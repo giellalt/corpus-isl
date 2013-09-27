@@ -16,7 +16,7 @@
     <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>
   <body>
-    <p>http://www.visir.is/slokkvilidid-kallad-ut-ad-videyjarkirkju/article/2012120909375 Slökkviliðið fékk brunaboð frá Viðeyjarkirkju laust fyrir <errorort correct="miðnætti" errorinfo="typo,suff,0-1">miðnætt</errorort>. Viðeyjarferjan var þegar ræst út samkvæmt viðbragðsáætlun og fimm <errorort correct="slökkviliðsmenn" errorinfo="typo,stem,0-1">slökkvliðsmenn</errorort> sendir með henni með búnað. Annars er öflug dæla, slöngur og fleira til taks í eyjunni, enda menningarverðmæti þar í húfi. Þegar til kom reyndist skynjari hafa bilað og gefið fölsk boð.</p>
+    <p><errorlang correct="url">http://www.visir.is/slokkvilidid-kallad-ut-ad-videyjarkirkju/article/2012120909375</errorlang> Slökkviliðið fékk brunaboð frá Viðeyjarkirkju laust fyrir <errorort correct="miðnætti" errorinfo="typo,suff,0-1">miðnætt</errorort>. Viðeyjarferjan var þegar ræst út samkvæmt viðbragðsáætlun og fimm <errorort correct="slökkviliðsmenn" errorinfo="typo,stem,0-1">slökkvliðsmenn</errorort> sendir með henni með búnað. Annars er öflug dæla, slöngur og fleira til taks í eyjunni, enda menningarverðmæti þar í húfi. Þegar til kom reyndist skynjari hafa bilað og gefið fölsk boð.</p>
     <p>Fyrr um kvöldið var slökkviliðið kallað að brennandi bíl á Hvaleyrarholti í Hafnarfirði. Bíllinn er <errorsyn correct="stórskemmdur" errorinfo="x">stór skemmdur</errorsyn> og er grunur um íkveikju.</p>
   </body>
 </document>

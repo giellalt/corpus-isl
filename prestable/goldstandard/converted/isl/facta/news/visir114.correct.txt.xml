@@ -16,7 +16,7 @@
     <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>
   <body>
-    <p>http://visir.is/danski-islendingurinn-er-markahaestur-i-thysku-deildinni/article/2012120919124 Danski landsliðsmaðurinn Hans Lindberg hefur byrjað vel í þýsku úrvalsdeildinni í handbolta á þessu tímabili og er markahæsti leikmaður deildarinnar eftir leiki helgarinnar. Foreldrar <errorort correct="Hans" errorinfo="typo,stem,1-0">Hanes</errorort>eru eins og kunnugt er báðir íslenskir en Lindberg er uppalinn í Danmörku.</p>
+    <p><errorlang correct="url">http://visir.is/danski-islendingurinn-er-markahaestur-i-thysku-deildinni/article/2012120919124</errorlang> Danski landsliðsmaðurinn Hans Lindberg hefur byrjað vel í þýsku úrvalsdeildinni í handbolta á þessu tímabili og er markahæsti leikmaður deildarinnar eftir leiki helgarinnar. Foreldrar <errorort correct="Hans" errorinfo="typo,stem,1-0">Hanes</errorort>eru eins og kunnugt er báðir íslenskir en Lindberg er uppalinn í Danmörku.</p>
     <p>Hans Lindberg er búinn að skora 41 mark í fyrstu fimm leikjum HSV Hamburg á tímabilinu eða 8,2 mörk að meðaltali í leik. Lindberg skoraði 9 mörk um helgina þegar liðið vann Hannover-Burgdorf.</p>
     <p xml:lang="nno">Lindberg skorað 7,0 mörk að meðaltali í leik á síðasta tímabili og var með 6,2 mörk í leik tímabilið 2010-11. Hann hefur spilað með HSV Hamburg frá 2007 og er þegar búinn að brjóta þúsund marka múrinn í þýsku úrvalsdeildinni.</p>
     <p xml:lang="nno">Hans Lindberg hefur reyndar bara eins marks forskot á Uwe Gensheimer, lærisvein Guðmundar Guðmundssonar hjá Rhein-Neckar Löwen en í 3. til 4. sæti eru síðan Daninn Morten Olsen og Þjóðverjinn Timm Schneider.</p>

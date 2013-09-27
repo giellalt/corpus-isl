@@ -16,7 +16,7 @@
     <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>
   <body>
-    <p xml:lang="nno">http://visir.is/othekkjanleg-tyra-banks/article/2012120919060 America’s Next Top Model sjónvarpsstjarnan Tyra Banks, 38 ára, var nánast óþekkjanleg þegar hún skokkaði um götur New York snemma í morgun. Tyra var með derhúfu á höfðinu eins og sjá má í <errorort correct="myndasafni" errorinfo="typo,suff,1-0">myndsasafni</errorort>.</p>
+    <p xml:lang="nno"><errorlang correct="url">http://visir.is/othekkjanleg-tyra-banks/article/2012120919060</errorlang> America’s Next Top Model sjónvarpsstjarnan Tyra Banks, 38 ára, var nánast óþekkjanleg þegar hún skokkaði um götur New York snemma í morgun. Tyra var með derhúfu á höfðinu eins og sjá má í <errorort correct="myndasafni" errorinfo="typo,suff,1-0">myndsasafni</errorort>.</p>
     <p>Ef myndir sem teknar voru á tískuvikunni í New York eru bornar saman við þær sem teknar voru af henni í morgun er munurinn mikill.</p>
   </body>
 </document>

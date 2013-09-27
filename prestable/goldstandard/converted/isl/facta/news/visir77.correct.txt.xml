@@ -16,7 +16,7 @@
     <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>
   <body>
-    <p>http://www.visir.is/kim-kardashian-i-djorfum-kjol/article/2012120909340 Það virðist vera nóg að gera hjá Kim Kardashian því varla líður dagur án þess að hún sjáist í fullum skrúða í partýum, á rauða <errorort correct="dreglinum" errorinfo="typo,suff,0-1">dreglinu</errorort> eða á förnum vegi með nýja kærastanum.</p>
+    <p><errorlang correct="url">http://www.visir.is/kim-kardashian-i-djorfum-kjol/article/2012120909340</errorlang> Það virðist vera nóg að gera hjá Kim Kardashian því varla líður dagur án þess að hún sjáist í fullum skrúða í partýum, á rauða <errorort correct="dreglinum" errorinfo="typo,suff,0-1">dreglinu</errorort> eða á förnum vegi með nýja kærastanum.</p>
     <p>Raunveruleikastjarnan vakti vægast sagt athygli í djörfum kjól í New York borg í <errorort correct="gærkvöldi" errorinfo="vow,stem,e-ö">gærkveldi</errorort>, kjóllinn var svartur og hvítur og sýndi ekki bara línur íturvöxnu stjörnunnar heldur var barmurinn lítið hulinn eins og sjá má á meðfylgjandi mynd.</p>
     <p>Mikið hefur verið talað um breyttan fatastíl Kim eftir að hún byrjaði að hitta rapparann Kanye West.</p>
   </body>
