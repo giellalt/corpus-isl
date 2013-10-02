@@ -16,6 +16,6 @@
     <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>
   <body>
-    <p xml:lang="nno">Mánudagur, 03. 05.04.  Fundir í Washington með yfirmanni strandgæslunnar, Henry J. Hyde, formanni utanríkismálanefndar <errorort correct="fulltrúadeildar" errorinfo="typo,stem,0-1">fulltrúadeilar</errorort> þingsins, og í utanríkisráðuneytinu.</p>
+    <p xml:lang="nno">Mánudagur, 03. 05.04.  Fundir í Washington með yfirmanni strandgæslunnar, <errorlang correct="eng">Henry J. Hyde</errorlang>, formanni utanríkismálanefndar <errorort correct="fulltrúadeildar" errorinfo="typo,stem,0-1">fulltrúadeilar</errorort> þingsins, og í utanríkisráðuneytinu.</p>
   </body>
 </document>

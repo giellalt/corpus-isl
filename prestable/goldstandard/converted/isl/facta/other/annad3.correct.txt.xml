@@ -20,7 +20,7 @@
     <p xml:lang="nno">Góður draumur maður</p>
     <p xml:lang="nob">Mig dreymdi að nýtt spil, eða leikur kannski öllu heldur, kom á markaðinn. <errorort correct="Þátttakendur" errorinfo="typo,stem,2-3">Þáttakendur</errorort> voru tveir og plottið eftirfarandi:</p>
     <p>Annar "keppandinn" var tengdur við púlsmæli nokkurs konar, sem greindi hjartslátt, blóðstreymi og önnur líkamleg einkenni. Hinn "keppandinn" studdist við litla bók sem fylgja átti eftir. Í henni voru leiðbeiningar um hvernig mætti koma púlsmælda keppandanum til; ýmsum aðferðum, í formi líkamssnertinga, orða <errorort correct="o.s.frv." errorinfo="abp,0-3">osfrv</errorort>, átti að beita til að æsa þann mælda kynferðislega. Árangurinn kom fram á mælinum og í samræmi við hann gaf bókin nánari leiðbeiningar. Þótti þetta skilvirkur og <errorort correct="sniðugur" errorinfo="vow,stem,e-i">sneðugur</errorort> leikur.</p>
-    <p>Ég er ekki frá því að guð hafi í nótt gefið mér góða bissnesshugmynd til að hagnast á fyrir næstu jól.</p>
+    <p>Ég er ekki frá því að guð hafi í nótt gefið mér góða <errorlex correct="viðskiptahugmynd" errorinfo="foreign,eng">bissnesshugmynd</errorlex> til að hagnast á fyrir næstu jól.</p>
     <p>Beygingarmynd dagsins: Rignd #</p>
   </body>
 </document>

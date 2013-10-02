@@ -16,6 +16,6 @@
     <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>
   <body>
-    <p>Laugardagur 3.8.2002  Ók úr Fljótshlíðinni í Skálholt og var þar klukkan 14.00 og hlustaði á Orra <errorort correct="Vésteinsson" errorinfo="typo,stem,1-0">Vétsteinsson</errorort> lýsa <errorort correct="fornleifagreftinum" errorinfo="typo,stem,1-0">fornleifagrefrtinum</errorort>. Sótti síðan tónleika Bach-sveitarinnar með <errorlang correct="hol">Jaap Schröder</errorlang> í Skálholtskirkju klukkan 15.00 og 17.00 og drakk miðaldarkaffi á milli og snæddi síðan kvöldverð með tónlistarfólkinu áður en ég ók aftur í Fljótshlíðina, en Rut var áfram með Bach-sveitinni fram í næstu viku.</p>
+    <p>Laugardagur 3.8.2002  Ók úr Fljótshlíðinni í Skálholt og var þar klukkan 14.00 og hlustaði á Orra <errorort correct="Vésteinsson" errorinfo="typo,stem,1-0">Vétsteinsson</errorort> lýsa <errorort correct="fornleifagreftinum" errorinfo="typo,stem,1-0">fornleifagrefrtinum</errorort>. Sótti síðan tónleika Bach-sveitarinnar með <errorlang correct="hol">Jaap Schröder</errorlang> í Skálholtskirkju klukkan 15.00 og 17.00 og drakk <errorortreal correct="miðaldakaffi" errorinfo="cmp,gensg-genpl">miðaldarkaffi</errorortreal> á milli og snæddi síðan kvöldverð með tónlistarfólkinu áður en ég ók aftur í Fljótshlíðina, en Rut var áfram með Bach-sveitinni fram í næstu viku.</p>
   </body>
 </document>

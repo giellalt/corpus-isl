@@ -16,7 +16,7 @@
     <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>
   <body>
-    <p xml:lang="dan">Mánudagur, 21. 03. 05.  Sat <errorort correct="þingflokksfund og" errorinfo="cmp,noun+conj,1-2">þingflokksfundog</errorort> þingfund, þar sem samþykkt var að Bobby Fischer yrði íslenskur ríkisborgari.</p>
-    <p>Flutti síðan framsöguræðu um frumvarp vegna breytinga á mannréttindasáttmála Evrópu, það er vegna mannréttindadómstólsins og gat þess, að hann sætti víða gagnrýni fyrir það, hve langt hann gengi í dómum sínum og inn á svið löggjafans. Minnti ég á ræðu, sem ég hafði flutt um þetta í september 2003 en nú heyrðust sömu sjónarmið Lene Espersen, danska dómsmálaráðherranum, og dönskum lagaprófessor.</p>
+    <p xml:lang="dan">Mánudagur, 21. 03. 05.  Sat <errorort correct="þingflokksfund og" errorinfo="cmp,noun+conj,1-2">þingflokksfundog</errorort> þingfund, þar sem samþykkt var að <errorlang correct="eng">Bobby Fischer</errorlang> yrði íslenskur ríkisborgari.</p>
+    <p>Flutti síðan framsöguræðu um frumvarp vegna breytinga á mannréttindasáttmála Evrópu, það er vegna mannréttindadómstólsins og gat þess, að hann sætti víða gagnrýni fyrir það, hve langt hann gengi í dómum sínum og inn á svið löggjafans. Minnti ég á ræðu, sem ég hafði flutt um þetta í september 2003 en nú heyrðust sömu sjónarmið <errorlang correct="dan">Lene Espersen</errorlang>, danska dómsmálaráðherranum, og dönskum lagaprófessor.</p>
   </body>
 </document>

@@ -16,6 +16,6 @@
     <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>
   <body>
-    <p>Laugardagur, 04. 06. 05.  Klukkan 09.30 var fjórði aðalfundur Aflsins, félags qi gong iðkenda, haldinn í í veitingahúsinu í Grasagarðinum í blíðskaparveðri. Kyrrðin var rofin með þjófavarnarflauti í garðinum og urðum við að gera hlé á fundinum vegna hávaða - undruðumst við, hve langan tíma það tók Securitas að koma og <errorort correct="slökkva" errorinfo="typo,stem,k-l">skökkva</errorort> á flautunni.</p>
+    <p>Laugardagur, 04. 06. 05.  Klukkan 09.30 var fjórði aðalfundur Aflsins, félags qi gong iðkenda, haldinn í í veitingahúsinu í Grasagarðinum í blíðskaparveðri. Kyrrðin var rofin með þjófavarnarflauti í garðinum og urðum við að gera hlé á fundinum vegna hávaða - undruðumst við, hve langan tíma það tók <errorlang correct="lat">Securitas</errorlang> að koma og <errorort correct="slökkva" errorinfo="typo,stem,k-l">skökkva</errorort> á flautunni.</p>
   </body>
 </document>

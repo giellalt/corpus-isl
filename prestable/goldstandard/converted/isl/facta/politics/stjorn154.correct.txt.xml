@@ -16,6 +16,6 @@
     <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>
   <body>
-    <p>Laugardagur, 08. 05. 04.  Fór á traktornum og fékk <errorort correct="rabbarbara" errorinfo="con,stem,com">rabbabara</errorort> hjá nágranna mínum til að setja í garðinn. Sló umhverfis húsið, en það hef ég ekki áður gert svona snemma. Vnur minn frá Kanada leit í heimsókn og fórum við í <errorort correct="klukkutíma" errorinfo="typo,stem,0-1">klukktíma</errorort> gönguferð. Vélarnar mínar fóru allar í gang að lokum með aðstoð góðs granna og síðan var unnt að grilla kvöldmatinn í sólarblíðu.</p>
+    <p>Laugardagur, 08. 05. 04.  Fór á traktornum og fékk <errorort correct="rabbarbara" errorinfo="con,stem,com">rabbabara</errorort> hjá nágranna mínum til að setja í garðinn. Sló umhverfis húsið, en það hef ég ekki áður gert svona snemma. <errorort correct="Vinur" errorinfo="typo,stem,1-0">Vnur</errorort> minn frá Kanada leit í heimsókn og fórum við í <errorort correct="klukkutíma" errorinfo="typo,stem,0-1">klukktíma</errorort> gönguferð. Vélarnar mínar fóru allar í gang að lokum með aðstoð góðs granna og síðan var unnt að grilla kvöldmatinn í sólarblíðu.</p>
   </body>
 </document>

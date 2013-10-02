@@ -19,6 +19,6 @@
     <p>Laugardagur, 14. 01. 06.  Egill Helgason segir í dag frá samskiptum sínum við blaðamenn DV í pistli á vefsíðu sinni. Hann telur einnig, að Eiríkur Jónsson, stjörnublaðamaður DV, muni halda áfram á sömu braut, þótt ritstjóraskipti hafi orðið á blaðinu.</p>
     <p>Ritstjórn DV gerir mér þann heiður í dag, að agnúast út í skrif mín um blaðið hér í dagbókinni síðustu daga. Í DV stendur meðal annars: „<errorlex correct="xxx">xxx.</errorlex> Telur sig nú, eftir Hæstaréttardóm um að hann sé ekki <errorort correct="vanhæfur" errorinfo="typo,stem,m-n">vamhæfur</errorort> til að setja ríkissaksóknara vera í aðstöðu til að viðra andúð sína á Baugsmiðlum.“</p>
     <p>Gaman að heyra fréttir af því á NFS að nábúar mínir í Fljótshlíðinni Eggert og Jóna að Kirkjulæk II eiga kýr með mestu nyt í landinu.</p>
-    <p>Í kvöld var sýndur í DR2, það er á annarri rás danska ríkissjónvarpsins, þáttur um Ísland, þar sem meðal annars var rætt við mig um álfa, qi gong og fleira. Að loknum þættinum, sem stóð í klukkustund, var sýnd mynd Friðriks Þórs Cold Fever.</p>
+    <p>Í kvöld var sýndur í DR2, það er á annarri rás danska ríkissjónvarpsins, þáttur um Ísland, þar sem meðal annars var rætt við mig um álfa, <errorlang correct="kin">qi gong</errorlang> og fleira. Að loknum þættinum, sem stóð í klukkustund, var sýnd mynd Friðriks Þórs <errorlang correct="eng">Cold Fever</errorlang>.</p>
   </body>
 </document>

@@ -18,7 +18,7 @@
   <body>
     <p xml:lang="smj">fimmtudagur, júní 26, 2003</p>
     <p xml:lang="nno">Harry Potter...</p>
-    <p>...er víst komin út en ég hef ekki útvegað mér eintak enn sökum vinnu og uppsölu. Ég hlakka til að kíkja í hana og er viss um að hún ætti ekki að valda mér vonbrigðum. <errorort correct="Hins vegar" errorinfo="cmp,dem+adv,1-2">Hinsvegar</errorort> hef ég vissar áhyggjur af sjálfri mér, mér datt allt í einu í hug að kannski ég hafi tekið upp á því ómeðvitað og gegn eigin vilja að "þroskast upp úr"Harry Potter eða eitthvað. Það er svo langt síðan ég sökkti mér í hann síðast, kannski kann ég ekki lengur að njóta þess. Annars er þetta bara fluga sem ég fékk í höfuðið, get vonandi tekið af allan vafa sem fyrst. Á morgun jafnvel.</p>
+    <p>...er víst komin út en ég hef ekki útvegað mér eintak enn sökum vinnu og uppsölu. Ég hlakka til að kíkja í hana og er viss um að hún ætti ekki að valda mér vonbrigðum. <errorort correct="Hins vegar" errorinfo="cmp,dem+adv,1-2">Hinsvegar</errorort> hef ég vissar áhyggjur af sjálfri mér, mér datt allt í einu í hug að kannski ég hafi tekið upp á því ómeðvitað og gegn eigin vilja að "þroskast upp <errorlang correct="eng"><errorort correct="úr &quot;Harry" errorinfo="cmp,pp+punct+noun,1-3">úr"Harry</errorort></errorlang> <errorlang correct="eng">Potter</errorlang> eða eitthvað. Það er svo langt síðan ég sökkti mér í hann síðast, kannski kann ég ekki lengur að njóta þess. Annars er þetta bara fluga sem ég fékk í höfuðið, get vonandi tekið af allan vafa sem fyrst. Á morgun jafnvel.</p>
     <p>Beygingarmynd dagsins: Ég vildi að það væri ekki til neinn sjór í alheiminum #</p>
   </body>
 </document>

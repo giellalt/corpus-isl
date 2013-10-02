@@ -17,6 +17,6 @@
   </header>
   <body>
     <p>Mánudagur 18. 04. 05.  Klukkan 10.30 hófst 11. ráðstefna Sameinuðu þjóðanna gegn glæpastarfi og um refsirétt í ráðstefnuhöllinni í Bangkok.</p>
-    <p>Klukkan 15.00 flutti <errorort correct="krónprins" errorinfo="typo,stem,0-1">krónpris</errorort> <errorort correct="Taílands" errorinfo="vow,stem,æ-aí">Tælands</errorort>, Maha Vajiralongkorn ræðu á hátíðar-setningarfundi ráðstefnunnar fyrir hönd konungs <errorort correct="Taílands" errorinfo="vow,stem,æ-aí">Tælands</errorort>, en hann er Bhumibol Adulyadej. Með krónprinsinum var dóttir hans, Bajrakitiyabha prinsessa.</p>
+    <p>Klukkan 15.00 flutti <errorort correct="krónprins" errorinfo="typo,stem,0-1">krónpris</errorort> <errorort correct="Taílands" errorinfo="vow,stem,æ-aí">Tælands</errorort>, <errorlang correct="tha">Maha Vajiralongkorn</errorlang> ræðu á hátíðar-setningarfundi ráðstefnunnar fyrir hönd konungs <errorort correct="Taílands" errorinfo="vow,stem,æ-aí">Tælands</errorort>, en hann er <errorlang correct="tha">Bhumibol Adulyadej</errorlang>. Með krónprinsinum var dóttir hans, <errorlang correct="tha">Bajrakitiyabha</errorlang> prinsessa.</p>
   </body>
 </document>

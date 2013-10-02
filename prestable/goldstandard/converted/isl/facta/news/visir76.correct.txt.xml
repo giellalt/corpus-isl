@@ -24,7 +24,7 @@
     <p>„Þarna voru ungmenni, börn undir 15 ára aldri, geymd í einangrun - læst inni. Og oft <errorlex correct="og" errorinfo="x">á</errorlex> tíðum hafi það verið hluti af sakamálarannsókn. Oft <errorlex correct="og" errorinfo="x">á</errorlex> tíðum var mögulega beitt þessum úrræðum til að fá viðkomandi til þess að játa á sig einhverja refsiverða háttsemi eða jafnvel sem refsingu."</p>
     <p>Starfsemi heimilisins á tímabilinu fór fram á átta stöðum, að Kópavogsbraut 17 og Kópavogsbraut 9 í Kópavogi, í Sólheimum 7, Sólheimum 17 og Efstasundi 86 í Reykjavík, að Tindum á Kjalarnesi og á meðferðarheimilunum að Smáratúni í Fljótshlíð og Torfastöðum í Biskupstungu.</p>
     <p>„Þetta er í raun 9. <errorsyn correct="heimilið þar">heimilið</errorsyn> sem við erum að gera innköllun á bótakröfum."</p>
-    <p>Verði kröfu ekki lýst fyrir <errorort correct="20. desember" errorinfo="cmp,num+noun,1-2">20.desember</errorort> fellur hún niður en henni má lýsa á <errorort correct="eyðublaði" errorinfo="typo,suff,i-u">eyðiblaði</errorort> sem er að finna á vefnum sanngirnisbætur.is og hjá tengiliði vegna vistheimila.</p>
+    <p>Verði kröfu ekki lýst fyrir <errorort correct="20. desember" errorinfo="cmp,num+noun,1-2">20.desember</errorort> fellur hún niður en henni má lýsa á <errorort correct="eyðublaði" errorinfo="typo,suff,i-u">eyðiblaði</errorort> sem er að finna á vefnum <errorlang correct="url">sanngirnisbætur.is</errorlang> og hjá tengiliði vegna vistheimila.</p>
     <p xml:lang="nno">„Við erum búin að senda sáttaboð á um 500 manns."</p>
   </body>
 </document>

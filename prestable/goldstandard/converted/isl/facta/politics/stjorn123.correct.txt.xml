@@ -16,6 +16,6 @@
     <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>
   <body>
-    <p xml:lang="nno">Laugardagur, 26. 02. 05.  Héldum klukkan 14.56 með Eurostar frá Brussel Gare de Midi og vorum komin til <errorort correct="Waterloo-stöðvarinnar" errorinfo="vow,stem,o-ö">Waterloo-stoðvarinnar</errorort> í London klukkan 16.23 á enskum tíma, það er ferðin stóð í tæpa tvo og hálfan tíma með lestinni undir Ermarsundið.</p>
+    <p xml:lang="nno">Laugardagur, 26. 02. 05.  Héldum klukkan 14.56 með <errorlang correct="eng">Eurostar</errorlang> frá <errorlang correct="fra">Brussel Gare de Midi</errorlang> og vorum komin til <errorort correct="Waterloo-stöðvarinnar" errorinfo="vow,stem,o-ö">Waterloo-stoðvarinnar</errorort> í London klukkan 16.23 á enskum tíma, það er ferðin stóð í tæpa tvo og hálfan tíma með lestinni undir Ermarsundið.</p>
   </body>
 </document>

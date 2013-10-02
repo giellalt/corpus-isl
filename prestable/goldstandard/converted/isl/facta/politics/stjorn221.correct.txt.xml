@@ -16,6 +16,6 @@
     <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>
   <body>
-    <p>Miðvikudagur 17.7.2002  Fór í hádeginu í Háskólabíó, þar sem Apple-umboðið <errorort correct="stóð" errorinfo="typo,stem,1-0">stór</errorort> fyrir beinni útsendingu frá setningarræðu <errorlang correct="eng">Steve Jobs</errorlang> á <errorlang correct="eng">Macworld</errorlang> í <errorlang correct="eng">Jacob Javits Center</errorlang> í New York. Boðaðar voru <errorort correct="nýjungar" errorinfo="vow,der,á-a">nýjúngar</errorort> fyrir Makka-notendur.</p>
+    <p>Miðvikudagur 17.7.2002  Fór í hádeginu í Háskólabíó, þar sem <errorlang correct="eng">Apple-umboðið</errorlang> <errorort correct="stóð" errorinfo="typo,stem,1-0">stór</errorort> fyrir beinni útsendingu frá setningarræðu <errorlang correct="eng">Steve Jobs</errorlang> á <errorlang correct="eng">Macworld</errorlang> í <errorlang correct="eng">Jacob Javits Center</errorlang> í <errorlang correct="eng">New York</errorlang>. Boðaðar voru <errorort correct="nýjungar" errorinfo="vow,der,á-a">nýjúngar</errorort> fyrir Makka-notendur.</p>
   </body>
 </document>

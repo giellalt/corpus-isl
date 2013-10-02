@@ -21,6 +21,6 @@
     <p xml:lang="dan"><errorort correct="Elín" errorinfo="typo,stem,0-1">Eín</errorort> Lóa bauð í morgunkaffi klukkan sjö í morgun. Það var ánægjulegt.</p>
     <p><errorlang correct="sve">Jäg er så trött.</errorlang> Svo er ég að farast úr stressi yfir þessu öllu saman, svona <errorort correct="tímaþröng" errorinfo="typo,stem,0-1">tímþröng</errorort> fer svo illa í mig. Langar mest bara heim undir sæng. Eða undir e-a sæng í Garðabænum, það væri afbragð.</p>
     <p>Fór í leikhús í gær, generalprufu <errorort correct="útskriftarárs" errorinfo="typo,stem,0-1">útskrifarárs</errorort> leiklistarskólans á spænsku skrifstofuádeilunni Skýfall. Súrsteiktasta leikrit sem ég hef séð. Leiddist þó aldrei....en það var aðeins of <errorlang correct="eng">artyfarty</errorlang> f.minn smekk. Sá samt typpið á einum aðalleikaranum. (held það hafi ekki átt að gerast)</p>
-    <p xml:lang="fin">Ætli teppin í Cösu séu laus? #</p>
+    <p xml:lang="fin">Ætli teppin í <errorlex correct="foreign,lat">Cösu</errorlex> séu laus? #</p>
   </body>
 </document>

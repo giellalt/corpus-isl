@@ -17,6 +17,6 @@
   </header>
   <body>
     <p><errorort correct="Mánudagur" errorinfo="typo,stem,1-0">Mándudagur</errorort>, 04. 04. 05  Ríkisstjórnin kom saman á aukafund klukkan 12.00 til að samþykkja skilmála fyrir sölu Símans.</p>
-    <p>Klukkan 13. 15 <errorort correct="flaug" errorinfo="meta,stem,ua-au">fluag</errorort> ég með Atlantic Airways til Færeyja og lenti þar klukkan 15.30 að þeirra tíma. Ók síðan frá flugvellinum til Þórshafnar og breytir miklu, að nú eru komin göng undir fjörðinn yfir til Straumeyjar.</p>
+    <p>Klukkan 13. 15 <errorort correct="flaug" errorinfo="meta,stem,ua-au">fluag</errorort> ég með <errorlang correct="eng">Atlantic Airways</errorlang> til Færeyja og lenti þar klukkan 15.30 að þeirra tíma. Ók síðan frá flugvellinum til Þórshafnar og breytir miklu, að nú eru komin göng undir fjörðinn yfir til Straumeyjar.</p>
   </body>
 </document>

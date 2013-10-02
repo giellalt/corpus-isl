@@ -16,6 +16,6 @@
     <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>
   <body>
-    <p>Laugardagur 16. 04. 05.  Flugum klukkan 16. 10 til Kaupmannahafnar með Icelandair og þaðan með SAS <errorort correct="klukkan" errorinfo="typo,suff,2-1">klukkann</errorort> 22.45 til Bangkok<errorlex correct=".">,</errorlex></p>
+    <p>Laugardagur 16. 04. 05.  Flugum klukkan 16. 10 til Kaupmannahafnar með <errorlang correct="eng">Icelandair</errorlang> og þaðan með SAS <errorort correct="klukkan" errorinfo="typo,suff,2-1">klukkann</errorort> 22.45 til Bangkok<errorlex correct=".">,</errorlex></p>
   </body>
 </document>
