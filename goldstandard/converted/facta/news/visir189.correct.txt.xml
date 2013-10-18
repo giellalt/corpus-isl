@@ -1,0 +1,23 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://www.visir.is/hugad-ad-likama-og-sal-i-holti/article/2012309299996</errorlang> Marta Ernstsdóttir jógaleiðbeinandi hefur um nokkurra ára skeið staðið fyrir alhliða hugleiðslu, <errorlex correct="jóga" errorinfo="foreign,eng">yoga</errorlex> og heilsuhelgum í Friðarsetrinu að Holti í Önundarfirði. Um helgina fer af stað fyrsta samvera vetrarins en hreint ekki sú síðasta ef marka má áhuga íbúa á svæðinu. „Ég hef reynt að halda nokkrar svona helgar á ári og fólk sem kemur finnur mikinn mun á sér, bæði líkamlega og andlega,“ segir Marta. „Ég veit um tvær sem eru að koma bæði fljúgandi og keyrandi til að vera með okkur, þetta er algjörlega þess virði. Marta segir uppbyggingu dagskrár vera aðallega <errormorphsyn correct="hugsaða">hugsað</errormorphsyn> sem slökun en einnig sem uppbygging fyrir innra og ytra kerfi líkamans.</p>
+    <p>„Þetta er hugsað sem andleg og líkamleg heilsuhelgi. Tveir sólarhringar af <errorlex correct="jóga" errorinfo="for">yoga</errorlex>, slökun og útiveru þar sem við drögum í okkur orku Önundarfjarðar. Síðan verð ég með fræðslu og framreiðslu á nærandi <errorort correct="mataræði" errorinfo="typo,suff,2-1">matarræði</errorort> til að byggja upp orku líkamans og <errormorphsyn correct="áhrifum">áhrif</errormorphsyn> næringar á allt kerfið <errorlex correct=",“">okkar.</errorlex> segir Marta. „Enn eru nokkur pláss laus og má hafa samband við mig ef fólk vill bóka sig.“</p>
+    <p>Hún bætir við að þessa helgi verði lögð sérstök áhersla á fæturna, hægt verður að fara í fótabað, fá nudd og sérstakar æfingar fyrir fætur verða kynntar fyrir þátttakendum.</p>
+  </body>
+</document>

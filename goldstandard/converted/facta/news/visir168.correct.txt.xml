@@ -1,0 +1,23 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://www.visir.is/stal-beikoni-og-kardimommudropum/article/2012120929319</errorlang> Liðlega þrítugur karlmaður var dæmdur í þrjátíu daga skilorðsbundið fangelsi í tvö ár í Héraðsdómi <errorort correct="Norðurlandi" errorinfo="typo,suff,e-i">Norðurlande</errorort> eystra á föstudag fyrir þjófnað. Maðurinn stal þremur <errorsyn correct="beikonáleggsbréfum">beikon áleggsbréfum</errorsyn>, átta vanilludropaglösum og 18 kardimommuglösum úr Samkaup/Strax á Akureyri í júlí síðastliðnum. Þýfið er samtals að verðmæti um 9.500 krónur.</p>
+    <p>Maðurinn viðurkenndi brot sitt fyrir dómara en hann á nokkurn sakaferil að baki. Fimm dögum fyrir þjófnaðinn gerði hann sátt við Sýslumanninn á Akureyri fyrir þjófnaðarbrot og samþykkti að greiða 20 þúsund krónur í sekt til ríkissjóðs.</p>
+    <p>Fyrir dómara lýsti maðurinn yfir iðran vegna þjófnaðarins og staðhæfði jafnframt að hann hefði að undanförnu tekið sig á með hjálp nafngreindra fagaðila.</p>
+  </body>
+</document>

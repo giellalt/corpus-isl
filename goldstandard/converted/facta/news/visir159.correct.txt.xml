@@ -1,0 +1,23 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://visir.is/svisslendingar-hofnudu-algeru-reykingarbanni/article/2012120929521</errorlang> Svisslendingar höfnuðu algeru banni við reykingum á opinberum stöðum í landinu í þjóðaratkvæðagreiðslu um helgina.</p>
+    <p>Löggjöfin sem fyrir er takmarkar töluvert reykingar á opinberum stöðum en með undantekningum þannig að <errorort correct="veitingastaðir" errorinfo="cmp,suff,gensg-genpl">veitingarstaðir</errorort>, barir og hótel geta haft lokuð reykherbergi hjá sér.</p>
+    <p>Tillagan um algert bann var felld í öllum kantónum Sviss nema einni með um 70% meirihluta. <errorort correct="Hins vegar" errorinfo="cmp,dem+adv,1-2">Hinsvegar</errorort> var naumur meirihluti borgarbúa í Genf hlynntur algeru banni.</p>
+  </body>
+</document>

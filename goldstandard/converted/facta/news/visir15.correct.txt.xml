@@ -1,0 +1,21 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://www.visir.is/augnpot-mourinho-tekid-til-rannsoknar/article/2011110829583</errorlang> Spænska knattspyrnusambandið hefur hafið rannsókn á framgöngu <errorlang correct="eng"><error correct="Joses">Jose</error> Mourinho</errorlang> í lok síðari viðureignar <errorlang correct="spa">Barcelona</errorlang> og <errorlang correct="spa">Real Madrid</errorlang> um spænska ofurbikarinn í síðustu viku. Mourinho stakk þá fingri í auga aðstoðarþjálfara <errorlang correct="spa">Barcelona</errorlang> sem svaraði með því að slá til <error correct="Mourinhos∞spa.">Mourinho</error> Atvikið hefur vakið mikla athygli í knattspyrnuheiminum ekki síst vegna þess að talið var að ekkert yrði aðhafst í málinu. Þá hafði <errorlang correct="spa">Jose Mourinho</errorlang> <errorortreal correct="lýst" errorinfo="vow,stem,i-y">líst</errorortreal> því yfir að hann sæi ekki eftir atvikinu. Atvikið hefur nú verið skoðað og segja fulltrúar knattspyrnusambandsins að viðbrögð beggja aðila verði rannsökuð. Upphaf atviksins má rekja til þess að <errorlang correct="spa">Marcelo</errorlang>, varnarmaður <errorlang correct="spa">Real</errorlang>, bauð <errorlang correct="spa">Cesc Fabregas</errorlang> velkominn í spænska boltann með hrottalegri tæklingu á lokaandartökum leiksins. Í kjölfarið brutust út rifrildi og slagsmál milli leikmanna liðanna sem lauk með brottvísun <errorlang correct="eng"><error correct="Davids">David</error> Villa</errorlang>, leikmanns <errorlang correct="spa">Barcelona</errorlang>, og <errorlang correct="eng"><error correct="Mesuts">Mesut</error> Özil</errorlang>, leikmanns <errorlang correct="spa">Real Madrid</errorlang>. Uppþotin fóru fram við <errormorphsyn correct="hliðarlínuna" errorinfo="x">hliðarlínunni</errormorphsyn> beint fyrir framan varamannaskýli liðanna. Að því er virtist upp úr þurru gekk <errorlang correct="spa">Mourinho</errorlang> aftan að (Tito <error correct="Vilanova∞spa,">Vilanoca</error> aðstoðarþjálfara hjá <errorlang correct="spa">Barcelona</errorlang>, og <errorort correct="kleip" errorinfo="vow,stem,y-i">kleyp</errorort> hann í kinnina og stakk fingri í auga hans. <error correct="Vilanova∞spa">Vilanoca</error> stóð ekki á sama og sló til <errorlang correct="spa">Mourinho</errorlang> þegar hann gekk í burtu.</p>
+  </body>
+</document>

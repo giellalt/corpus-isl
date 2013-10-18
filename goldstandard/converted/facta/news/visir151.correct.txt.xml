@@ -1,0 +1,23 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://visir.is/baejarfulltrui-framsoknarflokksins-a-akureyri-stydur-hoskuld/article/2012120929400</errorlang> „Menn eru bara hissa. Ég held að Höskuldur njóti trausts hérna í bænum, þannig að hann á vísan stuðning margra komi til kosninga. Þessi staða er auðvitað ekki góð fyrir flokkinn, vonandi tekst að landa málinu þannig að allir verði sáttir," segir Guðmundur Baldvin Guðmundsson, bæjarfulltrúi Framsóknarflokksins á Akureyri í viðtali við Vikudag en þar kemur fram að Guðmundur styðji Höskuld Þórhallsson til þess að bjóða sig fram í fyrsta sætið í Norðausturkjördæmi en Sigmundur Davíð Gunnlaugsson, formaður Framsóknarflokksins hefur ákveðið að gefa kost á sér í sætið í stað þess að bjóða sig fram í Reykjavík Norður eins og áður.</p>
+    <p>Svo virðist sem tilkynning formannsins komi Guðmundi í opna skjöldu, en hann segir <errorort correct="enn fremur" errorinfo="cmp,adv+adv,1-2">ennfremur</errorort> í viðtali við Vikudag að það væri skynsamlegast ef Sigmundur byði sig fram í Reykjavík.</p>
+    <p>„Við þurfum að vinna vígi í höfuðborginni og Sigmundur Davíð er rétti aðilinn til að ráðast í það verkefni, enda hefur hann staðið sig vel. Í höfuðborginni eru flest atkvæðin og þess vegna er nauðsynlegt að mínu viti að formaður flokksins fari fyrir framboðslista þar," segir Guðmundur. Hægt er að lesa nánar um málið á vef Vikudags.</p>
+  </body>
+</document>

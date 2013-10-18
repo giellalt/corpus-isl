@@ -1,0 +1,28 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://www.visir.is/rannsokn-i-bokkunum-logd-til-hlidar---augljos-osannindi/article/2012120909414</errorlang> Lögreglan á höfuðborgarsvæðinu hefur lagt rannsókn á meintri árás í Bökkunum um helgina til hliðar þar sem augljóslega er um ósannindi að ræða. Í samtali við lögreglu kemur fram að maðurinn verður ekki kærður fyrir að gefa ranga skýrslu en <errorsyn correct="málið er">málið</errorsyn> þó litið alvarlegum augum.</p>
+    <p>Það var á mánudaginn sem Fréttablaðið birti viðtal við <errormorphsyn correct="Þórarin" errorinfo="x">Þórarinn</errormorphsyn> <errorort correct="Engilbertsson" errorinfo="cmp,suff,gensg-st">Engilsbertsson</errorort>, knattspyrnuþjálfara. Hann lýsti í viðtalinu að hann hefði komið að blóðugum dreng sem væri sex ára gamall á knattspyrnuvelli í Bökkunum, þar sem Þórarinn <errormorphsyn correct="hefði" errorinfo="x">hafði</errormorphsyn> verið í heimsókn hjá móður sinni. Þá fylgdi sögunni að fjórir 12-13 ára gamlir drengir hefðu gengið svo illilega í skrokk á sex ára drengnum að hann hefði kinnbeins- og handleggsbrotnað.</p>
+    <p>Daginn eftir greindu fjölmiðlar á netinu frá málinu en við nánari eftirgrennslan kom í ljós að málið hafði ekki verið kært til lögreglu. Þá sagði Þórarinn í samtali við nokkra vefmiðla að drengurinn hefði ekki slasast jafn illa og raun bar vitni, heldur hefði hann tognað alvarlega á hendi og fengið blóðnasir.</p>
+    <p>Síðar átti Þórarinn eftir að bæta við að fjölskylda drengsins væri farin af landi brott. „Ég er ekki að ýkja," sagði hann í sama viðtali við Vísi.</p>
+    <p>Lögreglan hóf rannsókn á málinu af sjálfsdáðum og tók skýrslu af Þórarni. Kom þá í ljós að hann vissi engin deili á drengnum sem hafði lent í hinni hrottafengnu árás. Eftir umfangsmikla rannsókn lögreglunnar kom í ljós að enginn kannaðist við neitt. Þrátt fyrir að lýst var eftir foreldrum barnanna sem í hlut áttu í öllum helstu fjölmiðlum gaf sig enginn fram.</p>
+    <p>Það er svo í Fréttablaðinu í dag þar sem Þórarinn viðurkennir að hafa ýkt um meiðslin, „en restina stend ég við," bætti hann við. Það er þó augljóst eftir rannsókn lögreglu og eftirgrennslan fjölmiðla að Þórarinn sagði ósatt, enda biðst Fréttablaðið afsökunar í dag á því að hafa treyst orðum ósannsöguls heimildarmanns.</p>
+    <p>Málið þykir hið undarlegasta, ekki síst vegna þess að Þórarinn tók sérstaklega fram í fyrstu fréttinni að sjálfur ynni hann með börnum sem knattspyrnuþjálfari. Þórarinn þjálfar ungmenni hjá Stjörnunni í Garðabæ en þar neitaði félagið að tjá sig um málið þegar eftir því var leitað.</p>
+    <p>Ekkert hefur náðst í <errormorphsyn correct="Þórarin" errorinfo="x">Þórarinn</errormorphsyn> síðustu tvo daga þrátt fyrir ítrekaðar tilraunir Vísis.</p>
+  </body>
+</document>

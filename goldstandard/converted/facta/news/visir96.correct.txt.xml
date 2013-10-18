@@ -1,0 +1,22 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://visir.is/breytingar-a-althingi---asbjorn-og-thuridur-haetta-/article/2012120919810</errorlang> Þuríður Backman, þingmaður VG í <errorortreal correct="Norðausturkjördæmi" errorinfo="cap,stem,n-N">norðausturkjördæmi</errorortreal>, ætlar að láta af þingmennsku í lok kjörtímabilsins. Hún hefur verið þingmaður VG frá því árið 1999. Hún segir það ekki liggja fyrir hvað hún muni starfa eftir að þingmennsku lýkur, en hún er menntuð hjúkrunarfræðingur og starfaði við það áður en hún var kjörin á þing. Þá upplýsti vefurinn Skessuhorn í gær að Ásbjörn Óttarsson, þingmaður Sjálfstæðisflokksins, <errorort correct="hygðist" errorinfo="infl">hyggðist</errorort> ekki gefa kost á sér áfram til þingsetu.</p>
+    <p>Það virðist því vera útlit fyrir að einhverjar breytingar verði á þingliðinu eftir næstu kosningar. Fjölmargir hafa augastað á lausum þingsætum. Samkvæmt heimildum fréttastofu er til dæmis nær öruggt að Elín Hirst, fyrrverandi fréttastjóri, muni gefa kost á sér til þingsetu. Sennilegast í <errorortreal correct="Suðvesturkjördæmi" errorinfo="cap,stem,s-S">suðvesturkjördæmi</errorortreal>. Þá hefur fréttastofa einnig heimildir fyrir því að Hanna Birna Kristjánsdóttir, oddviti sjálfstæðismanna í borgarstjórn, liggi undir feldi. Ekki er vitað hvenær hún muni tilkynna um ákvörðun sína.</p>
+  </body>
+</document>

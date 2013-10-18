@@ -1,0 +1,23 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://www.visir.is/rihanna-a-strippklubb/article/2012120929660</errorlang> <errorlex correct="foreign,eng">Barbados-bjútíið</errorlex> <errorlang correct="eng">Rihanna</errorlang> ákvað að skella sér á <errorlex correct="nektardansstaður" errorinfo="foreign,eng">strippklúbb</errorlex> í vikunni og deildi auðvitað reynslu sinni á <errorlang correct="eng">Twitter</errorlang>.</p>
+    <p>Sumum finnst <errorlang correct="eng">Rihanna</errorlang> hafa farið aðeins yfir strikið þar sem hún setti inn mynd af <errorort correct="hálfnakinni" errorinfo="infl">hálfnaktri</errorort> <errorortreal correct="nektardansmey" errorinfo="infl">nektardansmær</errorortreal>.</p>
+    <p>Þetta er ekki í fyrsta sinn sem <errorlang correct="eng">Rihanna</errorlang> heimsækir nektardansstað en hún fór á einn slíkan í maí á þessu ári.</p>
+  </body>
+</document>

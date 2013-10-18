@@ -1,0 +1,21 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://www.visir.is/havadi-i-heimahusum-og-pustrar-i-midbaenum/article/2012120928784</errorlang> Talsverður erill var hjá lögreglunni á höfuðborgarsvæðinu í nótt vegna <errorort correct="útkalla" errorinfo="typo,stem,3-2">útkallla</errorort> sem öll tengjast ölvun, aðallega vegna hávaða í heimahúsum og pústra á milli manna í <errorsyn correct="miðbænum.">miðbænum</errorsyn> Fjórir ökumenn voru stöðvaðir grunaðir um ölvun við akstur og tveir ökumenn vegna fíkniefnaaksturs.</p>
+  </body>
+</document>

@@ -1,0 +1,24 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://www.visir.is/bidjast-afsokunar-a-ad-hafa-synt-sjalfsmord-i-beinni/article/2012120928781</errorlang> Bandaríska fréttastöðin <errorlang correct="eng">Fox</errorlang> hefur beðist afsökunar á því að hafa sýnt sjálfsmorð í beinni útsendingu í gærkvöldi.</p>
+    <p>Sýndar voru myndir sem teknar voru úr þyrlu af eftirför lögreglu sem reyndi að stöðva ökumann vegna <errorortreal correct="hraðaksturs" errorinfo="typo,suff,2-1">hraðaaksturs</errorortreal>. Maðurinn ók að lokum út í eyðimörk, hljóp út úr bíl <errormorphsyn correct="sínum,">sínu</errormorphsyn> tók upp byssu og skaut sig í höfuðið.</p>
+    <p><errorort correct="Ökumaðurinn" errorinfo="typo,stem,1-0">Ökurmaðurinn</errorort> er grunaður um að hafa stolið bílnum.</p>
+    <p>Yfirmenn stöðvarinnar segja að stöðva hefði átt <errorort correct="útsendinguna" errorinfo="typo,stem,0-1">útendinguna</errorort> fyrr og hafa beðist afsökunar á henni.</p>
+  </body>
+</document>

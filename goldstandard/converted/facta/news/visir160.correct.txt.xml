@@ -1,0 +1,24 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://visir.is/fataekum-fer-fjolgandi-i-danmorku/article/2012120929527</errorlang> Fátækum fjölgaði í Danmörku á árunum 2002 og fram til 2010. Hlutfallslega fjölgaði þeim mest á Sjálandi og í höfuðborginni Kaupmannahöfn.</p>
+    <p>Þetta kemur fram í nýrri rannsókn á vegum dönsku verkalýðshreyfingarinnar sem kynnt verður í dag. Notaðar eru tölur OECD um <errorortreal correct="fátæktarmörk">fátækramörk</errorortreal> en þau nema tæpum 8.800 dönskum króna eða um 190 þúsund krónum fyrir einstakling og rúmlega 5.000 dönskum krónum fyrir hvern einstakling í fjögurra manna fjölskyldu. Alls lifa um 250.000 Danir undir þessum mörkum.</p>
+    <p>Mest hefur fátækum fjölgað, eða yfir 3% í nokkrum úthverfum Kaupmannahafnar eins og <errorlang correct="dan">Bröndby</errorlang>, <errorlang correct="dan">Albertslund</errorlang> og <errorlang correct="dan">Ishöj</errorlang>. Í miðborg Kaupmannahafnar er fjölgunin <errorort correct="hins vegar" errorinfo="cmp,dem+adv,1-2">hinsvegar</errorort> tæp 3%.</p>
+    <p>Í öðrum landshlutum er staðan betri. Í Óðinsvéum á Fjóni nemur fjölgunin þannig innan við 2% og á Langalandi er hún innan við 1% svo dæmi séu tekin.</p>
+  </body>
+</document>

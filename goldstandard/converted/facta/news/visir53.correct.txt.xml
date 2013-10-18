@@ -1,0 +1,23 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://visir.is/smygludu-fikniefnum-i-gegnum-bretland---loks-gripnir-a-islandi/article/2012120909453</errorlang> Mál þriggja karlmanna sem ákærðir eru fyrir fíkniefnasmygl var þingfest í Héraðsdómi Reykjaness í gær. Einn mannanna er ákærður fyrir að skipuleggja smyglið en hinir tveir fyrir að smygla fíkniefnunum frá <errorlang correct="por">Porto</errorlang> í Portúgal til Lundúna og þaðan til Keflavíkurflugvallar þar sem þeir voru loksins stöðvaðir.</p>
+    <p>Mennirnir földu efnið, sem var kókaín, í <errorlang correct="eng">Nivea</errorlang> brúsa, en alls fundust um 190 grömm af efninu í brúsanum. Úr því má vinna 280 grömm af kókaíni.</p>
+    <p>Mennirnir tóku ekki afstöðu til sakarefnanna í þingfestingu <errorort correct="málsins" errorinfo="typo,suff,0-1">málsin</errorort> í gær og var því frestað fram á mánudag.</p>
+  </body>
+</document>

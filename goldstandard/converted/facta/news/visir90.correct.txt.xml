@@ -1,0 +1,24 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://www.visir.is/lampard--stoltur-af-thvi-ad-spila-fyrir-england/article/2012120919979</errorlang> <errorlang correct="eng">Frank Lampard</errorlang>, leikmaður <errorlang correct="eng">Chelsea</errorlang>, segist aldrei hafa íhugað að leggja landsliðsskóna á hilluna í sumar og er ánægður að hafa ákveðið að halda áfram með landsliðinu.</p>
+    <p><errorlang correct="eng">Lampard</errorlang> skoraði tvö mörk í fyrsta leik Englendinga í undankeppni HM gegn Moldavíu. England vann leikinn 5-0. <errorlang correct="eng">Lampard</errorlang> er því búinn að skora 25 mörk í 92 landsleikjum.</p>
+    <p>"Ég er stoltur af landsliðsferli mínum. Enginn landsliðsferill er fullkominn ef menn fara nálægt 100 leikjum," sagði hinn 34 ára gamli <errorlang correct="eng">Lampard</errorlang> sem hefur ekki alltaf verið í uppáhaldi hjá stuðningsmönnum enska liðsins.</p>
+    <p>"Eina sem hefur valdið <errorort correct="vonbrigðum" errorinfo="typo,stem,p-o">vpnbrigðum</errorort> er að við höfum ekki unnið neitt. Ég er líka feginn að hafa ekki hætt þó <errorsyn correct="svo að">svo</errorsyn> ég hafi fengið að heyra það. Ég er alltaf stoltur af því að spila fyrir þjóð mína.</p>
+  </body>
+</document>

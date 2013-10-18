@@ -1,0 +1,27 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://www.visir.is/samdi-besta-lagid-vid-texta-um-ojofnud/article/2012120929626</errorlang> Lokatónninn í átakinu Komum heiminum í lag verður <errormorphsyn correct="sleginn">slegin</errormorphsyn> í kvöld. Fjöldi landsþekktra <errorortreal correct="tónlistarmanna" errorinfo="cmp,genpl-gensg,1-2">tónlistamanna</errorortreal> kemur þar fram og syngur eigið lag við texta um ójöfnuð heimsins. Almenningur fékk einnig að spreyta sig við lagasmíð og hitti Karen <errorort correct="Kjartansdóttir" errorinfo="meta,stem,na-an">Kjartnasdóttir</errorort> 15 ára stúlku úr Vestmannaeyjum sem þótti hafa samið besta lagið við textann.</p>
+    <p>Í kvöld lýkur vikulöngu átaki frjálsra félagasamtaka sem starfa að alþjóðlegri þróunarsamvinnu með <errorort correct="tónleikum" errorinfo="typo,stem,0-1">tóleikum</errorort> á Rósenberg. Þetta er í annað sinn sem þessi hópur stendur að slíku átaki en áherslan í ár er á ójöfnuð í heiminum.</p>
+    <p>Þjóðþekktir tónlistarmenn voru fengnir til að semja lag við texta <errormorphsyn correct="Sævars">Sævar</errormorphsyn> Sigurgeirssonar, Komum heiminum í lag, til að vekja athygli á mikilvægi og gildi þróunarsamvinnu.</p>
+    <p>Almenningi var líka gefinn kostur á að spreyta sig á texta Sævars og nú hefur eitt þeirra laga verið valið til að hefja tónleikana í kvöld. Lagið er eftir 15 ára stúlku frá Vestmannaeyjum.</p>
+    <p xml:lang="nob">Hvað hugsaðirðu þegar þú samdir lagið? spyr fréttakona.</p>
+    <p xml:lang="nno">„Þetta kom bara til mín," segir Viktoría Þorsteinsdóttir. „Eins og ég hef samið mörg lög. Það gerist bara þegar ég er ein inni í herbergi."</p>
+    <p>Til að heyra lag Viktoríu má smella á hlekkinn hér að ofan.</p>
+  </body>
+</document>

@@ -1,0 +1,24 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p xml:lang="nno"><errorlang correct="url">http://visir.is/arsenal-ad-fa-tvo-sterka-landslidsmenn/article/2012120809804</errorlang> Forráðamenn <errorlang correct="eng">Arsenal</errorlang> að ganga frá kaupum á <errorlang correct="spa">Santi Cazorla</errorlang> frá <errorlang correct="spa">Malaga</errorlang> og lánssamningi við <errorlang correct="spa">Nuri Sahin</errorlang> frá <errorlang correct="spa">Real Madrid</errorlang>. Ljóst er að þessir tveir sterku leikmenn væru mikill liðstyrkur fyrir lið <errorlang correct="eng">Arsene Wenger</errorlang>.</p>
+    <p><errorlang correct="spa">Cazorla</errorlang> er 27 ára vængmaður og meðlimur í Evrópumeistaraliði Spánverja en <errorlang correct="spa">Sahin</errorlang> er 23 ára miðjumaður sem spilaði lítið á sínu fyrsta ári með <errorlang correct="spa">Real Madrid</errorlang>. <errorlang correct="spa">Sahin</errorlang> sem er tyrkneskur landsliðsmaður var <errorort correct="hins vegar" errorinfo="cmp,dem+adv,1-2">hinsvegar</errorort> allt í öllu hjá þýska liðinu <errorlang correct="tys">Dortmund</errorlang> tímabilin á undan en gerði sex ára samning við <errorlang correct="spa">Real</errorlang> fyrir aðeins einu ári síðan.</p>
+    <p>BBC hefur eftir heimildarmönnum sínum hjá <errorlang correct="eng">Arsenal</errorlang> að vonir standi til þess að ganga frá þessum samningum áður en tímabilið hefst en Wenger hefur þegar styrkt liðið með mönnum eins og <errorlang correct="pol">Lukas Podolski</errorlang> frá Köln og <errorlang correct="fra">Olivier Giroud</errorlang> frá <errorlang correct="fra">Montpellier</errorlang>.</p>
+    <p>Stóra <errormorphsyn correct="spurningin" errorinfo="x">spurning</errormorphsyn> er eftir sem áður um framtíðarplön fyrirliðans <errorlang correct="dut">Robin van Persie</errorlang> sem hefur gefið það út að hann ætli ekki að skrifa undir nýjan samning en núverandi samningur Hollendingsins rennur út næsta sumar.</p>
+  </body>
+</document>

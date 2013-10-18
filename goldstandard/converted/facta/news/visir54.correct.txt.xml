@@ -1,0 +1,23 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://visir.is/rihanna-og-stella-mccartney-mogulega-i-samstarf/article/2012120909533</errorlang> Það ríkir mikil spenna í tískuheiminum þessa dagana en sá háværi orðrómur er uppi um að þær <errorlang correct="eng">Rihanna</errorlang> og <errorlang correct="eng">Stella McCartney</errorlang> séu að hanna fatalínu saman.</p>
+    <p>Báðar eru þær gríðarlega þekktar á sínu sviði og er óhætt að segja að söngkonan sé mikið tískuíkon rétt eins og <error correct="McCartney∞eng">McCarney</error> sem hefur slegið í gegn sem hönnuður.</p>
+    <p xml:lang="nno"><errorort correct="Hins vegar" errorinfo="cmp,dem+adv,1-2">Hinsvegar</errorort> hafa þær mjög ólíkan stíl og því áhugavert að sjá hver útkoman úr samvinnu þeirra verður, ef rétt reynist.</p>
+  </body>
+</document>

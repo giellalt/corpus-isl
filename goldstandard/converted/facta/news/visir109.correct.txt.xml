@@ -1,0 +1,22 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://visir.is/eins-og-graen-gydja/article/2012120919093</errorlang> <errorlang correct="eng">Glee</errorlang> stjarnan, <errorlang correct="eng">Lea Michele</errorlang> var vægast sagt stórglæsileg í skósíðum grænum silkikjól sem líktist listaverki á rauða dreglinum á laugardaginn.</p>
+    <p xml:lang="eng">Tilefnið var partý sem haldið var af <errorort correct="tímaritinu" errorinfo="typo,stem,u-i">tímaritunu</errorort> NYLON en <errorlang correct="eng">Lea</errorlang> prýðir <errorsyn correct="septemberforsíðu" errorinfo="x">september forsíðu</errorsyn> blaðsins.</p>
+  </body>
+</document>

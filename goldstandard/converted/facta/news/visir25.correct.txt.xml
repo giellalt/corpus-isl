@@ -1,0 +1,25 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://visir.is/joni-pali-sagt-upp-storfum-hja-fylki/article/2012120809788</errorlang> Jóni Páli Pálmasyni, þjálfara meistaraflokks kvenna hjá Fylki, hefur verið sagt upp störfum. Þetta kemur fram á heimasíðu félagsins. Ásgrímur Helgi Einarsson og Kjartan Stefánsson stýra liði Fylkis út tímabilið.</p>
+    <p>Fylkir situr í 7. sæti Pepsi-deildar kvenna með ellefu stig, jafnmörg og Afturelding og Selfoss sem hafa lakari markatölu. Árbæjarstelpur hafa tapað síðustu fjórum deildarleikjum sínum auk þess <errorlex correct="sem" errorinfo="x">að</errorlex> liðið féll út í átta liða úrslitum Borgunarbikars kvenna.</p>
+    <p>Á heimasíðu Fylkis er Jóni Páli þakkað fyrir hans störf og honum óskað velfarnaðar.</p>
+    <p>Jón Páll tók við liði Fylkis haustið 2010. Liðið hafnaði í 5. sæti <errorort correct="deildarinnar" errorinfo="typo,suff,3-2">deildarinnnar</errorort> og komst í undanúrslit bikarkeppninnar.</p>
+    <p xml:lang="smj"></p>
+  </body>
+</document>

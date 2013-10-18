@@ -1,0 +1,21 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://www.visir.is/miklar-lagabreytingar-a-stuttum-tima/article/2011110619719</errorlang> Ísland er orðið hluti af mengunarkvótakerfi Evrópusambandsins, hægt er að beita austurrísku leiðinni á ofbeldismenn og þingsköp Alþingis eru gjörbreytt en 25 frumvörp hafa orðið að lögum á Íslandi síðan á fimmtudaginn.  Rétt eins og vaninn er breytist óvenju margt í íslenskum lögum áður en þingfundum er frestað að sumri: Með samþykkt laga um losun gróðurhúsalofftegunda á föstudag verður Ísland orðið þátttakandi í sameiginlegu viðskiptakerfi Evrópusambandsins um mengunarkvóta frá og með næsta ári. Lagaumgjörðinni gagnvart kynbundnu ofbeldi var breytt, en til dæmis var austurríska leiðin leidd í lög. Hún felur í sér að hægt sé að fjarlægja geranda í heimilisofbeldismálum af heimili, og því þurfi fórnarlambið ekki <errorsyn correct=" " errorinfo="x">að</errorsyn> lengur að yfirgefa heimili sitt. Þá var hámarksrefsing við mansali aukin úr átta ára fangelsi í tólf. Ný lög voru sett um verslun með áfengi og tóbak, frumvarp um ráðstafanir í ríkisfjármálum, sem oft er nefnt "bandormur <errorortreal correct="fjármálaráðherra" errorinfo="cap,stem,F-f">Fjármálaráðherra</errorortreal>", fór að stórum hluta í gegn, auk þess sem ný þingsköp voru samþykkt í gær sem er ætlað að styrkja eftirlitshlutverk Alþingis með framkvæmdavaldinu og auka vægi stjórnarandstöðunnar. Þá voru <errorort correct="einnig" errorinfo="typo,stem,0-1">ennig</errorort> samþykkt lög sem ætlað er að tryggja fötluðu fólki viðeigandi stuðning við gæslu réttinda sinna. Stjórnarþingmenn segja að stefnt sé að því að klára mörg af stóru stjórnarfrumvörpunum á yfirstandandi þingi í september, þar á meðal lögfestingu gjaldeyrishaftanna og breytingar á Stjórnarráðinu. Stærra kvótafrumvarp <errorortreal correct="sjávarútvegsráðherra" errorinfo="cap,stem,S-s">Sjávarútvegsráðherra</errorortreal> og kvótafrumvarp <errorortreal correct="Hreyfingarinnar" errorinfo="cap,stem,h-H">hreyfingarinnar</errorortreal> verða hins vegar lögð fram á nýju þingi í október, en það sama gildir um hluta bandormsins sem ekki fór í gegn að þessu sinni, þar á meðal frumvarp um skattlagningu lífeyrissjóðanna.</p>
+  </body>
+</document>

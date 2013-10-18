@@ -1,0 +1,24 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://www.visir.is/danir-satu-hja-i-refsiadgerdum-vegna-makrildeilunnar/article/2012120929317</errorlang> Danir ákváðu að sitja hjá og greiða ekki atkvæði þegar kosið var um refsiaðgerðir gegn Íslendingum og Færeyingum innan Evrópusambandsins vegna makríldeilunnar.</p>
+    <p>Fjallað er um málið á vefsíðu <errorlang correct="dan">börsen</errorlang>. Þar kemur fram í máli <errorlang correct="dan">Mette Gjordskov</errorlang> matvælaráðherra Danmerkur að hjásetan hafi verið ákveðin með hliðsjón af aðild Færeyinga að deilunni en Færeyingar gætu orðið þeir fyrstu sem refsiaðgerðirnar bitna á.</p>
+    <p><errorlang correct="dan">Gjordskov</errorlang> segir að það sé gríðarlega mikilvægt að ná samkomulagi í <errorort correct="makríldeilunni" errorinfo="typo,stem,1-0">makríldeildunni</errorort> og koma þannig í veg fyrir að makrílstofninn sé ofveiddur. Hún segir jafnframt að mikilvægt sé að refsiaðgerðirnar sem ætlunin er að koma á brjóti ekki gegn alþjóðasamningum WTO þ.e. Alþjóðaviðskiptastofnunarinnar.</p>
+    <p>Samningaumleitanir milli Íslands og Færeyja <errorort correct="annars vegar" errorinfo="cmp,dem+adv,1-2">annarsvegar</errorort> og ESB <errorort correct="hins vegar" errorinfo="cmp,dem+adv,1-2">hinsvegar</errorort> halda áfram og <errorlang correct="dan">Gjordskov</errorlang> telur að fyrirhuguðum refsiaðgerðum verði ekki beitt fyrr en í fyrsta lagi eftir að makrílkvótinn fyrir árið 2013 verður ákveðinn.</p>
+  </body>
+</document>

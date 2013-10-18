@@ -1,0 +1,25 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://visir.is/vatnsdalsa--mok-silungsveidi-eftir-frostanott/article/2012120909468</errorlang> Eins og víðast hvar hefur Vatnsdalsá gefið lítið af laxi. Þar á bæ hefur sumarið einkennst af öfgum og á <errorlang correct="url">vatnsdalsa.is</errorlang> segir frá því að met hafa þó fallið. Hitt ber að skoða að metaregnið kemur veiðinni lítið við en <errorsyn correct="forvitnilegt er">forvitnilegt</errorsyn> að skoða aðeins framgang mála um <errorortreal correct="mánaðamótin" errorinfo="cmp,suff,gensg-genpl">mánaðarmótin</errorortreal>.</p>
+    <p>Nýja metið er nefnilega lægsta hitastig sem menn muna eftir í dalnum en frost á Brúsastöðum í Vatnsdal fór niður í 5,3 stig aðfaranótt <errorort correct="sunnudagsins" errorinfo="typo,suff,0-1">sunnudagins</errorort> 26. ágúst og er það mesta frost sem mælst hefur á landinu í ágúst síðan 1982. Hitinn í Vatnsdalnum þennan sunnudag var kominn í tíu gráður á hádegi og sveiflan því mikil.</p>
+    <p>Ekki þarf að fjölyrða um þá trú veiðimanna að sviptingar í veðri geti verið ávísun á meira líf í ánum. Það átti allavega við þennan dag því fleiri laxar gáfu sig eftir kuldakastið en dagana á undan. Þetta átti líka við um silunginn því veiðimenn fengu sjóbleikjur og birtinga í tugavís þennan dag. Segir á heimasíðunni að silungurinn hafi verið vænn; „<errorort correct="Vigtaðar" errorinfo="con,stem,k-g">Viktaðar</errorort> voru 7 eða 8 bleikjur saman og reyndust þær 20 kíló eftir að þær <errorort correct="höfðu" errorinfo="typo,stem,0-1">höðu</errorort> verið slægðar og segir það nokkuð vel til um stærðina."</p>
+    <p>Færslunni lýkur svo með þessum orðum: „Nú þegar tæpur mánuður er eftir <errorlex correct="af" errorinfo="x">að</errorlex> veiðinni og við ekki orðið <errormorphsyn correct="varir" errorinfo="x">var</errormorphsyn> við rigningu sem neinu máli skiptir, þá erum við búnir að jafna eitt lakasta ár sem hefur verið á laxasvæði Vatnsdalsár og eigum <errorort correct="enn þá" errorinfo="cmp,adv+adv,1-2">ennþá</errorort> þessa tæplega 30 daga eftir. Við erum að sjálfsögðu pínu súrir yfir þessum stælum í náttúrunni en virðum hana engu að síður. Við vitum sem er að þessar sveiflur hafa alltaf verið fyrir hendi, hver sem ástæðan er. Eitt er þó alveg víst að náttúran lagar þetta aftur, og við sem stundum laxveiðina í bland við silunginn verðum fljótir að gleyma vandræðunum þegar komið verður vel inn í næsta ár."</p>
+    <p>Vatnsdalsá hafði gefið 264 laxa þegar þetta var skrifað en áin endaði í 743 löxum sumarið 2011. Ekki þarf að leita lengra en til ársins 2000 til að sjá afar slaka laxveiði í Vatnsdalsá; 323 laxar voru skráðir til bókar það árið. Þeir voru svo þrefalt fleiri þremur árum seinna og 1.520 árið 2009. Þessar sveiflur eru því auðvitað ekkert nýtt í Vatnsdalnum. Þá má auðvitað hnykkja á því að Vatnsdalsá gefur meira af silungi en nokkuð annað vatnsfall á Íslandi ár hvert.</p>
+  </body>
+</document>

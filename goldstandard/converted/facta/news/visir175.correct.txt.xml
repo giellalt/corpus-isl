@@ -1,0 +1,22 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://www.visir.is/embaettismenn-i-stjorn-natturustofu-vestfjarda/article/2012309309995</errorlang> „Þetta tengist þeirri staðreynd að stjórninni hefur ekki tekist að ganga frá ársuppgjöri,“ segir Daníel Jakobsson bæjarstjóri Ísafjarðarbæjar, um ákvörðun sveitarstjóra þeirra sex sveitarfélaga sem eiga aðild að Náttúrustofu Vestfjarða að skipta út stjórn félagsins, en Náttúrustofa Vestfjarða hefur ekki skilað inn ársreikningum síðan árið 2009. Ný stjórn félagsins verður skipuð af Elíasi <errormorphsyn correct="Jónatanssyni">Jónatansson</errormorphsyn> bæjarstjóra í Bolungarvík og Þóri Sveinssyni skrifstofustjóra Vesturbyggðar, auk Daníels. Í varastjórn verða Ásthildur Sturludóttir bæjarstjóri Vesturbyggðar, Andrea Kristín Jónsdóttir sveitarstjóri Strandabyggðar og Ómar Már Jónsson sveitarstjóri Súðavíkur.</p>
+    <p>Að sögn Daníels þótti sveitarstjórnarmönnum eðlilegt að grípa inn í störf stjórnarinnar á þessum tímapunkti. „Það þótti við hæfi að embættismenn kæmu inn núna og myndu endurskoða fjárhagslega hlið rekstursins. Þetta er aðallega gert af fjárhagslegum ástæðum,“ segir Daníel, en stjórnin verður endanlega skipuð í vikunni. Í fráfarandi stjórn sátu <errorort correct="Þorleifur" errorinfo="typo,stem,0-1">Þorlefur</errorort> Ágústsson, Jóhann Hannibalsson og Sólrún Geirsdóttir. Varamenn voru Hildur Halldórsdóttir, Sólrún Geirsdóttir og Rúnar Hauksson.</p>
+  </body>
+</document>

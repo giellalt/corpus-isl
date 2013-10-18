@@ -1,0 +1,24 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://www.visir.is/buin-ad-missa-oll-olettukiloin/article/2012120929627</errorlang> <errorlang correct="eng">Hills-skvísan</errorlang> <errorlang correct="eng">Kristin Cavallari</errorlang> var ekki lengi að skafa af sér meðgöngukílóin ef marka má vinkonu hennar.</p>
+    <p>"Hún er búin að losa sig við öll <errorort correct="kílóin" errorinfo="vow,stem,a-á">kilóin</errorort> og æfir eins og brjálæðingur með þjálfara," segir vinkonan sem vill ekki láta nafns síns getið.</p>
+    <p><errorlang correct="eng">Kristin</errorlang> og unnusti hennar, <errorlang correct="eng">Jay Cutler</errorlang>, eignuðust sitt fyrsta barn, soninn <errorlang correct="eng">Camden</errorlang>, fyrir aðeins fimm vikum.</p>
+    <p>"Geng með halla á hlaupabrettinu til að þjálfa rassinn. Bæ, bæ meðgöngukíló," skrifaði <errorlang correct="eng">Kristin</errorlang> á <errorlang correct="eng">Twitter-síðu</errorlang> sína í síðustu viku.</p>
+  </body>
+</document>

@@ -1,0 +1,25 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://www.visir.is/syntu-bodsund-yfir-ermarsundid/article/2012120929675</errorlang> Boðsundssveit frá Sundfélagi Hafnarfjarðar synti í gær yfir Ermarsundið. Sundið tók tæplega 13 klukkustundir.</p>
+    <p>Sundgarparnir höfðu stefnt að því að synda ekki fyrr en í dag en þegar veðurspáin benti til þess að veðrið yrði slæmt frá og með deginum í dag og út vikuna var ákveðið að fara degi fyrr. Lagt var af stað klukkan rúmlega þrjú um nótt og synt í svarta myrkri fyrstu þrjá tímana. Sundsveitin mátti <errorort correct="kljást" errorinfo="typo,stem,0-1">klást</errorort> við talsvert öldurót lengst af leiðinni.</p>
+    <p xml:lang="nno">Það var svo 12 klukkustundum, 44 mínútum og um það bil 50 kílómetrum síðar sem boðsundsveitin náði Frakklandsströnd í logni og fallegu veðri.</p>
+    <p>Sundið gekk í alla staði vel en til að fá boðsund yfir Ermarsundið viðurkennt þarf að <errorort correct="hlíta" errorinfo="vow,stem,y-i">hlýta</errorort> ströngum reglum varðandi skiptingar, tímasetningar, röð sundmanna og landtöku. Einungis má synda í hefðbundnum óeinangrandi sundfötum.</p>
+    <p xml:lang="dan">Sundgarparnir voru þau <errorort correct="Hálfdán" errorinfo="typo,stem,0-1">Háldán</errorort> Freyr Örnólfsson‚ Árni Þór Árnason, Birna Jóhanna Ólafsdóttir, Kristinn Magnússon, Björn Ásgeir Guðmundsson og Ásgeir <errorort correct="Elíasson" errorinfo="typo,stem,1-0">Elísasson</errorort>.</p>
+  </body>
+</document>

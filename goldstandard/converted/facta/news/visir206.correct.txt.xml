@@ -1,0 +1,23 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://visir.is/nadi-myndum-af-fornum-arfarvegum-a-mars/article/2012120928923</errorlang> Geimjeppinn <errorlang correct="eng">Curiosity</errorlang> hefur náð myndum af uppþornuðum árfarvegum á Mars sem sýna að í fortíðinni var rennandi vatn til staðar á plánetunni.</p>
+    <p>Á myndunum sést grjót sem hefur slípast til í rennandi vatni. Það er <errorort correct="hins vegar" errorinfo="cmp,dem+adv,1-2">hinsvegar</errorort> talið að þetta vatn hafi runnið á Mars fyrir mjög löngu síðan eða milljörðum ára.</p>
+    <p><errorort correct="Hins vegar" errorinfo="cmp,dem+adv,1-2">Hinsvegar</errorort> styðja þessara myndir þá kenningu að vatn hafi verið til staðar á Mars í fortíðinni og raunar er talið að enn sé þar vatn að finna í formi íss sem liggur undir yfirborði plánetunnar.</p>
+  </body>
+</document>

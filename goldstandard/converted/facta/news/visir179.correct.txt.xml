@@ -1,0 +1,21 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p xml:lang="nno"><errorlang correct="url">http://www.visir.is/fjolskyldan-a-leid-til-bordeaux/article/2012120928751</errorlang> Fjölskylda Megan Stammers, fimmtán ára breskrar stúlku sem stakk af með <errorort correct="stærðfræðikennaranum" errorinfo="con,stem,com">stærfræðikennaranum</errorort> sínum, er nú á leið til Frakklands til að hitta hana. Foreldrar stúlkunnar hafa þegar náð að heyra í henni í síma og vonast þau til að geta farið aftur heim með hana til Sussex á <errorort correct="Englandi" errorinfo="cap,stem,e-E">englandi</errorort> um helgina. Stúlkan fannst ásamt þrítugum <errorort correct="stærðfræðikennara" errorinfo="con,stem,com">stærfræðikennara</errorort> sínum í Bordeaux í Frakklandi eftir umfangsmikla leit í um viku.</p>
+  </body>
+</document>

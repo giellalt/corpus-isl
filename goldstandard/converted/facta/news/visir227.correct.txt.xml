@@ -1,0 +1,26 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p>http://visir.is/daudvona-sjuklingur-segist-vita-hvar-jimmy-hoffa-er-grafinn/article/2012120929045 Dauðvona krabbameinssjúklingur er sagður hafa komið <errorort correct="bandarísku" errorinfo="vow,stem,a-á">bandarisku</errorort> lögreglunni á sporið um hvar lík verkalýðsforingjans <errorlang correct="eng">Jimmy Hoffa</errorlang> er að finna.</p>
+    <p>Hvarf <errorlang correct="eng">Jimmy Hoffa</errorlang> fyrir 37 árum er eitt dularfyllsta mál sem komið hefur upp í sögu Bandaríkjanna á síðari tímum. Það er talið víst að mafían hafi myrt hann en slíkt hefur aldrei verið hægt að sanna þar sem lík <errorlang correct="eng">Hoffa</errorlang> hefur enn ekki fundist.</p>
+    <p><errorlang correct="eng">Hoffa</errorlang> var lengi leiðtogi <errorlang correct="eng">Teamsters</errorlang> verkalýðsfélagsins sem á þeim tíma var stærsta verkalýðsfélag Bandaríkjanna með digra lífeyrissjóði. Síðar kom fram að mafían hafði greiðan aðgang að lánum úr þessum sjóðum, lánum sem aldrei voru endurgreidd.</p>
+    <p>Síðast sást til <errorlang correct="eng">Hoffa</errorlang> á veitingahúsi í <errorlang correct="eng">Bloomfield Township</errorlang> í <errorlang correct="eng">Michigan</errorlang> í lok júlí árið 1975. Síðan þá hafa margar vísbendingar borist um hvar hann er grafinn en þær hafa ekki leitt til neins.</p>
+    <p>Lögreglan telur <errorort correct="hins vegar" errorinfo="cmp,dem+adv,1-2">hinsvegar</errorort> að vísbendingin sem hinn dauðvona krabbameinssjúklingur hefur gefið henni sé trúverðug en sjúklingurinn sem aðeins á fáa daga eftir ólifaða segist hafa engu að tapa með að upplýsa það sem hann varð vitni að kvöldið sem <errorlang correct="eng">Hoffa</errorlang> hvarf.</p>
+    <p>Hann segir að hann hafi séð nokkra menn grafa lík niður í innkeyrslu við hús í úthverfi borgarinnar <errorlang correct="eng">Roseville</errorlang> í <errorlang correct="eng">Michigan</errorlang> og er viss um að það hafi verið <errorlang correct="eng">Hoffa</errorlang>. Verið er að undirbúa uppgröft í innkeyrslunni og verður byrjað á því verki á morgun.</p>
+  </body>
+</document>

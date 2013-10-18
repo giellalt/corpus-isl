@@ -1,0 +1,30 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://visir.is/margir-fa-kransaedastiflu-an-thess-ad-hafa-hugmynd-um-thad/article/2012120909266</errorlang> Svokölluð þögul hjartaáföll eru stærra vandamál en áður hefur verið talið. Þetta leiðir ný rannsókn, sem unnin var hér á landi, í ljós.</p>
+    <p>Flestir kunna að telja að <errormorphsyn correct="kransæðastífla" errorinfo="x">kransæðastíflu</errormorphsyn> fari ekki <errorort correct="fram hjá" errorinfo="cmp,adv+pp,1-2">framhjá</errorort> þeim sem í slíku lenda en þöglar kransæðastíflur eru þó tvöfalt algengari á meðal eldra fólks og hafa alvarlegar afleiðingar. Þetta kemur fram í rannsókn sem fjallað er um í nýjasta hefti <errorlang correct="eng">The journal of <error correct="american">amerivam</error> medical association</errorlang>. Rannsóknin var unnin hér á landi en tæplega þúsund Íslendingar tóku þátt í henni. Hjartavernd kom að rannsókninni en þar er Vilmundur Guðnason forstöðulæknir.</p>
+    <p>„Hún leiðir í ljós að fyrir hvern einstakling sem hefur fengið kransæðastíflu og veit af því eru tveir sem hafa ekki hugmynd um að þeir hafa fengið kransæðastíflu," segir Vilmundur.</p>
+    <p>Vilmundur segir ljóst að þögul hjartaáföll af þessu tagi séu alveg jafnhættuleg og áföll þar sem sjúklingurinn hefur verið lagður inn á sjúkrahús.</p>
+    <p>„Það sem er kannski mest um vert er að um þrjátíu prósent af þessum einstaklingum hafa látist á þessum sex árum miðað við ef maður ber saman við þá sem hafa ekki fengið <errorortreal correct="kransæðastíflu" errorinfo="cmp,suff,gensg-genpl">kransæðarstíflu</errorortreal>, það eru innan við tuttugu prósent," segir Vilmundur.</p>
+    <p>Þeim sem glíma við sykursýki er sérstaklega hætt við að fá þögul áföll af þessu tagi en Vilmundur segir ekki fyllilega ljóst hvernig stendur á því.</p>
+    <p>„Oft þegar maður ræðir við fólk þá man það eftir að hafa fengið sérstaklega slæma flensu eða eitthvað svoleiðis og það áttar sig bara ekki á einkennunum," segir Vilmundur.</p>
+    <p>Hann brýnir því fyrir fólki að hika aldrei við að leita til læknis.</p>
+    <p>„Ef <errorsyn correct="0">að</errorsyn> fólk er með einhver einkenni, <errorort correct="þyngsl" errorinfo="meta,stem,ls-sl">þyngls</errorort> fyrir brjósti sérstaklega áreynslubundið, verk út í handleggi, þá á það ekkert að hika við að leita til læknis. Við viljum frekar sjá of marga en of fáa," segir hann.</p>
+    <p xml:lang="smj"></p>
+  </body>
+</document>

@@ -1,0 +1,21 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://www.visir.is/bryndisarsjoppa-brann/article/2012120829706</errorlang> Eldur kom upp í yfirgefnu húsi nærri Flensborgarskólanum í Hafnarfirði í morgun, en húsið er yfirleitt kallað Bryndísarsjoppa. Eldurinn kom upp klukkan sjö í morgun. <errorort correct="Slökkviliðsmenn" errorinfo="typo,suff,1-0">Slökkviliðismenn</errorort> voru að störfum í tvo klukkutíma áður en þeir náðu að slökkva eldinn. Ekkert rafmagn er í húsinu og byrjað var að rífa það niður, grunur er um íkveikju. Mikill eldur var í sjoppunni.</p>
+  </body>
+</document>

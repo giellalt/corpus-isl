@@ -1,0 +1,24 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://www.visir.is/bilun-veldur-vidtaeku-rafmagnsleysi--nordaustanlands/article/2012120919986</errorlang> Rafmagnslaust er á stórum hluta <errorortreal correct="Norðausturlands" errorinfo="cap,stem,n-N">norðausturlands</errorortreal> en bilun er á stórri stofnlínu á milli Laxárvirkjunar og Kópaskers.</p>
+    <p>Pétur Vopni Sigurðsson hjá Rarik á Norðurlandi segir enn ekki vitað hvað olli <errorort correct="biluninni" errorinfo="typo,suff,0-2">bilunni</errorort> á línunni. Þá hefur ísing myndast á línum í Mývatnssveit og í Bárðardal sem veldur rafmagnsleysi á þeim svæðum.</p>
+    <p>Að sögn Péturs er erfitt að segja til um hvenær málin komast í samt lag á ný, enn sé hvasst á svæðinu og ísing enn að myndast á línum.</p>
+    <p>Ísingin veldur því líka að línurnar liggja mun lægra en vanalega og eru ökumenn, og þá sérstaklega ökumenn hárra bíla, beðnir um að fara varlega.</p>
+  </body>
+</document>

@@ -1,0 +1,23 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://www.visir.is/kim-kardashian-i-djorfum-kjol/article/2012120909340</errorlang> Það virðist vera nóg að gera hjá <errorlang correct="eng">Kim Kardashian</errorlang> því varla líður dagur án þess að hún sjáist í fullum skrúða í partýum, á rauða <errorort correct="dreglinum" errorinfo="typo,suff,0-1">dreglinu</errorort> eða á förnum vegi með nýja kærastanum.</p>
+    <p>Raunveruleikastjarnan vakti vægast sagt athygli í djörfum kjól í <errorlang correct="eng">New York</errorlang> borg í <errorort correct="gærkvöldi" errorinfo="vow,stem,e-ö">gærkveldi</errorort>, kjóllinn var svartur og hvítur og sýndi ekki bara línur íturvöxnu stjörnunnar heldur var barmurinn lítið hulinn eins og sjá má á meðfylgjandi mynd.</p>
+    <p>Mikið hefur verið talað um breyttan fatastíl Kim eftir að hún byrjaði að hitta rapparann <errorlang correct="eng">Kanye West</errorlang>.</p>
+  </body>
+</document>

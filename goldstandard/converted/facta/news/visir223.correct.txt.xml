@@ -1,0 +1,23 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p xml:lang="dan"><errorlang correct="url">http://visir.is/-thad-munu-ekki-margir-feta-i-fotspor-johonnu-/article/2012120928980</errorlang> Katrín Júlíusdóttir, þingmaður Samfylkingarinnar, telur að Jóhanna Sigurðardóttir, forsætisráðherra, hafi staðið sig gríðarlega vel bæði sem forsætisráðherra og þingmaður alla tíð. Jóhanna tilkynnti í dag að hún <errorort correct="hygðist" errorinfo="infl">hyggðist</errorort> hætta í pólitík eftir líðandi kjörtímabil.</p>
+    <p>„Ég hef nokkuð blendnar tilfinningar gagnvart því," segir Katrín um ákvörðun Jóhönnu. „Það verður mikill sjónarsviptir <errorlex correct="að">af</errorlex> henni og hennar pólitík. Það verða ekki margir sem ná að feta í fótspor hennar."</p>
+    <p>Katrín hefur ekki ákveðið hvort hún muni bjóða sig fram til forystu í Samfylkingunni eftir að Jóhanna yfirgefur sviðið. „Þetta var nú bara að gerast og ég segi nú bara eitt í einu," segir hún í samtali við Vísi. „En nú fer fólk bara að líta í kringum sig," segir hún og telur eðlilegt að fólkið í grasrót flokksins fari að ráða ráðum sínum og velta fyrir sér hvern það vill sjá sem eftirmann Jóhönnu.</p>
+  </body>
+</document>

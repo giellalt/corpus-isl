@@ -1,0 +1,23 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://www.visir.is/hert-oryggisgaesla-vegna-randyrrar-bokar/article/2012120929701</errorlang> Stærsta og dýrasta bók sem nú er fáanleg á almennum bókamarkaði á Íslandi, hátíðarútgáfa Íslenskra fugla eftir Benedikt Gröndal, er nú í fyrsta sinn til sýnis fyrir almenning í Eymundsson í Smáralind. Af því tilefni hefur öryggisgæsla verið hert í versluninni og starfsmenn hafa á bókinni sérstakar gætur.</p>
+    <p>Bókin kostar 230.000 krónur fullu verði og aðeins eru gefin út 100 tölusett eintök. Hún er bundin í sérsútað sauðskinn frá verksmiðju Loðskinns á Sauðárkróki, <errorort correct="handbundin" errorinfo="typo,stem,0-1">handbunin</errorort> af Ragnari Eiríkssyni bókbindara og er í sérsmíðuðum viðarkassa. Enn eru tæplega 50 eintök af bókinni fáanleg.</p>
+    <p>Benedikt Gröndal teiknaði myndirnar í bókina í kringum aldamótin 1900, alls 100 myndir af öllum fuglum sem hann vissi til að sést hefðu á Íslandi. Handritið var aldrei gefið út og var geymt í læstum skjalaskáp Náttúrufræðistofnunar Íslands í meira en hálfa öld. Bókin kom út í útgáfu fyrir almenning árið 2011 hjá bókaútgáfunni <errorlang correct="lat">Crymogeu</errorlang> í samstarfi við Náttúrufræðistofnun Íslands. Hátíðarútgáfan er endurgerð upprunalega handritsins og geymir auk allra fuglateikninga Benedikts líka listilega handskrifaðan texta hans auk skýringa og eftirmála Kristins Hauks Skarphéðinssonar, fuglafræðings.</p>
+  </body>
+</document>

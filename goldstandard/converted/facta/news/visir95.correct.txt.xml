@@ -1,0 +1,23 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://visir.is/sitja-fastir-a-38-tommu-dekkjum/article/2012120919783</errorlang> Tveir bílar frá Björgunarsveitinni á Hellu voru sendir upp að Gæsavötnum á hálendinu um tvö leytið í dag til að sækja hóp erlendra ferðamanna sem sitja þar fastir vegna veðurs.</p>
+    <p xml:lang="nno">Árni Kristjánsson, hjá björgunarsveitinni, segir ómögulegt að segja til um <errorort correct="hvenær" errorinfo="typo,stem,1-0">hvernær</errorort> björgunarsveitir koma á staðinn. „Það verður líklega ekki fyrr en í kvöld eða nótt," segir hann. Óútreiknanlegt veður gæti einnig sett strik í reikninginn og tafið för björgunarsveitanna nokkuð.</p>
+    <p>Ferðamennirnir ku vera á stórum jeppa með 38 tommu dekkjum. Þeir eru hins vegar orðnir kaldir og <errorortreal correct="veðraðir" errorinfo="typo,suff,0-1">veðraðri</errorortreal> og gátu ekki hugsað sér að halda áfram einir og óstuddir. Þeir báðu því um aðstoð björgunarsveita.</p>
+  </body>
+</document>

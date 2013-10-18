@@ -1,0 +1,21 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://visir.is/farthegar-i-hauki-fengu-fraedslu-um-afallahjalp-/article/2012120809808</errorlang> Rauði krossinn á Húsavík opnaði fjöldahjálparstöð í Nausti, húsnæði Rauða krossins á Húsavík, fyrir farþega hvalaskoðunarbátsins Hauks sem strandaði við Lundey á Skjálfanda í morgun.  Fimm manns frá Rauða krossinum á Húsavík tóku á móti farþegunum með teppi eftir að þeir höfðu verið fluttir í land með slöngubátum og kvennadeild Slysavarnarfélagsins Landsbjargar á Húsavík bauð þeim upp á kaffi og kökur. Samkvæmt upplýsingum frá Rauða krossinum ávörpuðu læknar frá sjúkrahúsinu á Húsavík farþegahópinn, lýstu síðbúnum einkennum áfalla og hvöttu fólkið til að styðja <errorsyn correct="hvort við" errorinfo="x">við hvort</errorsyn> annað og leita sér aðstoðar ef það <errorort correct="fyndi" errorinfo="infl">finndi</errorort> fyrir vanlíðan í kjölfar strandsins. Eigendur Norðursiglingar sem rekur hvalaskoðunarbátinn Hauk <errormorphsyn correct="ávörpuðu" errorinfo="x">ávarpaði</errormorphsyn> einnig fólkið og var því boðið í heita súpu á veitingastað eftir að fundinum lauk nú um hádegið. Að sögn Guðnýjar Björnsdóttur, verkefnisstjóra Rauða krossins á Norðurlandi, amaði ekkert að fólkinu, flestir farþeganna héldu ró sinni og engum virtist illa brugðið. Þegar klukkan var tíu mínútur yfir tólf sagði hún hvalaskoðunarbátinn Hauk vera að sigla fyrir eigin afli inn í Húsavíkurhöfn.</p>
+  </body>
+</document>

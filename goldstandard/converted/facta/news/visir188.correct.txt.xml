@@ -1,0 +1,22 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://www.visir.is/fraedsluerindi-um-eineltismal/article/2012309299995</errorlang> Fræðsluerindi um einelti, forvarnir og úrvinnslu eineltismála verður haldið í Guðmundarbúð á Ísafirði fimmtudaginn 4. október. Það er Æskulýðsvettvangurinn sem stendur fyrir fræðslunni, en að honum koma UMFÍ, KFUM/KFUK, Slysavarnafélagið Landsbjörg og <errorortreal correct="skátarnir" errorinfo="cap,stem,S-s">Skátarnir</errorortreal>. Kolbrún Baldursdóttir, sálfræðingur og höfundur bókarinnar EKKI MEIR heldur utan um <errorort correct="fræðsluna" errorinfo="con,stem,com">fræsluna</errorort> og <errormorphsyn correct="svarar">svara</errormorphsyn> spurningum. Kolbrún hefur áratuga reynslu sem sálfræðingur. Hún hefur komið að málefnum barna og unglinga með fjölbreyttum hætti svo sem með kennslu, ráðgjöf og sem meðferðaraðili.</p>
+    <p>Fyrirlestur <errorort correct="Kolbrúnar" errorinfo="meta,stem,an-na">Kolbrúanr</errorort> hefst <errorort correct="kl." errorinfo="punct,0-1">kl</errorort> 15:30.</p>
+  </body>
+</document>

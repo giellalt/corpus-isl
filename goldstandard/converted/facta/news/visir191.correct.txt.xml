@@ -1,0 +1,25 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://www.visir.is/johanna-haettir-og-karl-agust-smellir-af-ser-brjostahaldaranum/article/2012120928806</errorlang> „Það er mikill söknuður í því að sjá Jóhönnu fara og ég sé fram á að fá færri tækifæri í kjölfarið á þessu." Þetta sagði leikarinn Karl Ágúst Úlfsson í samtali við Reykjavík síðdegis á Bylgjunni í dag. Til margra ára hefur Karl brugðið sér í hlutverk fráfarandi forsætisráðherra.</p>
+    <p>„Samt sem áður verð ég að viðurkenna það að ég mun ekki sakna hárkollunnar og brjóstahaldarans."</p>
+    <p>Karl segist ekki vita hvort að Jóhanna hafi verið sátt með túlkun hans í gegnum tíðina. Áhrifamenn í íslensku samfélagi eru þó oft á tíðum ánægðir með að koma birtast á <errorort correct="sjónvarpsskjáum" errorinfo="infl">sjónvarpsskjám</errorort> landsmanna á laugardögum.</p>
+    <p>„Stjórnmálamenn er oft <errorlex correct="og">á</errorlex> tíðum ánægðir með að vera teknir fyrir í Spaugstofunni. Þetta þykir mikill heiður — vafasamur heiður það er að segja."</p>
+    <p>Hægt er að hlusta á viðtalið við Karl Ágúst í heild sinni hér fyrir ofan.</p>
+  </body>
+</document>

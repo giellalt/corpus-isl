@@ -1,0 +1,23 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://www.visir.is/turistinn-curiosity---tok-sjalfsmynd-a-mars/article/2012120908963</errorlang> Vitjeppinn <errorlang correct="eng">Curiosity</errorlang>, sendiherra mannkyns á Mars, er greinilega ekki svo <errormorphsyn correct="frábrugðinn" errorinfo="x">frábrugðin</errormorphsyn> okkur hér á jörðu niðri. Farið afhjúpaði hégóma sinn þegar það kannaði rannsóknararm sinn á dögunum og laumaðist til að taka af sér sjálfsmynd.</p>
+    <p>Síðustu daga hefur <errorlang correct="eng">Curiosity</errorlang> rúntað á hægum hraða um sléttur rauðu plánetunnar. Frá því að farið lenti á Mars hefur það ekið rúmlega hundrað metra. Núna er hins vegar komið að því að fara í gegnum ferla til að kanna stöðu rannsóknararmsins en á honum má <errorort correct="finna" errorinfo="typo,stem,0-1">fnna</errorort> öll helstu mælingar- og rannsóknartæki sem farið þarf á að halda.</p>
+    <p>Vitanlega er myndavél á arminum en hann er rétt rúmlega 2.1 metri á lengd. <errorlang correct="eng">Curiosity</errorlang>, rétt eins og mennskir ferðamenn <errorsyn correct="0">sem finna</errorsyn> á framandi slóðum, ákvað því að smella af mynd.</p>
+  </body>
+</document>

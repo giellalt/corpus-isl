@@ -1,0 +1,24 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://www.visir.is/-allir-leggjast-a-eitt-/article/2012309299998</errorlang> Íbúar í Strandabyggð hafa sannarlega fengið tækifæri til að lifa heilsusamlegra lífi í septembermánuði, en heilsueflingarátak hefur staðið yfir í mánuðinum. Að sögn Ingibjargar Benediktsdóttur, forsprakka heilsuátaksins, hafa stofnanir, verslanir og fyrirtæki í sveitarfélaginu lagst á eitt til að auðvelda heimamönnum verkefnið. „Það hafa allir tekið höndum saman og lagst á eitt, <errorsyn correct="annaðhvort">annað hvort</errorsyn> í formi styrkja eða með því að gefa afslátt af vörum og þjónustu tengdum heilsueflingu<errorsyn correct=",“">“</errorsyn> segir Ingibjörg, en átakið mun standa fram í október.</p>
+    <p>Í heilsuátakinu hefur bæjarbúum staðið <errorort correct="ýmiss konar" errorinfo="typo,suff,1-2;cmp,dem+adv,1-2">ýmiskonar</errorort> heilsusamleg afþreying til boða, t.a.m. hádegisgöngutúrar, sundleikfimi, styrktaræfingar, hlaup, sund og margt, margt fleira. „Við vildum hafa þetta sem ódýrast fyrir heimamenn svo að við höfum fengið styrki bæði frá sveitarfélaginu og fyrirtækjum á svæðinu. Kaupfélagið <errorsyn correct="0">er</errorsyn> býður upp á afslátt af ávöxtum <errorlex correct="og">á</errorlex> grænmeti, apótekið lækkar verð á vítamínum, hjúkrunarfræðingurinn býður upp á ókeypis blóðþrýstingsmælingu og næringarráðgjöf, og svo mætti lengi telja,“ segir Ingibjörg, en einkaþjálfarar bjóða einnig upp á ráðgjöf í líkamsræktarsalnum á Hólmavík um helgar.</p>
+    <p>Til stóð að heilsuátakið myndi enda í lok mánaðar, en svo verður ekki. „Við fórum ekki nógu vel af stað þar sem sundlaugin á Hólmavík bilaði. Því gátum við ekki notað hana og munum því halda áfram eitthvað inn í októbermánuð með átakið,“ segir Ingibjörg, en stefnt er að því að heilsuátakinu ljúki með skemmtiskokki.</p>
+    <p>„Ég vona að þetta geti orðið árlegt,“ segir Ingibjörg, en hún segir að margar hugmyndir tengdar heilsueflingu geti nýst átakinu á næstu árum. Hugmyndin að átakinu í núverandi mynd kviknaði þegar Ingibjörg var formaður fræðslunefndar Strandabyggðar. „Þá fórum við að ræða um hvort ekki væri sniðugt að einblína á hollara mataræði fyrir grunnskólanema. Fljótlega sáum við að leikskólabörn eins og fullorðnir ættu allt eins að fara í átak og því var ákveðið að efna til átaks sem allir gætu tekið þátt í,“ segir Ingibjörg.</p>
+  </body>
+</document>

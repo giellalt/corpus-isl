@@ -1,0 +1,23 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://visir.is/justin-timberlake-steggjadur/article/2012120929423</errorlang> Herlegheitin byrjuðu í <errorlang correct="eng">Las Vegas</errorlang> á fimmtudaginn þar sem <errorlang correct="eng">Justin</errorlang> og vinir hans, alls 25 talsins, fengu sér kvöldverð á ítalska veitingastaðnum <errorlang correct="eng">Wynn Las Vegas &amp; Encore Resort's Sinatra</errorlang>.</p>
+    <p>Eftir matinn fóru þeir á næturklúbbinn <errorlang correct="eng">Surrender</errorlang> þar sem <errorlang correct="eng">Justin</errorlang> skemmti sér konunglega. Hann sötraði <errorort correct="tekíla" errorinfo="for">tequila</errorort> allt kvöldið og hélt sér í fötunum þó að margir vinir hans hafi skellt sér í sundföt og stokkið í sundlaugina á klúbbnum.</p>
+    <p>Daginn eftir flaug <errorort correct="hersingin" errorinfo="con,suff,nn-n">hersinginn</errorort> til <errorlang correct="eng">Cabo</errorlang> í Mexíkó og gisti á <errorlang correct="eng">El Dorado Golf &amp; Beach Club</errorlang>. Á laugardaginn fóru þeir í golfi og síðan að <errorlex correct="foreign,eng">djamma</errorlex> eins og enginn væri morgundagurinn. Ágætis steggjun!</p>
+  </body>
+</document>

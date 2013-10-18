@@ -1,0 +1,23 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://www.visir.is/bilaumferd-um-kjalveg-minnkad-i-sumar/article/2012120829727</errorlang> Bílaumferð um Kjalveg hefur <errorsyn correct="snarminnkað" errorinfo="x">snar minnkað</errorsyn>, eða um 22 prósent í sumar, samanborið við síðasta sumar, en þá jókst hún líka um álíka tölu, samkvæmt teljara Vegagerðarinnar í grennd við Blöndulón.</p>
+    <p>Samdrátturinn núna er meiri en nokkur sinni fyrr, en ef farið er aftur til aldamóta, var <errorort correct="umferðin" errorinfo="typo,stem,v-f">umverðin</errorort> í sumar álíka mikil og árleg <errormorphsyn correct="sumarumferð" errorinfo="x">sumarumferða</errormorphsyn> um þessar slóðir síðan þá, eða um 70 bílar á sólarhring.</p>
+    <p>Það sýnir að umferð um þennan hluta hálendisins, að minnsta kosti, hefur ekki aukist í tíu ár, með undantekningunni í fyrra.</p>
+  </body>
+</document>

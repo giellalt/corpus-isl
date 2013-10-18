@@ -1,0 +1,23 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p xml:lang="nob"><errorlang correct="url">http://visir.is/framandi-spendyr-ogna-natturu-evropu/article/2012120909452</errorlang> Innreið spendýra á borð við villisvín, þvottabirni, bjór og <errorort correct="snjáldurmýs" errorinfo="typo,stem,0-1">snáldurmýs</errorort> í Evrópu er mun umfangsmeiri en áður var talið.</p>
+    <p>Frá nýsteinöld hafa rúmlega sjötíu tegundir reynt að koma sér fyrir í Evrópu - af þeim hafa þrjátíu tegundir dreift sér þvert yfir álfuna.</p>
+    <p>Þetta kemur fram í rannsóknarniðurstöðum vísindamanna í Ítalíu. Í niðurstöðum þeirra kemur fram að innreið spendýranna komi til með að hafa afar slæm áhrif á bæði mannfólk og umhverfi og er hætta að þessi flökkudýr skaði líffræðilegan fjölbreytileika Evrópu.</p>
+  </body>
+</document>

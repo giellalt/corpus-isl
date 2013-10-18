@@ -1,0 +1,25 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://www.visir.is/forkastanleg-vinnubrogd-og-an-fordaema/article/2012120928773</errorlang> Það eru forkastanleg vinnubrögð og án fordæma að fresta því að senda fjáraukalögin til Ríkisendurskoðunar líkt og meirihluti fjárlaganefndar ákvað í gær. Þetta segir þingmaður Sjálfstæðisflokksins í nefndinni en hann telur <errorsyn correct="að að">að</errorsyn> baki ákvörðuninni blundi tilhneiging til að leyna <errorort correct="almenning" errorinfo="typo,der,0-1">almennig</errorort> upplýsingum.</p>
+    <p>Fjárlaganefnd ákvað á fundi sínum í gær að bíða með það að senda fjáraukalögin til Ríkisendurskoðunar vegna trúnaðarbrests sem ríkir á milli <errormorphsyn correct="Alþingis">Alþingi</errormorphsyn> og stofnunarinnar. Meirihluti nefndarinnar tók þessa ákvörðun og segir að með henni sé verið að senda ákveðin skilaboð.</p>
+    <p>Ríkisendurskoðun hefur sætt gagnrýni síðustu daga fyrir það að hafa tekið átta ár í vinnu við skýrslu um <errorort correct="kostnað" errorinfo="meta,stem,nt-tn">kosntað</errorort> við nýtt bókhaldskerfi.</p>
+    <p>Kristján Þór Júlíusson þingmaður Sjálfstæðisflokksins situr í fjárlaganefnd. Hann er ósáttur við vinnubrögð meirihluta nefndarinnar sem hann segir vera forkastanleg og án fordæma. „Þetta eru <errorort correct="vinnubrögð" errorinfo="typo,suff,0-1">vinnbrögð</errorort> sem koma á óvart."</p>
+    <p>Þá hefur hann litla trú á þeim ástæðum sem meirihluti nefndarinnar gefur upp fyrir sinni ákvörðun.</p>
+  </body>
+</document>

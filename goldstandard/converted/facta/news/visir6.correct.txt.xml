@@ -1,0 +1,21 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://visir.is/fleiri-oliufelog-undirbjuggu-tilbod-i-drekasvaedid/article/2011110619237</errorlang> óvissu þar sem Alþingi samþykkti ekki nauðsynlegar lagabreytingar. Guðni A. Jóhannesson orkumálastjóri segir þetta skapa óþægindi og rugla tímaáætlanir Orkustofnunar. "En fyrst og fremst hefði maður viljað fara af stað með þetta núna þegar maður finnur ákveðinn byr." Guðni segir að meðal annars á fundi Orkustofnunar í Stafangri í síðustu viku, þar sem voru fulltrúar félaga eins og <errorlang correct="eng">ExxonMobil</errorlang>, <errorlang correct="eng">ConocoPhilips</errorlang> og <errorlang correct="eng">Statoil</errorlang>, hafi áhugaverðir hlutir komið í ljós, bæði á fundinum og í viðtölum við orkufyrirtækin. "Þá sér maður það betur og betur að það voru í raun miklu fleiri fyrirtæki búin að leggja vinnu í fyrsta útboðið." Augljóst sé að þau haldi því áfram og komi af fullri alvöru að borðinu aftur. Olíuleit á hafsvæðum er gríðardýr, hver hola kostar yfir tíu milljarða. Þetta er því ekki eins og að bjóða út vegspotta.  "Þetta er í raun útboð á heimsvísu. Fjárfestar <errorort correct="alls staðar" errorinfo="typo,suff,0-1;cmp,indef+adv,1-2">allstaðar</errorort> úr heiminum koma að svona verkefnum."  Guðni og samstarfsmenn hans í Orkustofnun skynja að Drekasvæðið freistar olíufélaganna enda segir hann að líkurnar á að finna þar olíu og gas séu töluvert miklar. Spurningin sé hins vegar frekar í <errorlex correct="hversu" errorinfo="zzz">hvað</errorlex> miklu magni.  "Það er <errorort correct="þess vegna" errorinfo="cmp,dem+pp,1-2">þessvegna</errorort> sem maður sér að þessi fyrirtæki eru að leggja mannár í <errorortreal correct="jarðfræðivinnu" errorinfo="typo,stem,j-h">harðfræðivinnu</errorortreal> við að greina svæðið," segir orkumálastjóri.</p>
+  </body>
+</document>

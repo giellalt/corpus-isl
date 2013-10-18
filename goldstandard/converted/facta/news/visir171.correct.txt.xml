@@ -1,0 +1,24 @@
+<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
+<document xml:lang="isl" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <p><errorlang correct="url">http://www.visir.is/hulunni-svipt-af-langlifi-geldinga/article/2012120929354</errorlang> Ný rannsókn í <errorsyn correct="Suður-Kóreu">Suður Kóreu</errorsyn> hefur leitt í ljós <errorort correct="af hverju" errorinfo="cmp,pp+que">afhverju</errorort> geldingar lifa mun lengur en aðrir menn eða allt að 19 árum að meðaltali. Rannsóknin varpar einnig ljósi á <errorort correct="af hverju" errorinfo="cmp,pp+que">afhverju</errorort> konur lifa yfirleitt lengur en karlar.</p>
+    <p>Í ljós kom að það eru karlhormónar, eins og <errorort correct="testosterón" errorinfo="typo,stem,0-3">testerón</errorort> sem stytta ævi karlmanna. Hormónar þessir auka líkurnar á að ónæmiskerfi karla verði fyrir skakkaföllum eða að þeir fái hjartasjúkdóma.</p>
+    <p>Hér er um að ræða menn sem voru geldir áður en þeir náðu kynþroskaaldrinum. Geldingar skipuðu lengi virðingarstöðu í <errorsyn correct="Suður-Kóreu">Suður Kóreu</errorsyn> en konungsfjölskylda landsins notaði þá m.a. sem lífverði.</p>
+    <p xml:lang="nno">Rannsóknin byggði á gögnum um rúmlega 80 geldinga á árunum 1556 til 1861. Meðalaldur þeirra var 70 ár og sá elsti varð 109 ára gamall. Til samanburðar var meðalævi annarra karla á þessu tímabili rúmlega 50 ár.</p>
+  </body>
+</document>
