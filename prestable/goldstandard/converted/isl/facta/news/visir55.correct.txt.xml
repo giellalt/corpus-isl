@@ -9,7 +9,6 @@
     <availability>
       <license type="standard"/>
     </availability>
-    <multilingual/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -22,6 +21,6 @@
     <p>Fleiri vitni eiga eftir að lýsa aðkomum sínum að málinu, auk Teits sjálfs, en meðal þeirra er Jón Baldvin Hannibalsson sem var þá utanríkisráðherra.</p>
     <p>Gunnlaugur sagði meðal annars í framburði sínum, þegar hann fór yfir sögu Kögunar, að Jón Baldvin <errormorphsyn correct="hefði" errorinfo="x">hafi</errormorphsyn> sagt sér á sínum tíma að það væri afar mikilvægt að Kögun félli ekki í hendur fjölskyldnanna fjórtán, "án þess að hann hafi útskýrt það frekar," bætti Gunnlaugur svo við.</p>
     <p>Nánar verður fjallað um <errorort correct="meiðyrðamálið" errorinfo="infl">meiðyrðarmálið</errorort> síðar í dag.</p>
-    <p xml:lang="nno">Til baka</p>
+    <p>Til baka</p>
   </body>
 </document>

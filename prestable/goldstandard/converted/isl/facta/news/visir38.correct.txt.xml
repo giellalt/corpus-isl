@@ -9,7 +9,6 @@
     <availability>
       <license type="standard"/>
     </availability>
-    <multilingual/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -20,7 +19,7 @@
     <p>„Fjármálaráðuneytið hefur afhent þau gögn sem það hefur undir höndum og því hefur verið heimilt að afhenda," segir á heimasíðu ráðuneytisins.</p>
     <p>Á blaðamannafundinum í dag sagði Víglundur að niðurstaða Úrskurðarnefndar um <errorortreal correct="upplýsingamál" errorinfo="cmp,suff,gensg-genpl">upplýsingarmál</errorortreal> að synja sér um aðgang að <errorort correct="samningum" errorinfo="typo,der,0-1">samingum</errorort> um endurmat á lánasöfnum staðfesti það að listi <errormorphsyn correct="hefði" errorinfo="x">hafi</errormorphsyn> verið gerður í Arionbanka yfir skuldara sem vinna átti á.</p>
     <p>Í tilkynningu Fjármálaráðuneytisins er ásökunum Víglundar vísað á bug.</p>
-    <p xml:lang="nno">„Dylgjum um að ráðuneytið, ríkisstjórn eða einstakir ráðherrar hafi haft afskipti af einstökum lánum eða lánveitendum er alfarið vísað á bug," segir á heimasíðu Fjármálaráðuneytisins.</p>
+    <p>„Dylgjum um að ráðuneytið, ríkisstjórn eða einstakir ráðherrar hafi haft afskipti af einstökum lánum eða lánveitendum er alfarið vísað á bug," segir á heimasíðu Fjármálaráðuneytisins.</p>
     <p>Hægt er að nálgast tilkynningu ráðuneytisins hér.</p>
   </body>
 </document>

@@ -9,7 +9,6 @@
     <availability>
       <license type="standard"/>
     </availability>
-    <multilingual/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -22,6 +21,6 @@
     <p>Víglundur segir að staða Gamla Kaupþings gagnvart Nýja Kaupþingi hafi verið miklu verri en staða hinna gömlu bankanna samkvæmt skýrslu fjármálaráðherra. Skilanefnd Kaupþings hafi skuldað nýja bankanum 38 milljarða en í hinum bönkunum hafi staðan verið sú að nýju bankarnir skulduðu þeim gömlu. Í skýrslunni sé því lýst hvernig íslenska ríkið afhenti skilanefnd Kaupþings, sem fulltrúa erlendra kröfuhafa, nýja bankann og <errormorphsyn correct="gaf" errorinfo="x">gefið</errormorphsyn> ekkert jafnræði hafi verið gagnvart skuldurum heldur hafi verið sótt að þeim sem fengur var í, einstaklingum jafnt sem fyrirtækjum.</p>
     <p>Með þessu verklagi sé líklegt að ráðherrar, einstakir starfsmenn nýju bankanna og skilanefndanna hafi gerst brotlegir við ýmis ákvæði íslenskra laga sem refsingar eru lagðar við.</p>
     <p>Víglundur segir að full ástæða sé til þess að þetta mál verði <errormorphsyn correct="skoðuð" errorinfo="x">skoða</errormorphsyn> mun betur og hann hafi þegar óskað skriflega eftir nánari upplýsingum frá fjármálaráðuneytinu.</p>
-    <p xml:lang="smj"></p>
+    <p></p>
   </body>
 </document>

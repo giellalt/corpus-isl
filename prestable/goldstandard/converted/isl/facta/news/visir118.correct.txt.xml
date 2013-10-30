@@ -9,7 +9,6 @@
     <availability>
       <license type="standard"/>
     </availability>
-    <multilingual/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -21,6 +20,6 @@
     <p>Í Þessum skýrslum er greint frá um 500 tilvikum þar sem uppvíst varð um kynferðislegt ofbeldi gagnvart drengjunum og sögðu þeir ýmist frá þessu sjálfir eða foreldrar þeirra.</p>
     <p>Í 80% þessara tilvika var málið ekki tilkynnt til lögreglu eða annarra yfirvalda og þeim haldið leyndum. Auk þess kemur í ljós að í um 100 tilvika hafi stjórnendur skátasamtakanna beinlínis komið í veg fyrir að misnotkunin var kærð.</p>
     <p>Í viðtölum blaðsins við menn innan skátasamtakanna kemur fram það sjónarmið að samtökin hafi viljað þagga málin niður til að verja drengina gegn opinberri umfjöllun. Það leiddi <errorort correct="hins vegar" errorinfo="cmp,dem+adv,1-2">hinsvegar</errorort> til þess í einhverjum tilvika að þeir seku misnotuðu einnig börn kynferðislega utan samtakanna.</p>
-    <p xml:lang="fkv">Nú hafa skátasamtökin sent frá sér opinberlega <errorsyn correct="afsökun á">afsökun</errorsyn> þessari misnotkun.</p>
+    <p>Nú hafa skátasamtökin sent frá sér opinberlega <errorsyn correct="afsökun á">afsökun</errorsyn> þessari misnotkun.</p>
   </body>
 </document>

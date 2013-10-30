@@ -9,7 +9,6 @@
     <availability>
       <license type="standard"/>
     </availability>
-    <multilingual/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -22,7 +21,7 @@
     <p>Á höfuðborgarsvæðinu er leiguverðið hæst vestan Kringlumýrarbrautar og á Seltjarnarnesi en þar er meðalleiguverðið á stúdíóíbúð tvö þúsund og þrjú hundruð krónur á fermetrann, fyrir tveggja herbergja íbúð tæplega tvö þúsund krónur, fyrir þriggja herbergja íbúð tæplega átján hundruð krónur og fyrir fjögurra til fimm herbergja íbúð tæplega sautján hundruð krónur á fermetrann.</p>
     <p>Hildigunnur Hafsteinsdóttir, lögfræðingur hjá Neytendasamtökunum, segir að auknum umsvifum á leigumarkaði hafi fylgt ýmis vandamál, sem rati inn á borð samtakanna.</p>
     <p>„Frá því við tókum við þjónustunni hefur þetta aukist töluvert. Við vorum með um þúsund mál allt árið í fyrra. Við gerðum þennan samning við velferðarráðuneytið í maí. Eftir þann tíma komu um 800 mál <errorlex correct="það">þar</errorlex> sem eftir var þess árs. Í ár eru þetta <errormorphsyn correct="orðin">orðið</errormorphsyn> um 1100 mál," segir hún.</p>
-    <p xml:lang="nob">Og þegar komi að leigusamningsgerð sé eitt ráð betra en önnur.</p>
+    <p>Og þegar komi að leigusamningsgerð sé eitt ráð betra en önnur.</p>
     <p>„Það sem helst ætti að hafa <errorort correct="bak við" errorinfo="cmp,noun+pp,1-2">bakvið</errorort> eyrað og við erum alltaf að reka okkur á er að hafa samskipti sem mest skrifleg. Fólk er rosalega viðkvæmt fyrir því, vill hafa hlutina á vinalegu nótunum, í símtali eða bara augliti til <errorort correct="auglitis" errorinfo="typo,suff,0-1">auglits</errorort>. Það er bara svo erfitt að sanna hverju maður heldur fram í svoleiðis málum. Svo það er mjög brýnt ef það þarf að koma orðsendingum á milli að hafa það í bréfi eða tölvupósti," segir Hildigunnur.</p>
   </body>
 </document>

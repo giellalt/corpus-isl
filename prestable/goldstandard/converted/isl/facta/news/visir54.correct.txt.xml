@@ -9,7 +9,6 @@
     <availability>
       <license type="standard"/>
     </availability>
-    <multilingual/>
     <metadata>
       <uncomplete/>
     </metadata>
@@ -18,6 +17,6 @@
   <body>
     <p><errorlang correct="url">http://visir.is/rihanna-og-stella-mccartney-mogulega-i-samstarf/article/2012120909533</errorlang> Það ríkir mikil spenna í tískuheiminum þessa dagana en sá háværi orðrómur er uppi um að þær <errorlang correct="eng">Rihanna</errorlang> og <errorlang correct="eng">Stella McCartney</errorlang> séu að hanna fatalínu saman.</p>
     <p>Báðar eru þær gríðarlega þekktar á sínu sviði og er óhætt að segja að söngkonan sé mikið tískuíkon rétt eins og <error correct="McCartney∞eng">McCarney</error> sem hefur slegið í gegn sem hönnuður.</p>
-    <p xml:lang="nno"><errorort correct="Hins vegar" errorinfo="cmp,dem+adv,1-2">Hinsvegar</errorort> hafa þær mjög ólíkan stíl og því áhugavert að sjá hver útkoman úr samvinnu þeirra verður, ef rétt reynist.</p>
+    <p><errorort correct="Hins vegar" errorinfo="cmp,dem+adv,1-2">Hinsvegar</errorort> hafa þær mjög ólíkan stíl og því áhugavert að sjá hver útkoman úr samvinnu þeirra verður, ef rétt reynist.</p>
   </body>
 </document>
