@@ -12,7 +12,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://visir.is/danski-islendingurinn-er-markahaestur-i-thysku-deildinni/article/2012120919124</errorlang> Danski landsliðsmaðurinn <errorlang correct="dan">Hans Lindberg</errorlang> hefur byrjað vel í þýsku úrvalsdeildinni í handbolta á þessu tímabili og er markahæsti leikmaður deildarinnar eftir leiki helgarinnar. Foreldrar <errorort correct="Hans" errorinfo="typo,stem,1-0">Hanes</errorort>eru eins og kunnugt er báðir íslenskir en <errorlang correct="dan">Lindberg</errorlang> er uppalinn í Danmörku.</p>

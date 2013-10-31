@@ -12,7 +12,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://www.visir.is/hulunni-svipt-af-langlifi-geldinga/article/2012120929354</errorlang> Ný rannsókn í <errorsyn correct="Suður-Kóreu">Suður Kóreu</errorsyn> hefur leitt í ljós <errorort correct="af hverju" errorinfo="cmp,pp+que">afhverju</errorort> geldingar lifa mun lengur en aðrir menn eða allt að 19 árum að meðaltali. Rannsóknin varpar einnig ljósi á <errorort correct="af hverju" errorinfo="cmp,pp+que">afhverju</errorort> konur lifa yfirleitt lengur en karlar.</p>

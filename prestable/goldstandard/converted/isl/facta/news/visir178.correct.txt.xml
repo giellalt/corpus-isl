@@ -12,7 +12,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://www.visir.is/gagnryndi-oryggisradid/article/2012120928737</errorlang> Í ræðu sinni á Allsherjarþinginu í morgun gagnrýndi Össur Skarphéðinsson, utanríkisráðherra, Öryggisráð Sameinuðu <errorortreal correct="þjóðanna" errorinfo="cap,stem,Þ-þ">Þjóðanna</errorortreal> harðlega fyrir að vera afdankað og úr takti við þarfir nútímans. Hann sagði það vera þröskuld í vegi þess að alþjóðasamfélagið gæti látið til sín taka í málefnum Sýrlands. „Við verðum að breyta Öryggisráðinu til að það verði tæki til lausnar, en ekki hindrun, til að vinna sig út úr stöðum <errorort correct="eins og" errorinfo="cmp,adj+conj,1-2">einsog</errorort> þeirri sem nú er komin upp í Sýrlandi á þessu ári, og, <errorort correct="eins og" errorinfo="cmp,adj+conj,1-2">einsog</errorort> við sáum í fyrra, gagnvart umsókn Palestínu,"</p>

@@ -12,7 +12,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://visir.is/ekki-sjon-ad-sja-brad/article/2012120809810</errorlang> Á meðfylgjandi myndum má sjá leikarann <errorlang correct="eng">Brad Pitt</errorlang>, 48 ára, með <errorort correct="glóðarauga" errorinfo="vow,suf,u-a">glóðurauga</errorort> á vinstra auga. Það er ekki sjón að sjá leikarann eins og sjá má á myndunum.</p>

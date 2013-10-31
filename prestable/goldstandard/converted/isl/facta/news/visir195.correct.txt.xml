@@ -12,7 +12,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://visir.is/thrir-unglingar-a-spitala-eftir-landadrykkju-/article/2012120928825</errorlang> Þrír unglingar, ein stúlka og tveir piltar, þrettán og fimmtán ára, voru flutt á Heilbrigðisstofnun Suðurnesja í fyrradag, eftir að <errormorphsyn correct="þeir">þau</errormorphsyn> höfðu drukkið landa, orðið <errorort correct="ofurölvi" errorinfo="vow,stem,ö-o">öfurölvi</errorort> og <errormorphsyn correct="veikir.">veik</errormorphsyn></p>

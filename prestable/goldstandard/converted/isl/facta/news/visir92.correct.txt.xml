@@ -12,7 +12,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://www.visir.is/sabella--messi-er-hamingjusamur/article/2012120908982</errorlang> Þó svo að <errorlang correct="spa">Cristiano Ronaldo</errorlang> segist vera óhamingjusamur hjá <errorlang correct="spa">Real Madrid</errorlang> er <errorlang correct="spa">Lionel Messi</errorlang> í skýjunum, bæði með <errorort correct="félagsliði" errorinfo="meta,stem,sg-gs">félasgliði</errorort> sínu og landsliði.</p>

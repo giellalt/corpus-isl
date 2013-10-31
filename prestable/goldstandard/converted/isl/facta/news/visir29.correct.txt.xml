@@ -12,7 +12,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://visir.is/auglystu-a-netinu-eftir-eggjagjafa/article/2012120829916</errorlang> Hundrað manns bíða eftir því að komast í tæknifrjóvgun og getur oft verið erfitt að finna egg. Barnlaust par um fertugt sem bíður eftir <errorort correct="tæknifrjóvgun" errorinfo="typo,stem,1-0">tyæknifrjóvgun</errorort> ákvað að auglýsa á Netinu eftir eggjagjafa. <errormorphsyn correct="Það segir" errorinfo="x">Þau segja</errormorphsyn> að sitt hjartans mál sé að eignast barn saman og það hafi <errormorphsyn correct="það" errorinfo="x">þau</errormorphsyn> reynt í nokkur ár.</p>

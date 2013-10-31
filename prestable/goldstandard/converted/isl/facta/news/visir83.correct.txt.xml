@@ -12,7 +12,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://visir.is/fa-mynddiskana-ekki-afhenta/article/2012120909270</errorlang> Meirihluti <errorort correct="Hæstaréttar" errorinfo="typo,suff,i-a">Hæstiréttar</errorort> staðfesti niðurstöðu Héraðsdóms Reykjaness um að verjendur Annþórs Karlssonar og fleiri sakborninga <errormorphsyn correct="fengju" errorinfo="x">fái</errormorphsyn> ekki afhenta mynd- og hljóðdiska með skýrslutökum af sakborningum og vitnum í málinu. Þetta var niðurstaðan þrátt fyrir að Börkur Birgisson, einn sakborninga, hefði fyrir mistök fengið aðgang að diskunum.</p>

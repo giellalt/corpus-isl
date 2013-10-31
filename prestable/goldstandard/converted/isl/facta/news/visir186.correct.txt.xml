@@ -12,7 +12,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://www.visir.is/bondinn-horfir-ekki-a-sjonvarp/article/2012120928765</errorlang> Í þættinum Beint frá býli í kvöld <errormorphsyn correct="mæta">mætir</errormorphsyn> Jónas Sigurðsson og Ritvélar <errorortreal correct="framtíðarinnar" errorinfo="cap,stem,F-f">Framtíðarinnar</errorortreal> á Háls í Kjós. Þetta er fjölmennasta hljómsveitin hingað til en meðlimir hennar eru tíu talsins og voru þeir allir komnir saman í stofunni heima hjá ábúendum á Hálsi. Þess ber að gera að áhorfendur voru ekki nema sex talsins.</p>

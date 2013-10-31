@@ -12,7 +12,7 @@
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://www.visir.is/forkastanleg-vinnubrogd-og-an-fordaema/article/2012120928773</errorlang> Það eru forkastanleg vinnubrögð og án fordæma að fresta því að senda fjáraukalögin til Ríkisendurskoðunar líkt og meirihluti fjárlaganefndar ákvað í gær. Þetta segir þingmaður Sjálfstæðisflokksins í nefndinni en hann telur <errorsyn correct="að að">að</errorsyn> baki ákvörðuninni blundi tilhneiging til að leyna <errorort correct="almenning" errorinfo="typo,der,0-1">almennig</errorort> upplýsingum.</p>
