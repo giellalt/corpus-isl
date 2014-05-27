@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="isl" id="no_id">
   <header>
     <title/>
@@ -6,13 +5,14 @@
     <author>
       <unknown/>
     </author>
+    <wordcount>188</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://visir.is/baejarfulltrui-framsoknarflokksins-a-akureyri-stydur-hoskuld/article/2012120929400</errorlang> „Menn eru bara hissa. Ég held að Höskuldur njóti trausts hérna í bænum, þannig að hann á vísan stuðning margra komi til kosninga. Þessi staða er auðvitað ekki góð fyrir flokkinn, vonandi tekst að landa málinu þannig að allir verði sáttir," segir Guðmundur Baldvin Guðmundsson, bæjarfulltrúi Framsóknarflokksins á Akureyri í viðtali við Vikudag en þar kemur fram að Guðmundur styðji Höskuld Þórhallsson til þess að bjóða sig fram í fyrsta sætið í Norðausturkjördæmi en Sigmundur Davíð Gunnlaugsson, formaður Framsóknarflokksins hefur ákveðið að gefa kost á sér í sætið í stað þess að bjóða sig fram í Reykjavík Norður eins og áður.</p>

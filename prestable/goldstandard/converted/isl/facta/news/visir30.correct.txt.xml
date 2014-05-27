@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="isl" id="no_id">
   <header>
     <title/>
@@ -6,13 +5,14 @@
     <author>
       <unknown/>
     </author>
+    <wordcount>265</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://visir.is/thorf-a-almennilegri-medferd-fyrir-fanga-med-afengissyki/article/2012120829919</errorlang> Helsta heilbrigðisvandamál fanga á Íslandi er áfengis- og vímuefnasýki. Þetta segir Gunnar Smári Egilsson, formaður SÁÁ. Áætlað er að 75-85% fanga séu <errormorphsyn correct="haldin" errorinfo="x">haldnir</errormorphsyn> sjúkdómnum og langfæstir þeirra hafa aðgang að læknaþjónustu vegna vandans.</p>

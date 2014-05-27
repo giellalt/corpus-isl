@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="isl" id="no_id">
   <header>
     <title/>
@@ -6,13 +5,14 @@
     <author>
       <unknown/>
     </author>
+    <wordcount>159</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://visir.is/buist-vid-godri-gaesaveidi-/article/2012120829945</errorlang> Gæsaveiðitímabilið hófst í morgun og er búist við góðri veiði. Varp heiðargæsar og grágæsar gekk mjög vel í sumar og búast má við óvenju sterkum veiðistofnum.</p>

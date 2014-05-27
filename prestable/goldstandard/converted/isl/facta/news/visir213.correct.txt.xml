@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="isl" id="no_id">
   <header>
     <title/>
@@ -6,13 +5,14 @@
     <author>
       <unknown/>
     </author>
+    <wordcount>151</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://visir.is/erfitt-ad-vera-billaus-a-flateyri/article/2012309289982</errorlang> „Þetta er það ástand sem við höfum búið við í mörg ár og það hefur ekkert breyst. Það setur svolitla pressu á sveitarfélagið að standa vel að almenningssamgöngum,“ segir Guðmundur Björgvinsson formaður íbúasamtakanna á Flateyri. Guðmundur segir erfitt fyrir Önfirðinga og íbúa á Flateyri að vera án bíls, þar sem opinber þjónusta á Flateyri sé sama og ekki nein. „Innheimtustofnun sveitarfélaga er eina <errorort correct="opinbera" errorinfo="typo,stem,0-1">opinera</errorort> stofnunin hér í bæ.“</p>

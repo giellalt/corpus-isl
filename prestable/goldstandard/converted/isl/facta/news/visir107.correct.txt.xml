@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="isl" id="no_id">
   <header>
     <title/>
@@ -6,13 +5,14 @@
     <author>
       <unknown/>
     </author>
+    <wordcount>58</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://visir.is/morkin-i-leik-belgiu-og-islands/article/2012120919674</errorlang> Íslenska U-21 árs landsliðið fékk mikinn skell, 5-0, í lokaleik sínum í undankeppni EM í Belgíu. Íslenska liðið vann aðeins einn leik í undankeppninni.</p>

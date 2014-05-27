@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="isl" id="no_id">
   <header>
     <title/>
@@ -6,13 +5,14 @@
     <author>
       <unknown/>
     </author>
+    <wordcount>92</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://visir.is/smygludu-fikniefnum-i-gegnum-bretland---loks-gripnir-a-islandi/article/2012120909453</errorlang> Mál þriggja karlmanna sem ákærðir eru fyrir fíkniefnasmygl var þingfest í Héraðsdómi Reykjaness í gær. Einn mannanna er ákærður fyrir að skipuleggja smyglið en hinir tveir fyrir að smygla fíkniefnunum frá <errorlang correct="por">Porto</errorlang> í Portúgal til Lundúna og þaðan til Keflavíkurflugvallar þar sem þeir voru loksins stöðvaðir.</p>

@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="isl" id="no_id">
   <header>
     <title/>
@@ -6,13 +5,14 @@
     <author>
       <unknown/>
     </author>
+    <wordcount>250</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://www.visir.is/thingmenn-samfylkingar--evran-yrdi-farsaelust-fyrir-thjodina/article/2012120929943</errorlang> Alþingismenn ræddu nýbirta skýrslu Seðlabankans um valkosti Íslands í gjaldeyrismálum á þingi í morgun. Skýrslan bendir til þess að þjóðin eigi aðeins tvo raunhæfa kosti, að nota áfram íslensku krónuna eða taka upp <errorortreal correct="Evru" errorinfo="cap,stem,E-e">Evru</errorortreal>. Þingmenn Samfylkingarinnar sammæltust um að upptaka <errorortreal correct="Evru" errorinfo="cap,stem,E-e">Evru</errorortreal> yrði farsælli fyrir þjóðina.</p>

@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="isl" id="no_id">
   <header>
     <title/>
@@ -6,13 +5,14 @@
     <author>
       <unknown/>
     </author>
+    <wordcount>282</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://visir.is/thriggja-ara-fangelsi-fyrir-hrottalega-aras-i-breidholti-/article/2012120909318</errorlang> Mennirnir sem réðust á mann á sjötugsaldri í Breiðholti í júlí og héldu honum klukkutímum saman á <errorort correct="heimili" errorinfo="typo,stem,0-1">hemili</errorort> hans og hótuðu honum ofbeldi voru dæmdir í fangelsi í Héraðsdómi Reykjavíkur í dag. Annar þeirra, Daniel Arciszewski, var dæmdur í þriggja ára fangelsi en hinn, Snorri Sturluson, í tveggja ára fangelsi. Mennirnir voru ákærðir fyrir að beita manninn ofbeldi og meiða hann. Þeir neyddu hann líka til að millifæra hundruð þúsunda á bankareikning sinn.</p>

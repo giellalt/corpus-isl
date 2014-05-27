@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="isl" id="no_id">
   <header>
     <title/>
@@ -6,13 +5,14 @@
     <author>
       <unknown/>
     </author>
+    <wordcount>814</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://visir.is/samkeppnissjonarmid-virt-ad-vettugi/article/2012309289977</errorlang> Samningur mennta- og menningarmálaráðuneytisins við Sigurð Arnfjörð Helgason um leigu á húsnæði Héraðsskólans á Núpi og ákvörðun leigufjárhæðar, sem gerður var 27. nóvember árið 2007, hafði skaðleg áhrif á samkeppni að mati Samkeppniseftirlitsins. Í kjölfarið hefur Samkeppniseftirlitið beint þeim fyrirmælum til ráðuneytisins að leiga á umræddu húsnæði verði boðin út í samræmi við eftirspurn þegar núverandi leigusamningur við Sigurð rennur út, í lok þessa mánaðar. Ályktun Samkeppniseftirlitsins er byggð á kvörtun ferðaþjónustuaðilanna Elíasar Guðmundssonar og Guðmundar Tryggva Ásbergssonar sem lögð var fram í mars á síðasta ári.</p>

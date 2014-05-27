@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="isl" id="no_id">
   <header>
     <title/>
@@ -6,13 +5,14 @@
     <author>
       <unknown/>
     </author>
+    <wordcount>140</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://visir.is/fjarmalaraduneytid-visar-asokunum-viglundar-a-bug/article/2012120829877</errorlang> Fjármálaráðuneytið hafnar því að hafa ekki brugðist við málaleitan Víglundar Þorsteinssonar, fyrrverandi forstjóra BM Vallár. Á blaðamannafundi í dag sagði Víglundur að ráðuneytið hefði neitað að veita upplýsingar um endurmat á lánasöfnum sem færð voru úr <errormorphsyn correct="Kaupþingi" errorinfo="x">Kaupþing</errormorphsyn> hf. yfir í <errorort correct="Arionbanka" errorinfo="typo,suff,0-1">Ariobanka</errorort>.</p>

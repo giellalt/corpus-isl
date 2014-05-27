@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="isl" id="no_id">
   <header>
     <title/>
@@ -6,13 +5,14 @@
     <author>
       <unknown/>
     </author>
+    <wordcount>297</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://www.visir.is/bornum-hafi-verid-gert-ad-saeta-einangrun/article/2012120909333</errorlang> Kallað hefur verið eftir bótakröfum frá þeim sem voru vistaðir á Upptöku- eða unglingaheimili ríkisins á árunum 1971 til 1994, en talið er að börn hafi þar sætt illri meðferð og meðal annars verið gert að sæta einangrun þar til þau játuðu á sig refsiverða háttsemi.</p>

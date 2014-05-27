@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="isl" id="no_id">
   <header>
     <title/>
@@ -6,13 +5,14 @@
     <author>
       <unknown/>
     </author>
+    <wordcount>297</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://visir.is/tina-sig-til-parisar/article/2012309289997</errorlang> „Ætli þetta sé ekki sambland <errorlex correct="af">að</errorlex> hugsjónum og ævintýraþrá,“ segir Margrét Lilja Vilmundardóttir, umsjónarmaður Félagsmiðstöðvarinnar í Súðavík, en mikill kraftur hefur verið í krökkunum þar undanfarin misseri. „Unglingadeildin, sem Pétur, maðurinn hennar Millu, eins og hún er kölluð, <errorsyn correct="sér um, í">í</errorsyn> samvinnu við félagsmiðstöðina, sem hún sjálf er með, er með stór áform um að fara í vorferð til Parísar. Til þess að sá draumur geti ræst hafa krakkarnir verið <errormorphsyn correct="ötulir">ötul</errormorphsyn> í fjáröflunarstarfi, og <errorortreal correct="tíndu" errorinfo="vow,stem,y-i">týndu</errorortreal> <errorort correct="m.a." errorinfo="punct,1-2">m.a</errorort> rúm 500 kíló af bláberjum sem flutt voru frá Súðavík til framleiðslu á snyrtivörum. Að sögn Millu breyttust börnin í <errorort correct="berjatínsluvélar" errorinfo="vow,stem,y-i">berjatýnsluvélar</errorort> í haust, þar sem þau eru einungis tíu sem sáu um tínsluna.</p>

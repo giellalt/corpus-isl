@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="isl" id="no_id">
   <header>
     <title/>
@@ -6,13 +5,14 @@
     <author>
       <unknown/>
     </author>
+    <wordcount>76</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://visir.is/rihanna-og-stella-mccartney-mogulega-i-samstarf/article/2012120909533</errorlang> Það ríkir mikil spenna í tískuheiminum þessa dagana en sá háværi orðrómur er uppi um að þær <errorlang correct="eng">Rihanna</errorlang> og <errorlang correct="eng">Stella McCartney</errorlang> séu að hanna fatalínu saman.</p>

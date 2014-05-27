@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="isl" id="no_id">
   <header>
     <title/>
@@ -6,13 +5,14 @@
     <author>
       <unknown/>
     </author>
+    <wordcount>216</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://visir.is/danski-islendingurinn-er-markahaestur-i-thysku-deildinni/article/2012120919124</errorlang> Danski landsliðsmaðurinn <errorlang correct="dan">Hans Lindberg</errorlang> hefur byrjað vel í þýsku úrvalsdeildinni í handbolta á þessu tímabili og er markahæsti leikmaður deildarinnar eftir leiki helgarinnar. Foreldrar <errorort correct="Hans" errorinfo="typo,stem,1-0">Hanes</errorort>eru eins og kunnugt er báðir íslenskir en <errorlang correct="dan">Lindberg</errorlang> er uppalinn í Danmörku.</p>

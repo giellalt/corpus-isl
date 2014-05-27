@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="isl" id="no_id">
   <header>
     <title/>
@@ -6,13 +5,14 @@
     <author>
       <unknown/>
     </author>
+    <wordcount>263</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://visir.is/fengu-taeplega-200-milljonir-krona-fra-throtabui-glitnis-/article/2012120929381</errorlang> Lögmennirnir Páll Eiríksson og Steinunn Guðbjartsdóttir fengu tæplega 200 milljónir króna frá þrotabúi Glitnis í fyrra vegna vinnu sinnar fyrir slitastjórn bankans. Samanlagðar greiðslur til þeirra beggja, með útseldri vinnu fulltrúa á þeirra vegum, hafa numið meira en 850 milljónum króna frá árinu 2009.</p>

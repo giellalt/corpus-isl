@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="isl" id="no_id">
   <header>
     <title/>
@@ -6,13 +5,14 @@
     <author>
       <unknown/>
     </author>
+    <wordcount>228</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://visir.is/iphone-5-kominn-ut--lengri,-lettari-og-thynnri/article/2012120919629</errorlang> „Það er bara bomba komin inn á markaðinn. Þeir hafa komið okkur á óvart og sýnt að þeir geta gert miklu öflugri og betri græju - en hafa hana þó léttari og þynnri sem er eitthvað sem aðrir <errorort correct="framleiðendur" errorinfo="typo,der,0-1">framleiðndur</errorort> hafa ekki verið að gera," segir Björgvin Björgvinsson, sérfræðingur hjá Epli.is, í samtali við Reykjavík síðdegis á Bylgjunni.</p>

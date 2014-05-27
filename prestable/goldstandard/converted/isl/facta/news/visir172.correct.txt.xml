@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="isl" id="no_id">
   <header>
     <title/>
@@ -6,13 +5,14 @@
     <author>
       <unknown/>
     </author>
+    <wordcount>82</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://www.visir.is/fundu-likamsleifar-hermanns-um-100-arum-eftir-ad-hann-fell/article/2012120929357</errorlang> Búið er að bera kennsl á líkamsleifar sem fundust fyrr í ár í Belgíu. Um er að ræða nýsjálenskan hermann sem féll í fyrri <errorort correct="heimsstyrjöldinni" errorinfo="meta,stem,ry-yr;typo,stem,1-2">heimstryjöldinni</errorort> fyrir nærri 100 árum síðan.</p>

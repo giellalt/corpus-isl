@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="isl" id="no_id">
   <header>
     <title/>
@@ -6,13 +5,14 @@
     <author>
       <unknown/>
     </author>
+    <wordcount>77</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://www.visir.is/studningsmenn-romney-gaetu-verid-i-haettu/article/2012120829729</errorlang> Hætta getur stafað af hitabeltisstorminum <errorlang correct="eng">Isaac</errorlang>, sem nú er að myndast á <errorlex correct="Karíbahafinu" errorinfo="x">karabískahafinu</errorlex>, fyrir Flórída-ríki í Bandaríkjunum í næstu viku. Samkvæmt mælingum veðurfræðinga verður stormurinn orðinn að fellibyl á næstu dögum.</p>

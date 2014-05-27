@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="isl" id="no_id">
   <header>
     <title/>
@@ -6,13 +5,14 @@
     <author>
       <unknown/>
     </author>
+    <wordcount>296</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://visir.is/margir-fa-kransaedastiflu-an-thess-ad-hafa-hugmynd-um-thad/article/2012120909266</errorlang> Svokölluð þögul hjartaáföll eru stærra vandamál en áður hefur verið talið. Þetta leiðir ný rannsókn, sem unnin var hér á landi, í ljós.</p>
@@ -24,6 +24,6 @@
     <p>„Oft þegar maður ræðir við fólk þá man það eftir að hafa fengið sérstaklega slæma flensu eða eitthvað svoleiðis og það áttar sig bara ekki á einkennunum," segir Vilmundur.</p>
     <p>Hann brýnir því fyrir fólki að hika aldrei við að leita til læknis.</p>
     <p>„Ef <errorsyn correct="0">að</errorsyn> fólk er með einhver einkenni, <errorort correct="þyngsl" errorinfo="meta,stem,ls-sl">þyngls</errorort> fyrir brjósti sérstaklega áreynslubundið, verk út í handleggi, þá á það ekkert að hika við að leita til læknis. Við viljum frekar sjá of marga en of fáa," segir hann.</p>
-    <p></p>
+    <p/>
   </body>
 </document>

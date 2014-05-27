@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="isl" id="no_id">
   <header>
     <title/>
@@ -6,13 +5,14 @@
     <author>
       <unknown/>
     </author>
+    <wordcount>184</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://visir.is/evroputhingid-samthykkir-vidskiptathvinganir-gegn-islendingum/article/2012120919649</errorlang> Evrópuþingið samþykkti í dag að beita Íslendinga og Færeyinga viðskiptaþvingunum vegna makríldeilunnar, eftir því sem fram kemur í fréttum BBC. Íslendingar og Færeyingar hafa verið gagnrýndir harðlega á síðustu dögum fyrir of miklar veiðar úr makrílstofninum og er talið að þær séu ósjálfbærar.</p>

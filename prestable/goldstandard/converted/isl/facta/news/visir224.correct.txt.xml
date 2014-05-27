@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="isl" id="no_id">
   <header>
     <title/>
@@ -6,13 +5,14 @@
     <author>
       <unknown/>
     </author>
+    <wordcount>179</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://visir.is/forseti-althingis-thrystir-a-rikisendurskodun/article/2012120928991</errorlang> Ásta Ragnheiður Jóhannesdóttir, forseti Alþingis, krefst þess að Ríkisendurskoðun ljúki við skýrslu í lok október næstkomandi sem stofnuninni var falið að gera í apríl 2004. Umrædd skýrsla snýst um kaup ríkisins á fjárhags- og mannauðskerfinu <errorlang correct="eng">Oracle</errorlang> á árinu 2001, innleiðingu kerfisins og rekstur þess síðan þá. Umrædd skýrsla hefur verið töluvert til umfjöllunar í vikunni eftir <errorort correct="Kastljóssþátt" errorinfo="meta,stem,jl-lj">Kastjlóssþátt</errorort> á mánudaginn þar sem fram kom að kostnaður vegna kerfisins hefði verið miklu meiri en talið var.</p>

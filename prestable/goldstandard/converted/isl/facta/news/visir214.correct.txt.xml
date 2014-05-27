@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="isl" id="no_id">
   <header>
     <title/>
@@ -6,13 +5,14 @@
     <author>
       <unknown/>
     </author>
+    <wordcount>328</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://visir.is/-aefir-eins-lengi-og-likaminn-leyfir-/article/2012309289980</errorlang> Dýrfirðingurinn Karen Lind Richardsdóttir vann sigur á Íslandsmeistaramótinu í fitness um síðustu páska og með því öðlaðist hún þáttökurétt á einu virtasta <errorlex correct="foreign,eng">fitness</errorlex> og vaxtarræktarmóti heims, <errorlang correct="eng">Arnold Classic</errorlang>. Karen heldur til Spánar í byrjun október en mótið verður haldið í Madrid 12. október nk. Eftir langt tímabil stífra æfinga þar sem hún tónar líkamann og byggir upp vöðvamassa hefst nú svokallaður niðurskurður, þar sem fita og vökvi eru þvinguð í burtu með ýmsum aðferðum. „Ég er að byrja niðurskurðinn núna, þá borða lítið af kolvetni, mikinn fisk, kjúkling og eggjahvítur. Þegar nær dregur klippi ég meira af <errorort correct="mataræðinu" errorinfo="typo,stem,2-1">matarræðinu</errorort> og svo fara síðustu dagarnir fyrir mót í vatnslosun,“ segir Karen.</p>

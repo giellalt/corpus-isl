@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="isl" id="no_id">
   <header>
     <title/>
@@ -6,13 +5,14 @@
     <author>
       <unknown/>
     </author>
+    <wordcount>343</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://visir.is/viglundur--arion-gerdi-lista-yfir-fyrirtaeki-til-ad-hafa-avinning-af/article/2012120829918</errorlang> Ljóst er að skuldunautum Arion banka var mismunað í uppgjöri við bankann eftir efnahagshrunið, segir Víglundur Þorsteinsson, fyrrverandi forstjóri BM Vallár. Hann segir að stjórnvöld hafi ekki farið eftir reglum neyðarlaganna, sem ríkisstjórn Geirs H. <errorsyn correct=" setti" errorinfo="x">Haarde</errorsyn>. Líklegt sé að ráðherrar í ríkisstjórn Jóhönnu Sigurðardóttur og Steingríms J. Sigfússonar, einstakir starfsmenn nýju bankanna og skilanefnda hafi gerst brotlegir við ýmis ákvæði íslenskra laga.</p>
@@ -21,6 +21,6 @@
     <p>Víglundur segir að staða Gamla Kaupþings gagnvart Nýja Kaupþingi hafi verið miklu verri en staða hinna gömlu bankanna samkvæmt skýrslu fjármálaráðherra. Skilanefnd Kaupþings hafi skuldað nýja bankanum 38 milljarða en í hinum bönkunum hafi staðan verið sú að nýju bankarnir skulduðu þeim gömlu. Í skýrslunni sé því lýst hvernig íslenska ríkið afhenti skilanefnd Kaupþings, sem fulltrúa erlendra kröfuhafa, nýja bankann og <errormorphsyn correct="gaf" errorinfo="x">gefið</errormorphsyn> ekkert jafnræði hafi verið gagnvart skuldurum heldur hafi verið sótt að þeim sem fengur var í, einstaklingum jafnt sem fyrirtækjum.</p>
     <p>Með þessu verklagi sé líklegt að ráðherrar, einstakir starfsmenn nýju bankanna og skilanefndanna hafi gerst brotlegir við ýmis ákvæði íslenskra laga sem refsingar eru lagðar við.</p>
     <p>Víglundur segir að full ástæða sé til þess að þetta mál verði <errormorphsyn correct="skoðuð" errorinfo="x">skoða</errormorphsyn> mun betur og hann hafi þegar óskað skriflega eftir nánari upplýsingum frá fjármálaráðuneytinu.</p>
-    <p></p>
+    <p/>
   </body>
 </document>

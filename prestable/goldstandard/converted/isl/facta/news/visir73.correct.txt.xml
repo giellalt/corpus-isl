@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="isl" id="no_id">
   <header>
     <title/>
@@ -6,13 +5,14 @@
     <author>
       <unknown/>
     </author>
+    <wordcount>364</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://www.visir.is/rannsokn-i-bokkunum-logd-til-hlidar---augljos-osannindi/article/2012120909414</errorlang> Lögreglan á höfuðborgarsvæðinu hefur lagt rannsókn á meintri árás í Bökkunum um helgina til hliðar þar sem augljóslega er um ósannindi að ræða. Í samtali við lögreglu kemur fram að maðurinn verður ekki kærður fyrir að gefa ranga skýrslu en <errorsyn correct="málið er">málið</errorsyn> þó litið alvarlegum augum.</p>

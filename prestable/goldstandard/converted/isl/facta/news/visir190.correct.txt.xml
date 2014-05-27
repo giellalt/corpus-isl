@@ -1,4 +1,3 @@
-<!DOCTYPE document PUBLIC "-//UIT//DTD Corpus V1.0//EN" "http://giellatekno.uit.no/dtd/corpus.dtd">
 <document xml:lang="isl" id="no_id">
   <header>
     <title/>
@@ -6,13 +5,14 @@
     <author>
       <unknown/>
     </author>
+    <wordcount>302</wordcount>
     <availability>
       <license type="standard"/>
     </availability>
     <metadata>
       <uncomplete/>
     </metadata>
-    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision: 68074 $; </version>
+    <version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version>
   </header>
   <body>
     <p><errorlang correct="url">http://www.visir.is/-allir-leggjast-a-eitt-/article/2012309299998</errorlang> Íbúar í Strandabyggð hafa sannarlega fengið tækifæri til að lifa heilsusamlegra lífi í septembermánuði, en heilsueflingarátak hefur staðið yfir í mánuðinum. Að sögn Ingibjargar Benediktsdóttur, forsprakka heilsuátaksins, hafa stofnanir, verslanir og fyrirtæki í sveitarfélaginu lagst á eitt til að auðvelda heimamönnum verkefnið. „Það hafa allir tekið höndum saman og lagst á eitt, <errorsyn correct="annaðhvort">annað hvort</errorsyn> í formi styrkja eða með því að gefa afslátt af vörum og þjónustu tengdum heilsueflingu<errorsyn correct=",“">“</errorsyn> segir Ingibjörg, en átakið mun standa fram í október.</p>
