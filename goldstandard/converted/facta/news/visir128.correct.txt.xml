@@ -1,4 +1,10 @@
-<document xml:lang="isl" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>56</wordcount><conversion_status type="correct"/><availability><free/></availability><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><errorlang>http://www.visir.is/rihanna-a-strippklubb/article/2012120929660<correct>url</correct></errorlang> <errorlex>Barbados-bjútíið<correct>foreign,eng</correct></errorlex> <errorlang>Rihanna<correct>eng</correct></errorlang> ákvað að skella sér á <errorlex>strippklúbb<correct errorinfo="foreign,eng">nektardansstaður</correct></errorlex> í vikunni og deildi auðvitað reynslu sinni á <errorlang>Twitter<correct>eng</correct></errorlang>.</p>
+<document xml:lang="isl" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>56</wordcount><conversion_status type="correct"/><availability><free/></availability><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p><errorlang>http://www.visir.is/rihanna-a-strippklubb/article/2012120929660<correct>url</correct></errorlang></p>
+<p><errorlex>Barbados-bjútíið<correct>foreign,eng</correct></errorlex> <errorlang>Rihanna<correct>eng</correct></errorlang> ákvað að skella sér á <errorlex>strippklúbb<correct errorinfo="foreign,eng">nektardansstaður</correct></errorlex> í vikunni og deildi auðvitað reynslu sinni á <errorlang>Twitter<correct>eng</correct></errorlang>.</p>
+<p></p>
 <p>Sumum finnst <errorlang>Rihanna<correct>eng</correct></errorlang> hafa farið aðeins yfir strikið þar sem hún setti inn mynd af <errorort>hálfnaktri<correct errorinfo="infl">hálfnakinni</correct></errorort> <errorortreal>nektardansmær<correct errorinfo="infl">nektardansmey</correct></errorortreal>.</p>
+<p></p>
 <p>Þetta er ekki í fyrsta sinn sem <errorlang>Rihanna<correct>eng</correct></errorlang> heimsækir nektardansstað en hún fór á einn slíkan í maí á þessu ári.</p>
+<p></p>
 </body></document>

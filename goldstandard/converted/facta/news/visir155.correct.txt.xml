@@ -1,3 +1,7 @@
-<document xml:lang="isl" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>54</wordcount><conversion_status type="correct"/><availability><free/></availability><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><errorlang>http://visir.is/eldur-i-potti-og-gridarlega-mikid-um-sjukraflutninga/article/2012120929375<correct>url</correct></errorlang> Eldur kom upp í potti fyrir stundu á heimili á Miklubraut. Slökkviliðið á höfuðborgarsvæðinu var kallað til en reykræsta þurfti íbúðina.</p>
+<document xml:lang="isl" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>54</wordcount><conversion_status type="correct"/><availability><free/></availability><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p><errorlang>http://visir.is/eldur-i-potti-og-gridarlega-mikid-um-sjukraflutninga/article/2012120929375<correct>url</correct></errorlang></p>
+<p>Eldur kom upp í potti fyrir stundu á heimili á Miklubraut. Slökkviliðið á höfuðborgarsvæðinu var kallað til en reykræsta þurfti íbúðina.</p>
+<p></p>
 <p>Mikið hefur verið að gera hjá slökkviliðinu í dag en þar <errormorphsyn>bera<correct>ber</correct></errormorphsyn> hæst um 70 <errormorphsyn>sjúkraflutningar<correct>sjúkraflutninga</correct></errormorphsyn> sem er ansi mikið. Um er að ræða <errorort>allskonar<correct errorinfo="cmp,dem+adv,1-2">alls konar</correct></errorort> tilfelli allt frá veikindum til slysa.</p>
 </body></document>

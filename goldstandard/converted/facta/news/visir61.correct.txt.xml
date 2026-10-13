@@ -1,9 +1,34 @@
-<document xml:lang="isl" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>141</wordcount><conversion_status type="correct"/><availability><free/></availability><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><errorlang>http://visir.is/kvennalandslidid-valid-fyrir-tekklandsmot/article/2012120909454<correct>url</correct></errorlang> Ágúst Þór Jóhannsson, landsliðsþjálfari í handbolta, hefur valið sextán leikmenn í íslenska landsliðið sem tekur þátt í æfingamóti í Tékklandi dagana 13.-15. september.</p>
+<document xml:lang="isl" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>141</wordcount><conversion_status type="correct"/><availability><free/></availability><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 64438 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p><errorlang>http://visir.is/kvennalandslidid-valid-fyrir-tekklandsmot/article/2012120909454<correct>url</correct></errorlang></p>
+<p>Ágúst Þór Jóhannsson, landsliðsþjálfari í handbolta, hefur valið sextán leikmenn í íslenska landsliðið sem tekur þátt í æfingamóti í Tékklandi dagana 13.-15. september.</p>
+<p></p>
 <p>Einn nýliði er í hópnum en það er HK-ingurinn Heiðrún Björk Helgadóttir. <errorort>Karolína<correct errorinfo="vow,stem,a-á">Karólína</correct></errorort> Lárudóttir, leikmaður Vals, er einnig í hópnum en hún á einn landsleik að baki.</p>
+<p></p>
 <p>Það vantar þó marga sterka leikmenn í hópnum og flesta þá sem spila sem atvinnumenn í Evrópu. Meðal þeirra má nefna Karen Knútsdóttur, Örnu Sif Pálsdóttur, Þóreyju Rósu Stefánsdóttur og Rut Jónsdóttur.</p>
+<p></p>
 <p>Íris Ásta Pétursdóttir, leikmaður norska liðsins <errorlang>Gjövik<correct>nor</correct></errorlang> HK, er eini atvinnumaðurinn í hópnum.</p>
+<p></p>
 <p>Markverðir:</p>
-<p>Guðný Jenný Ásmundsdóttir, Val Sunneva Einarsdóttir, Stjörnunni</p>
+<p></p>
+<p>Guðný Jenný Ásmundsdóttir, Val</p>
+<p>Sunneva Einarsdóttir, Stjörnunni</p>
+<p></p>
 <p>Aðrir leikmenn:</p>
-<p>Anna Úrsúla Guðmundsdóttir Ásta Birna Gunnardóttir Dagný Skúladóttir Elísabet Gunnarsdóttir Hanna Guðrún Stefánsdóttir Heiðrún Björk Helgadóttir Hrafnhildur Skúladóttir Íris Ásta Pétursdóttir <errorort>Karolína<correct errorinfo="vow,stem,a-á">Karólína</correct></errorort> <errorort>Lárudótir<correct errorinfo="typo,stem,1-2">Lárudóttir</correct></errorort> Ragnhildur Rósa Guðmundsdóttir Sigurbjörg Jóhannsdóttir Stella Sigurðardóttir Sunna Jónsdóttir Þorgerður Anna Atladóttir</p>
+<p></p>
+<p>Anna Úrsúla Guðmundsdóttir</p>
+<p>Ásta Birna Gunnardóttir</p>
+<p>Dagný Skúladóttir</p>
+<p>Elísabet Gunnarsdóttir</p>
+<p>Hanna Guðrún Stefánsdóttir</p>
+<p>Heiðrún Björk Helgadóttir</p>
+<p>Hrafnhildur Skúladóttir</p>
+<p>Íris Ásta Pétursdóttir</p>
+<p><errorort>Karolína<correct errorinfo="vow,stem,a-á">Karólína</correct></errorort> <errorort>Lárudótir<correct errorinfo="typo,stem,1-2">Lárudóttir</correct></errorort></p>
+<p>Ragnhildur Rósa Guðmundsdóttir</p>
+<p>Sigurbjörg Jóhannsdóttir</p>
+<p>Stella Sigurðardóttir</p>
+<p>Sunna Jónsdóttir</p>
+<p>Þorgerður Anna Atladóttir</p>
+<p></p>
 </body></document>
